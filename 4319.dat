@@ -1,0 +1,1443 @@
+1	2016-03-30 02:51:29.70383+00	2	Alola	1	Added.	4	1
+2	2016-03-30 02:51:44.30326+00	2	Alola	2	Changed is_staff and is_superuser.	4	1
+3	2016-03-31 07:28:16.052438+00	3	Fongtil	1	Added.	4	1
+4	2016-03-31 07:28:25.330463+00	3	Fongtil	2	Changed is_staff and is_superuser.	4	1
+5	2016-03-31 08:07:56.559379+00	1	timordata.info	2	Changed domain and name.	45	1
+6	2016-03-31 08:08:58.729186+00	1	/history/ -- history	1	Added.	46	1
+7	2016-03-31 08:13:41.506007+00	2	localhost	1	Added.	45	1
+8	2016-03-31 08:13:50.29278+00	1	/history/ -- history	2	Changed sites.	46	1
+9	2016-03-31 08:13:55.064243+00	1	/history/ -- history	2	Changed sites.	46	1
+10	2016-03-31 08:15:46.237523+00	2	/about/ -- About Us	1	Added.	46	2
+11	2016-03-31 08:18:06.554375+00	2	/about/ -- About Us	2	Changed template_name.	46	2
+12	2016-03-31 08:45:10.582954+00	1	/history/ -- history	2	Changed content.	46	2
+45	2016-03-31 13:25:04.903938+00	3	/about_tet/ -- Test	1	Added.	46	2
+46	2016-03-31 13:33:20.412299+00	3	/about/tet/ -- Test	2	Changed url.	46	2
+47	2016-03-31 13:34:57.829969+00	3	/about/tet/ -- Kona Ba Ami	2	Changed title and content.	46	2
+48	2016-03-31 13:35:36.817941+00	3	/about/tet/ -- Kona Ba Ami	2	Changed template_name.	46	2
+49	2016-03-31 14:06:09.287987+00	4	/help/ -- Help	1	Added.	46	2
+50	2016-03-31 14:08:45.148383+00	4	/help/ -- Help	2	Changed content.	46	2
+51	2016-04-12 06:28:21.537628+00	4	Jeny	1	Added.	4	1
+52	2016-04-12 06:28:34.993543+00	4	Jeny	2	Changed is_staff and is_superuser.	4	1
+53	2016-04-15 05:01:23.275663+00	53	Sector	2	No fields changed.	22	1
+54	2016-04-15 05:02:00.4552+00	59	Joshua Brooks	1	Added.	22	1
+55	2016-04-15 05:05:44.994948+00	59	Joshua Brooks	3		22	1
+56	2016-04-15 05:06:46.694488+00	60	Human Trafficking	1	Added.	22	1
+57	2016-04-15 05:07:22.744144+00	60	Human Trafficking	2	Changed name_tet and description_tet.	22	1
+58	2016-04-15 05:08:27.505986+00	60	Human Trafficking	2	No fields changed.	22	1
+59	2016-04-18 07:34:35.552136+00	5	zina	1	Added.	4	4
+60	2016-04-19 02:11:49.431397+00	6	Aldo	1	Added.	4	1
+61	2016-04-19 02:11:58.022084+00	6	Aldo	2	Changed is_staff and is_superuser.	4	1
+63	2016-04-21 05:30:12.311627+00	2489	CODIVA	3		19	4
+64	2016-04-21 06:20:26.027142+00	1047	Jesuit Social Service (JSS)	3		19	4
+65	2016-04-21 06:45:04.166503+00	92	Bibi Bulak (Grupo Arte Dramatiku no Musika)	3		19	4
+66	2016-04-21 06:54:40.543924+00	1208	Centro Direitu Ekonomiku Sosial Kultural (F-DESK)	2	Changed active.	19	4
+67	2016-04-21 07:18:52.094096+00	181	Comite Nasional Directo das Criansas Timor-Leste (CNCDTL)	2	Changed active.	19	4
+68	2016-04-27 05:03:07.309139+00	999	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)	2	Changed phoneprimary.	19	4
+69	2016-04-27 05:54:25.065427+00	27	Arte Moris Free Art School Not for Profit	2	Changed active.	19	4
+70	2016-04-27 07:12:31.585701+00	3428	Responde ba moras HIV iha komunidade mane ne'ebe mak halo relasaun seksual ho mane no ema transjeneru, Dili	2	Changed place and description.	31	4
+71	2016-04-27 07:47:27.505323+00	3430	Responde ba moras HIV iha komunidade mane ne'ebe mak halo relasaun seksual ho mane no ema transjeneru, Aileu	2	Changed place.	31	4
+72	2016-04-27 08:17:17.055477+00	17	Proposta Fundus Kiik	2	Changed description, conditions and application_end_date.	7	4
+73	2016-04-28 00:30:30.23656+00	19	Japan’s Grant Assistance for Grass-roots Human Security Projects (GGP)	1	Added.	7	4
+74	2016-04-28 00:37:12.929522+00	19	Japan’s Grant Assistance for Grass-roots Human Security Projects (GGP)	2	Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object".	7	4
+75	2016-04-28 00:44:37.298478+00	19	Japan’s Grant Assistance for Grass-roots Human Security Projects (GGP)	2	Changed description.	7	4
+76	2016-04-28 01:48:17.461754+00	20	Fundo de Pequenos Projetos da Embaixada de Portugal em Díli	1	Added. Added funding offer document "FundingOfferDocument object".	7	4
+77	2016-04-28 06:05:50.39077+00	19	Japan’s Grant Assistance for Grass-roots Human Security Projects (GGP)	2	No fields changed.	7	4
+78	2016-04-28 07:08:03.034339+00	19	Japan’s Grant Assistance for Grass-roots Human Security Projects (GGP)	2	Changed sector and activity.	7	4
+79	2016-04-28 07:11:32.635676+00	61	All Community in rural areas	1	Added.	22	4
+80	2016-04-28 07:17:57.820617+00	61	Community in rural areas	2	Changed name, name_en, description and description_en.	22	4
+81	2016-04-28 07:19:00.382206+00	61	Community in rural areas	2	Changed path.	22	4
+82	2016-04-28 07:19:53.502385+00	19	Japan’s Grant Assistance for Grass-roots Human Security Projects (GGP)	2	Changed beneficiary.	7	4
+83	2016-04-28 07:28:17.519497+00	20	Fundo de Pequenos Projetos da Embaixada de Portugal em Díli	2	Changed file for funding offer document "FundingOfferDocument object".	7	4
+84	2016-04-28 07:29:20.026974+00	20	Fundo de Pequenos Projetos da Embaixada de Portugal em Díli	2	Changed sector.	7	4
+85	2016-04-28 07:30:42.173367+00	20	Fundo de Pequenos Projetos da Embaixada de Portugal em Dili	2	Changed title.	7	4
+86	2016-04-29 01:00:40.584413+00	4	Asia Foundation Funding	2	Changed description, conditions and application_end_date.	7	4
+87	2016-04-29 02:44:02.913905+00	20	Fundo de Pequenos Projetos da Embaixada de Portugal em Dili	2	Changed description. Added funding offer document "FundingOfferDocument object".	7	4
+88	2016-04-29 02:44:44.874739+00	20	Fundo de Pequenos Projetos da Embaixada de Portugal em Dili	2	No fields changed.	7	4
+89	2016-04-29 02:46:36.869247+00	20	Fundo de Pequenos Projetos da Embaixada de Portugal em Dili	2	Changed file for funding offer document "FundingOfferDocument object".	7	4
+90	2016-04-29 02:48:14.551893+00	20	Fundo de Pequenos Projetos da Embaixada de Portugal em Dili	2	No fields changed.	7	4
+91	2016-04-29 02:49:26.463106+00	20	Fundo de Pequenos Projetos da Embaixada de Portugal em Dili	2	No fields changed.	7	4
+92	2016-04-29 02:59:56.113433+00	20	Fundo de Pequenos Projetos da Embaixada de Portugal em Dili	2	Changed amount.	7	4
+93	2016-05-02 06:44:30.997738+00	21	UNDP calls for proposals to establish Early Warning Systems in Timor-Leste	1	Added.	7	4
+94	2016-05-02 06:46:52.922294+00	21	UNDP calls for proposals to establish Early Warning Systems in Timor-Leste	2	Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object".	7	4
+95	2016-05-02 06:49:06.533241+00	21	UNDP calls for proposals to establish Early Warning Systems in Timor-Leste	2	Changed sector and beneficiary.	7	4
+167	2016-05-17 00:09:31.930143+00	1634	Isabel Amaral Guterres	3		21	4
+168	2016-05-17 00:19:59.831383+00	3901	Luduvina Fernandes	3		21	4
+169	2016-05-17 00:42:43.424921+00	2164	Fundasaun Hakbiít Malu (FUNHAM)	2	Changed active.	19	4
+96	2016-05-03 00:51:50.302697+00	19	Japan’s Grant Assistance for Grass-roots Human Security Projects (GGP)	2	Changed amount. Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object". Changed file and description for funding offer document "FundingOfferDocument object". Deleted funding offer document "FundingOfferDocument object".	7	4
+97	2016-05-03 00:55:25.489758+00	19	Japan’s Grant Assistance for Grass-roots Human Security Projects (GGP)	2	Added funding offer document "FundingOfferDocument object". Changed file and description for funding offer document "FundingOfferDocument object". Changed description for funding offer document "FundingOfferDocument object". Changed file and description for funding offer document "FundingOfferDocument object".	7	4
+98	2016-05-03 01:04:07.048162+00	19	Japan’s Grant Assistance for Grass-roots Human Security Projects (GGP)	2	Changed description for funding offer document "FundingOfferDocument object".	7	4
+99	2016-05-03 01:07:41.151762+00	19	Japan’s Grant Assistance for Grass-roots Human Security Projects (GGP)	2	Changed file for funding offer document "FundingOfferDocument object". Deleted funding offer document "FundingOfferDocument object".	7	4
+100	2016-05-03 01:11:43.834527+00	19	Japan’s Grant Assistance for Grass-roots Human Security Projects (GGP)	2	Changed description.	7	4
+101	2016-05-03 01:12:22.182812+00	19	Japan’s Grant Assistance for Grass-roots Human Security Projects (GGP)	2	No fields changed.	7	4
+102	2016-05-03 01:40:39.652593+00	21	UNDP calls for proposals to establish Early Warning Systems in Timor-Leste	2	Changed application_end_date.	7	4
+103	2016-05-03 02:16:33.615223+00	21	UNDP calls for proposals to establish Early Warning Systems in Timor-Leste	2	Changed application_end_date and all_districts.	7	4
+104	2016-05-03 02:20:59.383897+00	19	Japan’s Grant Assistance for Grass-roots Human Security Projects (GGP)	2	Changed file for funding offer document "FundingOfferDocument object". Changed file for funding offer document "FundingOfferDocument object". Changed file for funding offer document "FundingOfferDocument object". Changed file for funding offer document "FundingOfferDocument object".	7	4
+105	2016-05-05 05:25:37.960325+00	1197	Associasao Estudante Caiju Laran (AEJEC)	2	Changed active.	19	4
+106	2016-05-05 05:32:17.265078+00	2492	Aileba	2	Changed active.	19	4
+107	2016-05-05 05:42:34.70796+00	91	Bia Rema	2	Changed active.	19	4
+108	2016-05-05 05:44:31.7786+00	130	Centro Dezenvolvimento Popular  CDP (INURITIL)	2	Changed active.	19	4
+109	2016-05-05 05:46:30.293864+00	2179	Conselho Juventude Distrital Viqueque	2	Changed active.	19	4
+110	2016-05-05 05:47:33.058042+00	222	Dezenvolve Soseidade Timor Leste (DSTL)	2	Changed active.	19	4
+111	2016-05-05 05:48:14.138491+00	241	East Timor Crisis Reflection Network (ETCRN)	2	Changed active.	19	4
+112	2016-05-05 05:49:06.831573+00	274	Esperanca	2	Changed active.	19	4
+113	2016-05-05 05:49:43.303486+00	1100	Fitun Naroman (FINA)	2	Changed active.	19	4
+114	2016-05-05 05:50:37.209302+00	1161	Font of Timorese at the Nation Wide (FONTANA)	2	Changed active.	19	4
+115	2016-05-05 05:51:50.980031+00	865	Dom Bosco Training Center Timor Leste	2	Changed active.	19	4
+116	2016-05-05 05:59:01.595572+00	354	Fundasaun Amizade Comunidade (FAC)	2	Changed active.	19	4
+117	2016-05-05 05:59:52.157989+00	2372	Fundasaun Bethesda Timor Leste (FBTL)	2	Changed active.	19	4
+118	2016-05-05 06:01:04.109+00	360	Fundasaun Cameli Mor (FCM)	2	Changed active.	19	4
+119	2016-05-05 06:01:54.193085+00	327	Fundasaun Cultura Timor Loro Sae (Le-Ziaval)	2	Changed active.	19	4
+120	2016-05-05 06:03:07.70749+00	2334	Fundasaun Dezenvolvimento Comunitaria (FUDECO)	2	Changed active.	19	4
+121	2016-05-05 06:04:07.012957+00	1336	Fundasaun Esperansa Enclave Oe-cusse (FEEO)	2	Changed active.	19	4
+122	2016-05-05 06:04:54.235149+00	2150	Fundasaun Haksolok (FUHAC)	2	Changed active.	19	4
+123	2016-05-05 06:06:25.652322+00	340	Fundasaun Halibur Feto Enclave (FHFE)	2	Changed active.	19	4
+124	2016-05-05 06:07:11.482556+00	1214	Fundasaun Hamahon Povu nia Moris (HAPRIS)	2	Changed active.	19	4
+125	2016-05-05 06:07:53.648524+00	379	Fundasaun Lifau We'e Suli (FLWS)	2	Changed active.	19	4
+126	2016-05-05 06:53:38.215593+00	3	Fongtil	2	Changed password.	4	1
+127	2016-05-05 06:54:51.20864+00	3	Fongtil	2	Changed password.	4	3
+128	2016-05-11 08:03:19.363088+00	1858	Agapito da Silva	3		21	4
+129	2016-05-11 08:05:19.848611+00	4798	Bertanizo Guro	3		21	4
+130	2016-05-11 08:07:00.978693+00	5953	Zina	3		21	4
+131	2016-05-11 08:07:00.986452+00	5952	Zina	3		21	4
+132	2016-05-11 08:07:00.990749+00	5951	Zina	3		21	4
+133	2016-05-11 08:07:00.993585+00	5950	Zina	3		21	4
+134	2016-05-11 08:07:00.996361+00	5948	Zina	3		21	4
+135	2016-05-11 08:07:00.999168+00	5949	Zona	3		21	4
+136	2016-05-11 08:07:47.045754+00	2266	Vicente das Neves	3		21	4
+137	2016-05-11 08:08:17.097858+00	5143	Vicente das Neves	3		21	4
+138	2016-05-13 02:13:12.637214+00	2483	Jeny's Organization	3		19	4
+139	2016-05-13 02:22:16.305333+00	2484	New Organization	3		19	4
+140	2016-05-13 02:22:16.466566+00	2449	New Organization	3		19	4
+141	2016-05-13 02:22:16.468745+00	2447	New Organization	3		19	4
+142	2016-05-13 02:22:16.470386+00	2446	New Organization	3		19	4
+143	2016-05-13 02:22:16.47214+00	2445	New Organization	3		19	4
+144	2016-05-13 02:22:16.473685+00	2444	New Organization	3		19	4
+145	2016-05-13 02:22:16.475231+00	2443	New Organization	3		19	4
+146	2016-05-13 02:22:16.47685+00	2442	New Organization	3		19	4
+147	2016-05-16 05:47:05.607154+00	5137	Rofina Aifunan	3		21	4
+148	2016-05-16 05:47:05.688349+00	4763	Rofina Aifunan	3		21	4
+149	2016-05-16 05:50:28.968525+00	4747	Alipio do Santos	2	Changed title.	21	4
+150	2016-05-16 05:56:30.364673+00	5999	Eligio Gusmao	1	Added.	21	4
+151	2016-05-16 06:18:58.175527+00	5662	Martinho da Costa	2	Changed title.	21	4
+152	2016-05-16 06:20:17.469425+00	6000	Manuel Gaspar da Costa	1	Added.	21	4
+153	2016-05-16 06:41:12.927079+00	5793		3		21	4
+154	2016-05-16 06:41:12.982531+00	2584		3		21	4
+155	2016-05-16 06:41:13.02589+00	1641		3		21	4
+156	2016-05-16 06:46:59.493486+00	2506	Duarte Lima Marchal	3		21	4
+157	2016-05-16 06:57:19.137909+00	5062	Ex.Leonardo do Santos	2	Changed name.	21	4
+158	2016-05-16 06:59:27.155096+00	5058	Veronica Menezes Brites	3		21	4
+159	2016-05-16 07:01:11.330528+00	6001	Domingos Savio Henrique Madeira	1	Added.	21	4
+160	2016-05-16 07:02:11.621822+00	6002	Mariano Martins Gomes	1	Added.	21	4
+161	2016-05-16 07:03:19.501591+00	2505	Daniel Santos do Carmo	2	Changed title.	21	4
+162	2016-05-16 07:48:42.960017+00	2659	Elisario Bianco da Costa	2	Changed title.	21	4
+163	2016-05-16 07:50:47.664347+00	2664	Lucinda Bianco	3		21	4
+164	2016-05-16 07:51:27.400339+00	2663	Margoridas Bianco	3		21	4
+165	2016-05-16 07:53:23.639934+00	2661	Octaviana Bianco	3		21	4
+166	2016-05-16 07:55:27.24378+00	6003	Nuno Bianco	1	Added.	21	4
+170	2016-05-17 00:47:28.718064+00	136	Centro Feto Enclave  Oecussi (CFEO)	2	Changed active.	19	4
+171	2016-05-17 00:49:14.922746+00	65	Associasaun Nacional Juventude Cristao Timor Leste (ANJUCTIL/ YMCA)	2	Changed active.	19	4
+172	2016-05-17 02:13:33.837539+00	54	Associasaun Mane Kontra  Violencia (AMKV)	2	Changed active.	19	4
+173	2016-05-17 06:20:07.681013+00	2004	Fundasaun Hakbiit aán ba Dezenvolvimento	2	Changed active.	19	4
+174	2016-05-18 01:34:55.79512+00	2167	Hakbiít Kompetensia Agricultures (HAKIAK)	2	Changed active.	19	4
+175	2016-05-18 02:25:33.888725+00	6004	Judite Marcelina Martins	1	Added.	21	4
+176	2016-05-18 02:51:13.267374+00	2496	Oisca International	1	Added.	19	4
+177	2016-05-18 02:59:31.185007+00	2497	Ministry of Tourism Trade and Industry of Timor-Leste (MTCI)	1	Added.	19	4
+178	2016-05-18 03:08:31.260029+00	3435	Comoro	1	Added.	31	4
+179	2016-05-18 05:17:22.258676+00	1706	Fernando Belo	2	Changed email.	21	4
+180	2016-05-18 05:19:50.382423+00	3436	Baucau	1	Added.	31	4
+181	2016-05-18 05:20:52.59717+00	3436	Micro Credit	2	Changed description.	31	4
+182	2016-05-18 05:22:18.043096+00	3436	Micro Credit	2	No fields changed.	31	4
+183	2016-05-18 05:30:04.282773+00	3436	Micro Credit, Bobonaro	2	Changed place and description.	31	4
+184	2016-05-18 05:31:12.309344+00	3435	Livelihood Programs and Children Program, Dili	2	Changed description.	31	4
+185	2016-05-18 05:32:19.363313+00	3437	Micro Credit, Dili	1	Added.	31	4
+186	2016-05-18 05:34:04.881535+00	3438	Micro Credit, Bobonaro	1	Added.	31	4
+187	2016-05-18 05:34:51.339536+00	3432	Josh added this place!	3		31	4
+188	2016-05-18 05:36:46.098498+00	3438	Maliana, Ritabou	2	Changed description.	31	4
+189	2016-05-18 05:41:00.195388+00	3438	Micro Credit, Bobonaro	2	Changed description.	31	4
+190	2016-05-18 05:44:14.934507+00	3436	Micro Credit, Bobonaro	2	No fields changed.	31	4
+191	2016-05-18 07:09:08.904683+00	2122	Cesaltina Bento Gomes	3		21	4
+192	2016-05-18 07:10:27.537455+00	2351	Cillian Nolan	3		21	4
+193	2016-05-18 07:12:10.870354+00	1943	Domingos Amaral	2	Changed phone.	21	4
+194	2016-05-18 07:13:12.241958+00	2080	Dinorah S. X. Granadero	3		21	4
+195	2016-05-18 07:15:22.946993+00	4362	Domingas Soares	3		21	4
+196	2016-05-18 07:25:56.525412+00	804	Helio Dias da Silva	3		21	4
+197	2016-05-18 07:31:58.593362+00	2675	Selma Hayati	3		21	4
+198	2016-05-18 07:35:17.399808+00	4743	Shopia Cason	3		21	4
+199	2016-05-18 07:38:53.373443+00	5474	Abel Pereira Mauricio	3		21	4
+200	2016-05-18 07:39:18.795871+00	2794	Abel Pereira Mauricio	3		21	4
+201	2016-05-18 07:40:41.394497+00	5130	Abel Pereira Maricio	3		21	4
+202	2016-05-18 07:41:52.666792+00	2771	Abel Pereira Mauricio	3		21	4
+203	2016-05-18 07:43:32.714647+00	5135	Abel Pereira Mouricio	3		21	4
+204	2016-05-18 07:47:14.650263+00	3152	Abilio Sarmento	3		21	4
+205	2016-05-18 07:52:23.972973+00	3153	Abilio Suni	3		21	4
+206	2016-05-18 07:53:46.928347+00	4261	Abrani Manuel	3		21	4
+207	2016-05-18 07:55:07.164711+00	4263	Abrani Manuel	3		21	4
+208	2016-05-19 00:56:16.220106+00	5562	Drew Penland	2	Changed title.	21	4
+209	2016-05-19 01:06:31.509346+00	6006	Carlito da Costa Bobo	1	Added.	21	4
+210	2016-05-19 01:08:02.601238+00	6007	Joao Martins Alves	1	Added.	21	4
+211	2016-05-19 01:33:15.580863+00	5683	Abelita da Silva	2	Changed title.	21	4
+212	2016-05-19 01:33:50.894795+00	3749	Abelita da Silva	3		21	4
+213	2016-05-19 01:35:09.727997+00	5683	Abelita da Silva	2	Changed title.	21	4
+214	2016-05-19 01:42:10.028593+00	2290	Adelia Boavida	3		21	4
+215	2016-05-19 01:44:12.592321+00	5683	Abelita da Silva	2	Changed title and email.	21	4
+216	2016-05-19 02:03:02.516742+00	2498	Plan Germany	1	Added.	19	4
+217	2016-05-19 02:12:43.36955+00	3023	Agustinho Suni	3		21	4
+218	2016-05-19 02:14:45.235099+00	1192	Ajito FERNANDES	3		21	4
+219	2016-05-19 02:16:20.010385+00	5149	Aguida Afonso	3		21	4
+220	2016-05-19 02:36:00.833844+00	6008	Ricar Pasquela dos Santos	1	Added.	21	4
+221	2016-05-19 02:42:31.771386+00	2499	Working Women's Center Timor Leste	3		19	4
+222	2016-05-19 02:51:00.099819+00	4850	Ricar Pasquela dos Santos	2	No fields changed.	21	4
+223	2016-05-19 03:04:36.378423+00	830	Akbar Usmani	3		21	4
+224	2016-05-19 03:07:42.709682+00	5381	Alexandre Henrique Pereira	3		21	4
+225	2016-05-19 03:09:14.669426+00	1591	Alberto SARAMENTO	3		21	4
+226	2016-05-19 03:13:52.756013+00	4536	Agustinha Amaral	3		21	4
+227	2016-05-19 05:32:01.424879+00	2158	Amadeu Santos	3		21	4
+228	2016-05-19 05:35:55.465598+00	4491	Amorino da Costa Sarmento	3		21	4
+229	2016-05-19 05:38:47.875959+00	3174	Anabel de Sousa Lima	3		21	4
+230	2016-05-19 05:39:57.358359+00	2305	Ana Bella de Souza LIMA	3		21	4
+231	2016-05-19 05:41:09.630942+00	5204	Ana Maria Pereira	3		21	4
+232	2016-05-19 05:42:32.248904+00	5727	Ana M. P. da Costa	2	Changed name.	21	4
+233	2016-05-19 05:45:33.183561+00	4181	Anna Mosley	3		21	4
+234	2016-05-19 05:46:25.405037+00	1834	Antoneta Maria dos Santos	3		21	4
+235	2016-05-19 05:47:40.821905+00	4777	Antonio Aby	3		21	4
+236	2016-05-19 05:48:23.65857+00	2036	Antonio B. da Silva	2	Changed name.	21	4
+237	2016-05-19 05:50:29.405701+00	2836	Antonio da Silva	3		21	4
+238	2016-05-19 05:54:32.195164+00	5230	Antonio Soares	3		21	4
+239	2016-05-19 06:01:16.435845+00	5067	Anne Fleur Declercq	2	Changed name.	21	4
+240	2016-05-19 07:31:08.549566+00	5988	Feliciano da Costa Araujo	3		21	4
+241	2016-05-19 07:32:56.151694+00	1664	Augusto Pinto	3		21	4
+242	2016-05-19 07:37:13.535753+00	4262	Augusto Ferriera Soares	3		21	4
+243	2016-05-19 07:38:55.001201+00	4102	Aureo Guterres da Costa	3		21	4
+244	2016-05-19 07:48:27.552064+00	4489	Bartolomeu dos Reis Soares	3		21	4
+245	2016-05-19 07:48:27.576837+00	1975	Bartolomeu dos Reis Soares	3		21	4
+246	2016-05-19 07:50:40.459912+00	3006	Arminda Soares	3		21	4
+247	2016-05-19 07:50:40.506665+00	2929	Arminda Soares	3		21	4
+248	2016-05-19 07:52:24.413259+00	2773	Aurelio da Costa Guterres	3		21	4
+249	2016-05-19 07:54:23.370016+00	5614	Bendita de Jesus Amaral	3		21	4
+250	2016-05-19 07:54:23.392074+00	5610	Bendita de Jesus Amaral	3		21	4
+251	2016-05-19 07:56:02.908783+00	3747	Bendita de Jesus	3		21	4
+252	2016-05-19 07:57:53.563499+00	1959	Benedictos Martins da Costa	3		21	4
+253	2016-05-19 07:58:40.040984+00	2551	Benjamin dos Santos Noronha	3		21	4
+254	2016-05-19 08:01:13.954195+00	1230	Bubu SAHA	3		21	4
+255	2016-05-19 08:01:55.449318+00	409	Bu Wilson	3		21	4
+256	2016-05-19 08:03:03.250091+00	6006	Carlito da Costa Bobo	3		21	4
+257	2016-05-19 08:03:32.441423+00	2309	Feliciano Araujo	2	Changed title.	21	4
+258	2016-05-19 08:05:12.664583+00	1575	Carolyn Tanner	3		21	4
+259	2016-05-24 01:01:27.816995+00	2502	Gabinete do Apoiu Soseidade Sivil	1	Added.	19	4
+260	2016-05-24 02:19:14.786908+00	2503	Departament Of Foreign Affairs and Trade (DFAT)	1	Added.	19	4
+261	2016-05-24 05:27:18.482018+00	6009	Orlanda da Silva	1	Added.	21	4
+262	2016-05-24 05:30:26.054133+00	6009	Orlanda da Silva	2	No fields changed.	21	4
+263	2016-05-24 05:30:45.557273+00	443	Orlanda da Silva	3		21	4
+264	2016-05-24 05:32:35.895351+00	6009	Orlanda da Silva	2	Changed organization.	21	4
+265	2016-05-24 05:34:58.575574+00	274	Esperanca	3		19	4
+266	2016-05-24 05:36:04.026884+00	6009	Orlanda da Silva	2	No fields changed.	21	4
+267	2016-05-24 05:50:32.286713+00	62	People living with HIV AIDS	1	Added.	22	4
+268	2016-05-24 05:55:37.772381+00	2505	Ministry of Social Solidarity	1	Added.	19	4
+269	2016-05-24 05:56:01.158205+00	2506	Global Fund	1	Added.	19	4
+270	2016-05-24 06:43:30.993743+00	2507	International Commite of the Red Cross Swiss	1	Added.	19	4
+271	2016-05-24 07:31:54.676302+00	2508	Secretariat of State for Vocational Training and Employment (SEPFOPE)	1	Added.	19	4
+272	2016-05-24 07:54:00.771879+00	4850	Ricar Pasquela dos Santos	3		21	4
+273	2016-05-24 08:20:42.735878+00	5077	Agapito da Silva	2	Changed title.	21	4
+274	2016-05-24 08:22:29.430733+00	5467	Brigina Francisco M. Almeida	2	Changed title.	21	4
+275	2016-05-25 00:29:06.211267+00	2509	Foin Sa'e Katólika Manatuto (FOSKA)	3		19	4
+276	2016-05-25 00:32:11.343043+00	2510	Foin Sa'e Katólika Manatuto (FOSKA)	3		19	4
+277	2016-05-25 01:31:38.090618+00	22	New Zealand Embassy Small Grants Fund 2015/16 Application Form and Information for Applicants	1	Added.	7	4
+278	2016-05-25 01:32:17.934877+00	22	New Zealand Embassy Small Grants Fund 2015/16 Application Form and Information for Applicants	2	No fields changed.	7	4
+279	2016-05-25 01:33:08.858126+00	22	New Zealand Embassy Small Grants Fund 2015/16 Application Form and Information for Applicants	2	Changed description and summary.	7	4
+280	2016-05-25 01:36:01.802735+00	22	New Zealand Embassy Small Grants Fund 2015/16 Application Form and Information for Applicants	2	Changed description.	7	4
+281	2016-05-25 01:37:34.543076+00	22	New Zealand Embassy Small Grants Fund 2015/16 Application Form and Information for Applicants	2	Changed description and summary.	7	4
+282	2016-05-25 01:40:00.442834+00	22	New Zealand Embassy Small Grants Fund 2015/16 Application Form and Information for Applicants	2	Changed summary.	7	4
+283	2016-05-25 01:44:55.685678+00	22	New Zealand Embassy Small Grants Fund 2015/16 Application Form and Information for Applicants	3		7	4
+284	2016-05-25 02:27:39.94402+00	5936	Carlito Gonsalves	2	Changed phone and email.	21	4
+285	2016-05-25 02:30:04.095461+00	6011	Julio Carvalho Gomes	1	Added.	21	4
+286	2016-05-25 02:31:34.311864+00	6012	Riqui Ricardo Cardoso	1	Added.	21	4
+287	2016-05-25 06:48:24.424152+00	1207	Ex.Mr. Geoffrey Ezepue	2	Changed name.	21	4
+288	2016-05-25 06:49:24.972732+00	6013	Bernice Roldan	1	Added.	21	4
+289	2016-05-25 06:50:34.17837+00	6014	Sebastiao Capir	1	Added.	21	4
+290	2016-05-25 06:54:32.255341+00	23	Test	1	Added.	7	1
+291	2016-05-25 06:56:59.481851+00	23	Test	2	Changed summary.	7	1
+292	2016-05-25 06:58:54.174758+00	24	New Zealand Embassy Small Grants Fund 2015/16 Application Form and Information for Applicants	1	Added.	7	4
+293	2016-05-25 07:00:07.940682+00	24	New Zealand Embassy Small Grants Fund 2015/16 Application Form and Information for Applicants	2	Changed description.	7	4
+294	2016-05-25 07:21:30.180182+00	6015	Secretary	1	Added.	21	4
+295	2016-05-25 07:25:08.072407+00	2029	Silvania Maria da Costa	2	Changed phone.	21	4
+296	2016-05-25 07:30:41.40335+00	24	New Zealand Embassy Small Grants Fund 2015/16 Application Form and Information for Applicants	3		7	4
+297	2016-05-25 07:31:16.614288+00	23	Test	3		7	4
+298	2016-06-03 05:47:41.911839+00	5236	Ex.Riani Pereira Godinho	2	Changed name.	21	4
+299	2016-06-03 05:48:44.393865+00	5235	Rozita da Costa	2	Changed phone.	21	4
+300	2016-06-03 05:49:57.744433+00	6016	Miranda de Andrade	1	Added.	21	4
+301	2016-06-03 05:52:03.845066+00	5235	Rozita da Costa	2	Changed phone.	21	4
+302	2016-06-03 06:11:50.531103+00	4521	Jose Valente	3		21	4
+303	2016-06-03 06:13:44.154677+00	3726	Jose Valente	2	Changed organization.	21	4
+304	2016-06-03 06:14:42.23285+00	5323	Francisco da Graca Pereira	2	Changed title.	21	4
+305	2016-06-06 23:51:14.469488+00	2512	The Toyota Foundation	1	Added.	19	4
+306	2016-06-06 23:57:12.333279+00	25	The Toyota Foundation 2016 International Grant Program	1	Added. Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object".	7	4
+307	2016-06-07 00:06:24.667473+00	25	The Toyota Foundation 2016 International Grant Program	2	Changed description.	7	4
+308	2016-06-07 00:46:52.627944+00	25	The Toyota Foundation 2016 International Grant Program	2	Changed description.	7	4
+309	2016-06-07 00:48:04.702774+00	20	Fundo de Pequenos Projetos da Embaixada de Portugal em Dili	2	Changed application_end_date.	7	4
+310	2016-06-07 01:25:47.584574+00	2513	Canada Fund	1	Added.	19	4
+311	2016-06-07 01:32:28.611512+00	26	Canada Fund for Local Initiatives	1	Added. Added funding offer document "FundingOfferDocument object".	7	4
+312	2016-06-07 01:33:50.443011+00	26	Canada Fund for Local Initiatives	2	Changed description.	7	4
+313	2016-06-07 02:55:10.609876+00	19	Japan’s Grant Assistance for Grass-roots Human Security Projects (GGP)	2	Changed application_end_date.	7	4
+314	2016-06-15 05:16:35.752372+00	65	Belun EWER situation review	2	Added version "Situation review: May 2016Revista Situasaun: Maiu 2016,Situation review: May 2016".	13	4
+315	2016-06-15 05:34:56.231515+00	236	Test	2	Changed pubtype.	13	4
+316	2016-06-15 05:40:52.647654+00	5	zina	2	Changed is_staff.	4	4
+317	2016-06-15 05:41:07.929934+00	3	Fongtil	2	Changed is_superuser.	4	4
+318	2016-06-15 05:41:54.749221+00	6	Aldo	3		4	4
+319	2016-06-15 05:42:22.202308+00	7	Alldo	1	Added.	4	4
+320	2016-06-15 05:43:33.289966+00	7	Alldo	2	Changed is_staff and is_superuser.	4	4
+321	2016-06-15 05:44:32.547365+00	7	Alldo	2	No fields changed.	4	4
+322	2016-06-15 05:50:21.98617+00	5	zina	2	Changed password.	4	7
+323	2016-06-17 01:54:31.081034+00	2383	The Asia Foundation (TAF)	2	Changed orgtype.	19	4
+324	2016-06-17 01:56:20.897421+00	906	The Asia Foundation (TAF)	2	Changed name.	19	4
+325	2016-06-17 01:56:24.591964+00	906	The Asia Foundation (TAF)	2	Changed orgtype.	19	4
+326	2016-06-17 01:58:31.557279+00	906	The Asia Foundation	2	Changed name.	19	4
+327	2016-06-17 01:59:26.797406+00	283	2014 Survey of Travelers to Timor-Leste	2	No fields changed.	13	4
+328	2016-06-17 02:01:57.289552+00	28	"Ami Sei Vitima Beibeik": Looking to the needs of domestic violence victims	2	Changed author.	13	4
+329	2016-06-17 02:04:25.255115+00	60	A Survey of Community-Police Perceptions, 2013	2	No fields changed.	13	4
+330	2016-06-17 02:06:46.75094+00	2383	The Asia Foundation	2	Changed name and orgtype.	19	4
+331	2016-06-17 02:07:25.621701+00	906	The Asia Foundation (TAF)	2	Changed name and orgtype.	19	4
+332	2016-06-17 02:10:36.205872+00	283	2014 Survey of Travelers to Timor-Leste	2	Changed organization.	13	4
+333	2016-06-17 02:17:12.526456+00	28	"Ami Sei Vitima Beibeik": Looking to the needs of domestic violence victims	2	Changed organization.	13	4
+334	2016-06-17 02:19:44.377395+00	39	A Survey of Community-Police Perceptions, 2008	2	Changed organization.	13	4
+335	2016-06-17 02:20:08.912829+00	60	A Survey of Community-Police Perceptions, 2013	2	Changed organization.	13	4
+336	2016-06-17 02:21:25.071998+00	43	Books for Asia - East Timor	2	Changed organization and author.	13	4
+337	2016-06-17 02:22:13.311812+00	29	Careers Pathways for Law Graduates: A Survey of Law Graduates in Timor-Leste	2	Changed organization.	13	4
+338	2016-06-17 02:22:49.526652+00	30	Community experiences of decentralised development in Timor-Leste	2	Changed organization.	13	4
+339	2016-06-17 02:23:22.538389+00	58	Community policing in Timor-Leste	2	Changed organization.	13	4
+340	2016-06-17 02:23:58.590914+00	44	Conflict management and prevention in East Timor	2	Changed organization.	13	4
+341	2016-06-17 02:24:40.410776+00	52	Constitutional law in Timor-Leste	2	Changed organization.	13	4
+342	2016-06-17 02:25:16.333729+00	53	Contract law in Timor-Leste	2	Changed organization.	13	4
+343	2016-06-17 02:25:57.851728+00	21	East Timor National Survey of Voter Knowledge	2	Changed organization.	13	4
+344	2016-06-17 02:26:48.172771+00	54	Glosariu juridiku ba pratikante sira iha Timor-Leste	2	Changed organization.	13	4
+345	2016-06-17 02:27:22.494727+00	25	Governance and civil society in Timor-Leste	2	Changed organization.	13	4
+346	2016-06-17 02:27:56.341603+00	47	Handbook for legal aid lawyers: A practical guide	2	Changed organization.	13	4
+347	2016-06-17 02:28:56.723803+00	61	In Focus: Community-Police cooperation	2	Changed organization.	13	4
+348	2016-06-17 02:29:33.644686+00	62	In Focus: Justice-seeking behavior	2	Changed organization.	13	4
+349	2016-06-17 02:29:47.789892+00	63	In Focus: PNTL background and performance	2	Changed organization.	13	4
+350	2016-06-17 02:30:04.14551+00	64	In Focus: Security Situation	2	Changed organization.	13	4
+351	2016-06-17 02:30:46.39811+00	31	Information and communication technology for development	2	Changed organization.	13	4
+352	2016-06-17 02:31:31.42382+00	38	Institutionalising community policing in Timor-Leste	2	Changed organization.	13	4
+353	2016-06-17 02:31:45.711472+00	27	Institutionalising community policing in Timor-Leste: Exploring the politics of police reform	2	Changed organization.	13	4
+354	2016-06-17 02:33:29.263987+00	23	Law and Justice in East Timor	2	Changed organization.	13	4
+355	2016-06-17 02:33:42.014728+00	40	Law and Justice in Timor-Leste: A Survey of Citizen Awareness and Attitudes Regarding Law and Justice 2008	2	Changed organization.	13	4
+356	2016-06-17 02:33:57.315831+00	20	Law and Justice Survey 2013	2	Changed organization.	13	4
+357	2016-06-17 02:34:44.409075+00	42	Legal reform in East Timor	2	Changed organization.	13	4
+358	2016-06-17 02:34:57.71747+00	41	Local leadership of community policing practices in Timor-Leste	2	Changed organization.	13	4
+359	2016-06-17 02:35:41.080599+00	48	Matadalan ba kazu paternidade	2	Changed organization.	13	4
+360	2016-06-17 02:35:59.180697+00	49	Matadalan be Xefe Suku nia knaar	2	Changed organization.	13	4
+361	2016-06-17 02:36:16.627408+00	50	Matadalan espesifiku kona-ba kazu divorsiu	2	Changed organization.	13	4
+362	2016-06-17 02:36:54.015337+00	26	Ministry of Finance quality of service perception survey	2	Changed organization.	13	4
+363	2016-06-17 02:37:40.354725+00	46	Professional responsibility in Timor-Leste	2	Changed organization.	13	4
+364	2016-06-17 02:37:55.383304+00	35	Reflection on Law No. 3/2009: Community leadership and their election	2	Changed organization.	13	4
+365	2016-06-17 02:38:40.301745+00	51	Saida mak violensia domestika?	2	Changed organization.	13	4
+366	2016-06-17 02:39:18.882395+00	22	Supporting economic growth in East Timor	2	Changed organization.	13	4
+367	2016-06-17 02:39:54.97797+00	57	Tara-Bandu ho nia papel ba prevensaun konflitu iha komunidade Timor-Leste	2	Changed organization.	13	4
+368	2016-06-17 02:40:10.885893+00	36	Tara Bandu: Its role and use in community conflict prevention in Timor-Leste	2	Changed organization.	13	4
+369	2016-06-17 02:40:34.795993+00	32	Teaching children to read	2	Changed organization.	13	4
+370	2016-06-17 02:41:21.659836+00	195	Timor-Leste	2	Changed organization.	13	4
+371	2016-06-17 02:41:38.578399+00	24	Timor-Leste	2	Changed organization.	13	4
+372	2016-06-17 02:42:53.18935+00	33	Timor-Leste celebrates a decade of Independence	2	Changed organization.	13	4
+373	2016-06-17 02:44:47.747406+00	55	Timor Leste Public Opinion Poll - March 2013	2	Changed organization.	13	4
+374	2016-06-17 02:45:05.731171+00	59	Timor Leste Public Opinion Poll - March 2014	2	Changed organization.	13	4
+375	2016-06-17 02:45:18.532512+00	56	Timor Leste Public Opinion Poll - September 2013	2	Changed organization.	13	4
+376	2016-06-17 02:46:02.990554+00	19	Trends of local governance in Timor-Leste	2	Changed organization.	13	4
+377	2016-06-17 02:46:50.127418+00	34	Working with female clients: A guideline for legal aid partners	2	Changed organization.	13	4
+378	2016-06-17 02:47:02.852277+00	45	Women's empowerment programs in East Timor	2	Changed organization.	13	4
+379	2016-06-17 06:26:46.614689+00	4745	Ex.Zito da Cunha	2	Changed name.	21	4
+380	2016-06-17 06:27:20.626598+00	4771	Nicolau Amaral Guterres	2	Changed title.	21	4
+381	2016-06-17 07:53:46.38768+00	8	Agapito	1	Added.	4	4
+382	2016-06-17 07:53:56.450766+00	8	Agapito	2	Changed is_staff and is_superuser.	4	4
+383	2016-06-17 07:54:08.50357+00	5	zina	2	Changed is_superuser.	4	4
+384	2016-06-20 05:14:47.350047+00	2515	UNTL	3		19	5
+385	2016-06-20 05:14:47.392613+00	2514	UNTL	3		19	5
+386	2016-06-20 07:55:38.815695+00	2450	Test	3		19	4
+387	2016-06-21 02:19:25.851852+00	2516	Lao La Para	3		19	5
+388	2016-06-21 02:19:25.871378+00	2518	La para	3		19	5
+389	2016-06-21 05:32:06.225988+00	8	Agapito	2	Changed password.	4	7
+390	2016-06-21 05:32:21.575932+00	8	Agapito	2	No fields changed.	4	7
+391	2016-06-21 05:32:25.186486+00	8	Agapito	2	No fields changed.	4	7
+392	2016-06-21 05:33:23.423298+00	5	zina	2	Changed password.	4	7
+393	2016-06-21 05:33:32.294111+00	5	zina	2	No fields changed.	4	7
+394	2016-06-21 05:34:43.160063+00	4	Jeny	2	Changed password.	4	7
+395	2016-06-21 05:34:47.792469+00	4	Jeny	2	No fields changed.	4	7
+396	2016-06-21 05:35:25.236001+00	3	Fongtil	2	Changed is_staff.	4	7
+397	2016-06-21 05:35:49.575756+00	2	Alola	2	Changed is_staff and is_superuser.	4	7
+398	2016-06-22 05:51:57.62893+00	27	Projetu Hametin Resistensia husi Infras-esturtura Rural  ho Eskalaun Ki’ik (SSRI) no Sistema Governasaun ba Variabilidade Klima ho Risku ba Subsidiu Mikro-Kapital	1	Added. Added funding offer document "FundingOfferDocument object".	7	5
+399	2016-06-22 05:53:43.175274+00	27	Projetu Hametin Resistensia husi Infras-esturtura Rural  ho Eskalaun Ki’ik (SSRI) no Sistema Governasaun ba Variabilidade Klima ho Risku ba Subsidiu Mikro-Kapital	2	Changed conditions.	7	5
+400	2016-06-22 05:55:16.941523+00	27	Projetu Hametin Resistensia husi Infras-esturtura Rural  ho Eskalaun Ki’ik (SSRI) no Sistema Governasaun ba Variabilidade Klima ho Risku ba Subsidiu Mikro-Kapital	2	Changed description, summary and conditions.	7	5
+401	2016-06-22 05:57:14.501098+00	27	Projetu Hametin Resistensia husi Infras-esturtura Rural  ho Eskalaun Ki’ik (SSRI) no Sistema Governasaun ba Variabilidade Klima ho Risku ba Subsidiu Mikro-Kapital	2	Changed summary.	7	5
+402	2016-06-22 05:58:25.62059+00	27	Projetu Hametin Resistensia husi Infras-esturtura Rural  ho Eskalaun Ki’ik (SSRI) no Sistema Governasaun ba Variabilidade Klima ho Risku ba Subsidiu Mikro-Kapital	2	Changed summary and conditions.	7	5
+403	2016-06-22 05:59:35.982687+00	27	Projetu Hametin Resistensia husi Infras-esturtura Rural  ho Eskalaun Ki’ik (SSRI) no Sistema Governasaun ba Variabilidade Klima ho Risku ba Subsidiu Mikro-Kapital	2	Changed conditions.	7	5
+404	2016-06-23 00:43:27.813533+00	2520	Koperativa Makili	3		19	5
+405	2016-06-23 00:44:12.714603+00	2517	Bele	2	No fields changed.	19	5
+406	2016-06-23 00:44:29.571938+00	2517	Bele	3		19	5
+407	2016-06-24 02:48:08.854555+00	2521	Lihomori	3		19	5
+408	2016-06-24 02:58:37.972397+00	6017	Zinha	3		21	5
+409	2016-06-24 03:00:22.551794+00	128	test	3		17	5
+410	2016-06-24 03:00:43.125204+00	126	Zinha	3		17	5
+411	2016-06-24 03:00:43.162825+00	129	Zinha Martinz	3		17	5
+412	2016-06-24 03:03:02.722054+00	127	Martins Almeida	3		17	5
+413	2016-06-24 06:23:39.642342+00	5117	David Coreia da Costa	2	Changed email.	21	5
+414	2016-06-27 00:58:53.625031+00	6013	Bernice Roldan	2	Changed title and phone.	21	5
+415	2016-06-27 01:05:47.448084+00	6018	Viliame Bill Seruvakula	1	Added.	21	5
+416	2016-06-27 02:18:14.937084+00	5810	Ermelinda L. Nono	2	Changed phone and email.	21	5
+417	2016-06-27 05:27:39.341192+00	4857	H. E. Mr. Jonathan Douglas Schwass	2	Changed title.	21	5
+418	2016-06-27 05:28:42.563043+00	6019	Vicky Barbara Toole	1	Added.	21	5
+419	2016-06-27 05:50:18.342908+00	131	Zinha Martins	3		17	5
+420	2016-06-27 05:52:17.86533+00	2523	Matak Malirin	3		19	5
+421	2016-06-27 06:47:19.023833+00	133	Amore	3		17	5
+422	2016-06-28 00:04:21.259393+00	2524	UNTL	3		19	5
+423	2016-06-28 00:04:56.822655+00	134	Laura Simoes	3		17	5
+424	2016-06-28 01:02:48.709014+00	5333	Batista Mendonca	2	Changed email.	21	5
+425	2016-06-28 01:56:49.099205+00	2595	Eduardo da Silva	2	Changed phone.	21	5
+426	2016-06-28 02:24:12.797584+00	6020	Domingos da Costa Luz	1	Added.	21	5
+427	2016-07-04 06:08:27.955137+00	27	Projetu Hametin Resistensia husi Infras-esturtura Rural  ho Eskalaun Ki’ik (SSRI) no Sistema Governasaun ba Variabilidade Klima ho Risku ba Subsidiu Mikro-Kapital	2	Changed application_end_date. Changed file for funding offer document "FundingOfferDocument object".	7	5
+428	2016-07-04 06:49:06.0069+00	4876	Fatima Alves Lemos	3		21	5
+429	2016-07-04 06:49:30.935472+00	4802	Fatima Alves Lemos	3		21	5
+430	2016-07-04 06:52:06.882367+00	4525	Dr. Jens Narten	3		21	5
+431	2016-07-04 06:52:45.738994+00	3018	Dr. Paul Mathias Braun	3		21	5
+432	2016-07-04 06:53:36.49571+00	1742	Dr.George Deichert	3		21	5
+433	2016-07-04 07:54:44.47283+00	2680	Clare Clarkk	3		21	4
+434	2016-07-04 07:55:17.065891+00	1231	Clare DANBY	3		21	4
+435	2016-07-04 07:57:32.441244+00	5599	Claudino N. Navais	2	Changed name.	21	4
+436	2016-07-04 07:58:42.997735+00	4983	Clementino Bento	2	Changed phone.	21	4
+437	2016-07-04 08:20:00.339647+00	3728	Clementino Bento	2	Changed phone.	21	4
+438	2016-07-05 05:41:13.665273+00	19	Japan’s Grant Assistance for Grass-roots Human Security Projects (GGP)	2	Added funding offer document "FundingOfferDocument object".	7	5
+439	2016-07-06 01:33:04.90064+00	2482	Aderito Pereira Neves	3		21	4
+440	2016-07-06 01:40:03.179599+00	2970	Alberto Carvalho de Araujo	3		21	4
+441	2016-07-06 01:40:50.893522+00	5103	Alexandrina S. R	2	Changed name.	21	4
+442	2016-07-06 01:42:38.190881+00	2483	Agustinho Sequeira	3		21	4
+443	2016-07-06 01:45:53.40702+00	5384	Amerco Lopes	3		21	4
+444	2016-07-06 01:50:08.247677+00	2958	Angelina Soares	3		21	4
+445	2016-07-06 01:51:43.65076+00	2036	Antonio B. da Silva	3		21	4
+446	2016-07-06 01:51:58.79136+00	5693	Antonio B. S da Silva	2	Changed name.	21	4
+447	2016-07-06 01:53:29.510624+00	5626	Antonio Luis M. C.  Soares	2	Changed name and phone.	21	4
+448	2016-07-06 01:54:10.322911+00	3118	Antonio Soares	3		21	4
+449	2016-07-06 01:54:46.808718+00	1743	Antonio Soares	3		21	4
+450	2016-07-06 02:25:01.614983+00	5503	Denny A. Kurniawan	2	Changed name.	21	4
+451	2016-07-06 02:35:58.973353+00	1354	Didier FRANCISCO	3		21	4
+452	2016-07-06 02:37:29.900109+00	2869	Domingas S. da Silva	2	Changed name.	21	4
+453	2016-07-06 02:40:50.778654+00	5552	Domingas X. Belo	2	Changed name.	21	4
+454	2016-07-06 02:42:54.480105+00	3975	Domingos Amaral	3		21	4
+455	2016-07-06 02:43:20.282317+00	1943	Domingos Amaral	3		21	4
+456	2016-07-06 02:44:10.958328+00	1798	Domingos Lopes	3		21	4
+457	2016-07-06 02:44:46.483484+00	2020	Dominique Leguiller	3		21	4
+458	2016-07-06 02:45:04.893827+00	3753	Dominique Leguillier	3		21	4
+459	2016-07-06 02:45:38.54646+00	4285	Dr. H Varma	3		21	4
+460	2016-07-06 02:45:56.279888+00	2784	Dr. Jorge Mario Luna	3		21	4
+461	2016-07-06 02:46:52.482563+00	5148	Edmundo V. C. Sousa	2	Changed name.	21	4
+462	2016-07-06 02:47:20.806117+00	3019	Edson Marinho Duarte Monteiro	3		21	4
+463	2016-07-06 02:47:34.564642+00	2516	Edson Marinho Duarte Monteiro	3		21	4
+464	2016-07-06 02:48:05.070953+00	1336	Edward REES	3		21	4
+465	2016-07-06 02:48:31.634902+00	4919	Efigenia Ilda Fatima Soares	3		21	4
+466	2016-07-06 02:49:54.703611+00	1541	Emilia M. J. C. Elu	2	Changed name and title.	21	4
+467	2016-07-06 02:50:53.038145+00	2882	Emilio Vicente Noronha	3		21	4
+468	2016-07-06 02:51:39.200581+00	4893	Eng. Antonio Miguel	3		21	4
+469	2016-07-06 02:52:40.352466+00	2284	Eugenia Alves	2	Changed phone.	21	4
+470	2016-07-06 02:53:06.829682+00	2654	Eugenia Correia	2	Changed phone.	21	4
+471	2016-07-06 02:53:52.461586+00	5676	Eugenia Urania da Costa Correia	2	Changed phone.	21	4
+472	2016-07-06 02:54:26.342925+00	5062	Ex.Leonardo do Santos	3		21	4
+473	2016-07-06 02:54:39.570168+00	1207	Ex.Mr. Geoffrey Ezepue	3		21	4
+474	2016-07-06 02:54:54.23052+00	4627	Ex.Mr. Scott Ticknor	3		21	4
+475	2016-07-06 02:55:29.730495+00	5236	Ex.Riani Pereira Godinho	3		21	4
+476	2016-07-06 02:55:41.625173+00	4745	Ex.Zito da Cunha	3		21	4
+477	2016-07-06 02:57:14.249991+00	4855	Feliciano Araujo	3		21	4
+478	2016-07-06 02:58:55.465233+00	4026	Feliciano de Araujo	3		21	4
+479	2016-07-06 03:06:12.146607+00	2350	Fernando Costa	3		21	4
+480	2016-07-06 03:06:25.124692+00	5684	Fernando da Costa	3		21	4
+481	2016-07-06 03:07:48.921214+00	5573	Filipe B. M.  Henrique	2	Changed name and phone.	21	4
+482	2016-07-06 03:09:17.470696+00	4565	Filomena Amaral	3		21	4
+483	2016-07-06 03:09:50.163959+00	4385	Filomena Amaral	3		21	4
+484	2016-07-06 03:11:25.33831+00	2515	Filomena Amaral	3		21	4
+485	2016-07-06 03:13:43.619783+00	4572	Florindo Oliveira Magno	3		21	4
+486	2016-07-06 03:14:48.968945+00	2762	Florindo Pereira	3		21	4
+487	2016-07-06 03:15:42.633946+00	2047	Florindo Pereira	3		21	4
+488	2016-07-06 03:16:54.69836+00	1605	Fransisca Ribeiro Fraga	3		21	4
+489	2016-07-06 03:17:33.915238+00	1162	Fransisca Ribeiro Fraga	3		21	4
+490	2016-07-06 03:18:26.362679+00	5751	Gaspar H. da Silva	2	Changed name and phone.	21	4
+491	2016-07-06 03:19:07.408183+00	5280	Giacomo Mencari	2	Changed name.	21	4
+492	2016-07-06 03:19:47.257628+00	5449	Graciana da C. H Boavida	2	Changed name.	21	4
+493	2016-07-06 03:20:34.550464+00	3108	Gregorio Mau Susu	3		21	4
+494	2016-07-06 03:21:56.951291+00	4288	Herminia de Jesus Pinto	3		21	4
+495	2016-07-06 03:22:32.504131+00	2137	Hideo Ito	3		21	4
+496	2016-07-06 03:22:51.095259+00	3134	Hideo Ito	3		21	4
+497	2016-07-06 03:24:28.131116+00	4278	Ilidio dos Santos	3		21	4
+498	2016-07-06 03:26:04.016394+00	2593	Ilidio Gusmao	3		21	4
+499	2016-07-06 03:26:41.219439+00	2140	Indu Roy	3		21	4
+500	2016-07-08 01:02:07.277486+00	4712	Fernanda Moniz	3		21	4
+501	2016-07-08 01:05:00.747322+00	3859	Frederico W. R. C	3		21	4
+502	2016-07-08 01:12:07.619072+00	3096	Carlos Salsinha Menezes L. C. G	2	Changed name.	21	4
+503	2016-07-08 01:16:08.218261+00	4274	Cornelio Q. C	2	Changed name and phone.	21	4
+504	2016-07-08 01:24:00.122732+00	5189	Daniel Santos Sequera	3		21	4
+505	2016-07-08 01:27:51.168673+00	5287	Dian Saputri	2	Changed phone.	21	4
+506	2016-07-08 01:28:05.024755+00	4675	Dian Saputri	3		21	4
+507	2016-07-08 01:33:21.794563+00	3009	Domingas dos Santos	3		21	4
+508	2016-07-08 01:34:58.704006+00	2678	Domingas  F. De Deus	3		21	4
+509	2016-07-08 01:37:53.385296+00	2925	Domingas Soares	3		21	4
+510	2016-07-08 01:40:41.957574+00	2814	Domingos Soares	3		21	4
+511	2016-07-08 01:43:32.894155+00	2038	Edio Mariano	3		21	4
+512	2016-07-08 01:43:56.967954+00	357	Edio Mariano	3		21	4
+513	2016-07-08 01:46:18.774455+00	5999	Eligio Gusmao	3		21	4
+514	2016-07-08 01:47:09.351906+00	4885	Elisabeth E. Coelho Manek	3		21	4
+515	2016-07-08 01:47:58.342256+00	2535	Edio Mariano Piedade Soares	3		21	4
+516	2016-07-08 01:48:59.711377+00	1879	Elisa Santos	3		21	4
+517	2016-07-08 01:49:10.701937+00	1608	Elisa Santos	3		21	4
+518	2016-07-08 01:52:08.082175+00	1125	Eoghan Walsh	3		21	4
+519	2016-07-08 01:57:59.920716+00	1936	Fernando Belo	3		21	4
+520	2016-07-08 01:58:23.668287+00	1706	Fernando Belo	3		21	4
+521	2016-07-08 01:59:40.346745+00	1852	Filomena Daconcencao Cruz	3		21	4
+522	2016-07-08 02:00:40.870046+00	2012	Fornasier Pierluigi	3		21	4
+523	2016-07-08 02:01:47.695801+00	1656	Francisco Soares	3		21	4
+524	2016-07-08 02:02:06.967972+00	1478	Francisco Soares	3		21	4
+525	2016-07-08 02:03:46.078062+00	5286	Gabriel Lelan da Costa	3		21	4
+526	2016-07-08 02:04:15.543059+00	5813	Gabriel Lelan da Costa	3		21	4
+527	2016-07-08 07:19:56.373641+00	4399	Germano da Costa  Boavida	3		21	4
+528	2016-07-08 07:20:35.457329+00	3845	Giulia Sensini	3		21	4
+529	2016-07-08 07:21:17.025194+00	3068	Gomes Noronha	3		21	4
+530	2016-07-08 07:21:27.84071+00	3066	Gomes Noronha	3		21	4
+531	2016-07-08 07:37:47.610103+00	3007	Hendriques Dau	3		21	4
+532	2016-07-08 07:38:32.384064+00	2738	Hermenegildo dos Santos	3		21	4
+533	2016-07-08 07:40:17.089861+00	3190	Ines Noronha Martins	3		21	4
+534	2016-07-08 07:41:57.918021+00	2095	Ir.Hercolano Amaral	3		21	4
+535	2016-07-08 07:42:30.592889+00	2796	Isabel de Jesus Gomes	3		21	4
+536	2016-07-08 07:43:38.953218+00	1991	Isabel Ferreira	3		21	4
+537	2016-07-08 07:44:35.744697+00	2033	Issabel Ferreira	3		21	4
+538	2016-07-08 07:45:54.378366+00	4509	Ivo Soares da Costa	3		21	4
+539	2016-07-08 07:46:35.649424+00	4060	Jacinto F.X Tab	3		21	4
+540	2016-07-08 07:47:22.912185+00	2354	Jacinto Mendonca	3		21	4
+541	2016-07-08 07:48:06.293233+00	4360	Jaimito da Silva	3		21	4
+542	2016-07-08 07:49:11.194126+00	1454	Januario dos Santos	3		21	4
+543	2016-07-08 07:49:54.238451+00	2646	Javier Jose Calvino Pazos	3		21	4
+544	2016-07-08 07:50:53.793775+00	1619	Jay Mahe Swaran	2	Changed name.	21	4
+545	2016-07-08 07:52:05.154965+00	1615	Joana dos Santos	3		21	4
+546	2016-07-08 07:52:18.77961+00	4960	Joana dos Santos	3		21	4
+547	2016-07-08 07:52:33.162749+00	5375	Joana dos Santos	3		21	4
+548	2016-07-08 07:53:07.130791+00	2035	Joana dos Santos Camoes	3		21	4
+549	2016-07-08 07:54:22.496121+00	5886	Joao Baptista	3		21	4
+550	2016-07-08 07:55:11.297988+00	2860	Joao Baptista	3		21	4
+551	2016-07-08 07:55:51.485061+00	2403	Joao Boavida	3		21	4
+552	2016-07-08 08:02:13.938373+00	2278	Joao do Carmo Pinto	3		21	4
+553	2016-07-08 08:09:21.34438+00	304	Joao dos Santos	3		21	4
+554	2016-07-08 08:10:05.782232+00	4429	Joao Martins Alves	3		21	4
+555	2016-07-08 08:12:58.469299+00	5539	Joao Ndun	3		21	4
+556	2016-07-12 02:30:07.385956+00	2174	Chirs Sahin	3		21	4
+557	2016-07-12 02:34:50.640391+00	4787	Claudino Ximenes das Neves	3		21	4
+558	2016-07-12 02:34:55.761182+00	4106	Claudino Ximenes das Neves	3		21	4
+559	2016-07-12 02:36:28.463753+00	4983	Clementino Bento	3		21	4
+560	2016-07-12 05:06:58.704107+00	1431	Daryl Mills	3		21	4
+561	2016-07-12 05:14:11.716894+00	3988	Donna Okil Lee	3		21	4
+562	2016-07-12 06:57:03.353785+00	2531	Global Environment Facility	2	Changed name.	19	5
+563	2016-07-12 06:57:25.576406+00	2375	GEF	3		19	5
+564	2016-07-12 06:57:45.712512+00	2531	Global Environment Facility (GEF)	2	Changed name.	19	5
+565	2016-07-12 07:52:32.931228+00	2533	UNCDP	3		19	5
+566	2016-07-13 05:00:06.572517+00	6021	Jesuinho Gusmao	1	Added.	21	5
+567	2016-07-13 07:44:44.987054+00	5017	Rev. Fr. Matk Reper S. J	2	Changed name and title.	21	4
+568	2016-07-13 07:45:34.210131+00	5666	Rita Barros	3		21	4
+569	2016-07-13 07:46:56.270288+00	5346	Roberta C. F. Araujo Amaral	2	Changed name.	21	4
+570	2016-07-13 07:47:28.303128+00	3837	Robert Gow	3		21	4
+571	2016-07-13 07:49:47.43093+00	2443	Rosaria Martins da Cruz	3		21	4
+572	2016-07-13 07:49:52.986988+00	2444	Rosaria Martins da Cruz	3		21	4
+573	2016-07-13 07:51:02.377591+00	4564	Rosita Quenat	3		21	4
+574	2016-07-13 07:52:22.309978+00	5373	Rozita Quenat	3		21	4
+575	2016-07-13 07:54:00.04884+00	3109	Ruben Flamarique Urdin	3		21	4
+576	2016-07-13 07:57:11.970805+00	4780	Rozentina Jap dos Santos	2	Changed name and email.	21	4
+577	2016-07-13 07:57:53.003063+00	2630	Ruben Assuncao Pinto Amaral	3		21	4
+578	2016-07-13 07:58:17.428425+00	2224	Rubiana Lay Gonzaga	3		21	4
+579	2016-07-13 07:58:27.230369+00	1156	Rubiana Lay Gozaga	3		21	4
+580	2016-07-13 07:59:01.994195+00	3086	Rui Narciso Lopes	3		21	4
+581	2016-07-14 00:50:10.877836+00	28	BA DISTRITO FUNDUS BA ADVOKASIA DESENTRALIZASAUN PEDIDU BA APLIKASAUN	1	Added. Added funding offer document "FundingOfferDocument object".	7	5
+582	2016-07-14 01:01:47.453223+00	28	BA DISTRITO FUNDUS BA ADVOKASIA DESENTRALIZASAUN PEDIDU BA APLIKASAUN	2	Changed conditions. Changed file and description for funding offer document "FundingOfferDocument object".	7	5
+583	2016-07-14 01:03:24.017037+00	28	BA DISTRITO FUNDUS BA ADVOKASIA DESENTRALIZASAUN PEDIDU BA APLIKASAUN	2	Changed conditions.	7	5
+584	2016-07-14 01:04:13.190384+00	28	BA DISTRITO FUNDUS BA ADVOKASIA DESENTRALIZASAUN PEDIDU BA APLIKASAUN	2	Changed conditions.	7	5
+585	2016-07-14 02:15:40.782477+00	29	USAID’S AVANSA AGRIKULTURA PROJECT REQUEST FOR APPLICATION (RFA)	1	Added. Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object".	7	5
+586	2016-07-18 05:19:44.694989+00	29	USAID’S AVANSA AGRIKULTURA PROJECT REQUEST FOR APPLICATION (RFA)	2	Changed application_end_date.	7	5
+587	2016-07-18 05:24:17.488009+00	28	BA DISTRITO FUNDUS BA ADVOKASIA DESENTRALIZASAUN PEDIDU BA APLIKASAUN	2	Changed application_end_date.	7	5
+588	2016-07-20 00:56:23.419871+00	9	untl	1	Added.	4	5
+589	2016-07-20 00:58:20.942364+00	9	untl	2	Changed user_permissions.	4	5
+590	2016-07-20 01:03:12.587424+00	9	untl	2	Changed is_staff.	4	5
+591	2016-07-20 01:16:08.403773+00	5713	Don Batson	3		21	4
+592	2016-07-20 01:16:19.316366+00	1148	Donda M Panggabean	3		21	4
+593	2016-07-20 01:24:59.172869+00	4156	Januario dos Santos	3		21	4
+594	2016-07-20 01:26:01.965209+00	2808	Joao Pinto	3		21	4
+595	2016-07-20 01:27:11.042913+00	1887	Jonas Caeiro Lopes	3		21	4
+596	2016-07-20 01:32:44.733278+00	2494	Jose De Jesus	3		21	4
+597	2016-07-20 01:33:00.707544+00	1586	José de Jesus	3		21	4
+598	2016-07-20 01:33:58.921219+00	3014	Josefina S.S Vicente	3		21	4
+599	2016-07-20 01:34:05.26617+00	3016	Josefina S.S Vicente	3		21	4
+600	2016-07-20 01:34:45.899445+00	5097	Jose Reinaldo da Silva Soares	3		21	4
+601	2016-07-20 01:35:14.279821+00	3110	Jose Sarmento	3		21	4
+602	2016-07-20 01:35:39.518604+00	1862	Jose Soares	3		21	4
+603	2016-07-20 01:35:56.000379+00	2792	Jose Soares	3		21	4
+604	2016-07-20 01:36:30.933776+00	3952	Joydip Ghosh	3		21	4
+605	2016-07-20 01:36:45.229263+00	5495	Joydip Ghosh	3		21	4
+606	2016-07-20 01:37:29.045058+00	4673	Judite Marcelina Martins	3		21	4
+607	2016-07-20 01:38:12.321668+00	2489	Juliao P.  Amaral	2	Changed name.	21	4
+608	2016-07-20 01:38:48.584783+00	1520	Julio Cardoso	3		21	4
+609	2016-07-20 01:38:53.258522+00	276	Julio Cardoso	3		21	4
+610	2016-07-20 01:39:30.96709+00	1816	Julio Mendes	3		21	4
+611	2016-07-20 01:40:35.353515+00	315	Kathryn Robertson	3		21	4
+612	2016-07-20 01:40:50.690182+00	4480	Kathryn Clarkson	3		21	4
+613	2016-07-20 01:41:35.787832+00	5576	Lars B. Siefert	2	Changed name.	21	4
+614	2016-07-20 01:42:21.349754+00	4552	Laurindo de Jesus dos Santos	3		21	4
+615	2016-07-20 01:43:26.166924+00	4241	Lindalva I. B.  Belo	2	Changed name.	21	4
+616	2016-07-20 01:43:53.598566+00	5855	Lindsay Greising	3		21	4
+617	2016-07-20 01:44:10.376857+00	1543	LIN HICKS	3		21	4
+618	2016-07-20 01:45:22.709579+00	2827	Luis Fernandes	3		21	4
+619	2016-07-20 01:45:47.348593+00	5577	Luis O. Moniz	2	Changed name.	21	4
+620	2016-07-20 01:46:32.309704+00	1635	Luis Pedro Pinto	3		21	4
+621	2016-07-20 01:47:04.241809+00	2826	Luis Sarmento	3		21	4
+622	2016-07-20 01:47:58.458137+00	2449	Madre Dolores SCMM	3		21	4
+623	2016-07-20 01:48:28.34503+00	1056	Manuela Leong Perreira	3		21	4
+624	2016-07-20 01:48:36.501692+00	2422	Manuela Leao Pereira	3		21	4
+625	2016-07-20 01:49:13.354411+00	4704	Manuel dos  Santos	3		21	4
+626	2016-07-20 01:49:18.684229+00	5271	Manuel dos Santos	3		21	4
+627	2016-07-20 01:49:55.685729+00	4319	Manuel Ximenes	3		21	4
+628	2016-07-20 01:50:38.400169+00	5455	Margie Beck	3		21	4
+629	2016-07-20 01:51:11.686012+00	5607	Maria Angelina Lopes Sarmento	3		21	4
+630	2016-07-20 01:51:16.947624+00	2230	Maria Angelina Lopes Sarmento	3		21	4
+631	2016-07-20 01:51:50.577195+00	1893	Maria Diamantina Martins	3		21	4
+632	2016-07-20 01:51:55.880904+00	2164	Maria Diamentina	3		21	4
+633	2016-07-20 01:52:50.175269+00	2828	Maria dos Santos	3		21	4
+634	2016-07-20 01:53:14.227215+00	5612	Maria Eliza da Costa	3		21	4
+635	2016-07-20 01:53:25.648066+00	5256	Maria Eliza da Costa	2	Changed name.	21	4
+636	2016-07-20 01:54:00.018364+00	2637	Maria fatima Sara	3		21	4
+637	2016-07-20 01:54:17.800978+00	5066	Maria Fatima Sara	2	Changed name and phone.	21	4
+638	2016-07-20 01:56:18.416312+00	2441	Maria Imaculada dos Anjos	3		21	4
+639	2016-07-20 01:56:27.926142+00	2440	Maria Imaculada dos Anjos	3		21	4
+640	2016-07-20 01:57:16.981184+00	4282	Maria Natalia da Costa	3		21	4
+641	2016-07-20 01:57:21.108178+00	2555	Maria Natalia da Costa	3		21	4
+642	2016-07-20 01:59:39.167105+00	3835	Marrie Ann Merza	3		21	4
+643	2016-07-20 02:01:02.052405+00	5081	Mateus de Almeida	3		21	4
+644	2016-07-20 02:01:26.812353+00	2191	Mateus Pereira Maher	3		21	4
+645	2016-07-20 02:01:44.301667+00	3702	Mateus Soares Maia	3		21	4
+646	2016-07-20 02:02:16.531196+00	5213	Matilde Neto	3		21	4
+647	2016-07-20 02:02:57.516641+00	4496	Me.  Angelina da Conceicao. Fdcc	2	Changed name.	21	4
+648	2016-07-20 02:03:28.336608+00	5905	Me. Maxentia CIJ	2	Changed name.	21	4
+649	2016-07-20 02:05:11.841681+00	2803	Merita Alves	3		21	4
+650	2016-07-20 02:05:39.480298+00	1587	Merita de Jesus Marques	3		21	4
+651	2016-07-20 02:06:29.362173+00	1016	Mike Kaire	3		21	4
+652	2016-07-20 02:07:04.347388+00	5670	Minerva C. C. Caldeira	2	Changed name.	21	4
+653	2016-07-20 02:07:35.657733+00	5475	Modesta Cipriana da Costa	3		21	4
+654	2016-07-20 02:08:07.841187+00	4873	Moises T. da. G. S	2	Changed name.	21	4
+655	2016-07-20 02:08:29.211022+00	2251	Monica Y Nakamura	3		21	4
+656	2016-07-20 02:09:02.93845+00	4287	Mr. Celso Eduardo F Coracini	2	Changed name.	21	4
+657	2016-07-20 02:09:49.407228+00	1926	Mr. Idalia Tavares	3		21	4
+658	2016-07-20 02:09:54.963637+00	1788	Mr. Idalia Tavares	2	No fields changed.	21	4
+659	2016-07-20 02:11:27.535914+00	5858	Mr. Knut Ostby	2	Changed name.	21	4
+660	2016-07-20 02:12:20.381347+00	5596	Mr.Kong Mu	3		21	4
+661	2016-07-20 02:14:13.357219+00	5056	Mr.Naka Nakayam	3		21	4
+662	2016-07-20 02:14:42.350721+00	2686	Mr.Robert Houlihan	3		21	4
+663	2016-07-20 02:16:32.096685+00	5705	Ms.Claudia Polzer	3		21	4
+664	2016-07-20 02:16:59.785038+00	3968	Ms. Eldita Marques	3		21	4
+665	2016-07-20 02:17:53.948508+00	2110	Ms. Nadia Hadi	3		21	4
+666	2016-07-20 02:18:49.106119+00	1987	M.V Patricia Anne Hotung	3		21	4
+667	2016-07-20 02:19:19.959376+00	3766	Naka Nakayama	3		21	4
+668	2016-07-20 02:19:44.794299+00	3069	Narcisio da Costa	3		21	4
+669	2016-07-20 02:19:49.689918+00	3065	Narcisio da Costa	3		21	4
+670	2016-07-20 02:21:16.474506+00	2752	Nazario da Silva	3		21	4
+671	2016-07-20 02:23:39.52994+00	2754	Nelson Hendriques	3		21	4
+672	2016-07-20 02:25:32.84666+00	1355	Niall BYRNE	3		21	4
+673	2016-07-20 02:25:54.577047+00	2423	Nigel THOMSON	3		21	4
+674	2016-07-20 02:26:47.377093+00	5996	Noemia Ferreira Gomes	3		21	4
+675	2016-07-20 02:32:19.624168+00	1701	Noemia Sequeira	3		21	4
+676	2016-07-20 02:32:29.130683+00	5044	Noemia Sequeira	3		21	4
+677	2016-07-20 02:33:06.311254+00	3713	Odete Moniz	3		21	4
+678	2016-07-20 03:23:07.42652+00	30	Koko	3		7	5
+679	2016-07-21 00:53:52.565148+00	4483	Veronica Sendirin dos Reis	3		21	4
+680	2016-07-21 00:54:37.47102+00	4539	Vilvrida M. Fernandes	2	Changed name.	21	4
+681	2016-07-21 00:55:24.871595+00	2685	Wayang Tambun	3		21	4
+682	2016-07-21 00:55:32.634132+00	4422	Wayan Tambun	3		21	4
+683	2016-07-21 00:56:23.389376+00	2776	Xisto Goncalves	3		21	4
+684	2016-07-21 00:56:48.404512+00	1590	Xisto Martins	3		21	4
+685	2016-07-21 00:57:08.945953+00	2098	Yataka Kobayashi	3		21	4
+686	2016-07-21 00:57:18.899756+00	2014	Yataka Kobayashi	3		21	4
+687	2016-07-21 00:57:39.427484+00	5136	Yilio N.B  Gonsalves	3		21	4
+688	2016-07-21 00:58:07.087517+00	5131	Yulio R.B Gonsalves	3		21	4
+689	2016-07-21 00:58:21.693515+00	2009	Yumiko Matsuba	3		21	4
+690	2016-07-21 00:58:39.872066+00	1434	Yune Pak	3		21	4
+691	2016-07-21 00:58:43.227009+00	3855	Yunus Karpada	3		21	4
+692	2016-07-21 00:59:09.639678+00	1092	Zacarias da costa	3		21	4
+693	2016-07-21 01:00:14.368618+00	5801	Zelia M. de Fatima	2	Changed name.	21	4
+694	2016-07-21 01:00:35.943761+00	1796	Abdula Said Sagran	3		21	4
+695	2016-07-21 01:01:23.377607+00	4925	Abel Belo da Silva	3		21	4
+696	2016-07-21 01:02:12.490871+00	3805	Abel da Cruz	3		21	4
+697	2016-07-21 01:02:18.456824+00	4370	Abel de Sousa	3		21	4
+698	2016-07-21 01:02:31.346636+00	1849	Abel Gomes	3		21	4
+699	2016-07-21 01:03:01.244354+00	2589	Abel Ribeiro	3		21	4
+700	2016-07-21 01:03:35.032104+00	1376	Abilio Belo	3		21	4
+701	2016-07-21 01:03:39.35062+00	4053	Abilio da Silva	3		21	4
+702	2016-07-21 01:04:15.874016+00	2824	Abilio Florentino Gomes	3		21	4
+703	2016-07-21 01:05:18.299081+00	2622	Abilio Sarmento	3		21	4
+704	2016-07-21 01:05:39.500458+00	2806	Abilio Suni	3		21	4
+705	2016-07-21 01:06:43.240186+00	2063	Acacio Borgues da Silva Soares	3		21	4
+706	2016-07-21 01:08:03.388597+00	2968	Adao da Costa Andrade	3		21	4
+707	2016-07-21 01:08:20.164608+00	3999	Adao dos Santos	3		21	4
+708	2016-07-21 01:08:40.634486+00	5619	Adao Mesquita	2	Changed title.	21	4
+709	2016-07-21 01:08:47.948083+00	469	Adao Moniz	3		21	4
+710	2016-07-21 01:09:13.818692+00	421	Adelaide Marques Freitas Ena	2	Changed title.	21	4
+711	2016-07-21 01:12:49.953907+00	4064	Adelio  Lopes	3		21	4
+712	2016-07-21 01:13:32.520192+00	710	Aderito Punef	3		21	4
+713	2016-07-21 01:15:06.229036+00	3974	Adolfo da Costa Hornai	3		21	4
+714	2016-07-21 01:15:14.08743+00	4417	Adolfo da Silva	3		21	4
+715	2016-07-21 01:16:11.847987+00	1881	Adriana Fernandes	3		21	4
+716	2016-07-21 01:17:30.036524+00	2769	Afonso Buru Bara	3		21	4
+717	2016-07-21 01:18:07.897532+00	10	mARTINZ	1	Added.	4	5
+718	2016-07-21 01:18:28.092003+00	5512	Afonso Freitas	2	Changed title.	21	4
+719	2016-07-21 01:18:39.062775+00	4737	Afonso Manuel	3		21	4
+720	2016-07-21 01:20:36.126012+00	10	mARTINZ	2	Changed is_staff.	4	5
+721	2016-07-21 01:21:29.467837+00	5673	Agapito Rosa Carvalho	2	Changed phone.	21	4
+722	2016-07-21 01:22:37.046302+00	5651	Agostinho da G. Felho	3		21	4
+723	2016-07-21 01:22:50.222579+00	1625	Agostinho Soares	3		21	4
+724	2016-07-21 01:23:09.713249+00	5102	Agosto Baptista Soares	3		21	4
+725	2016-07-21 01:23:17.829358+00	4715	Agosto de Jesus	3		21	4
+726	2016-07-21 01:23:41.013813+00	2059	Agosto Marques. SH	2	Changed name.	21	4
+727	2016-07-21 01:24:02.567525+00	2059	Agosto Marques. SH	3		21	4
+728	2016-07-21 01:25:02.218856+00	2544	Agusto dos Santos Soares	3		21	4
+729	2016-07-21 01:25:19.572146+00	4076	Agusto Freitas Viegas	3		21	4
+730	2016-07-21 01:25:46.914503+00	4495	Agusto Martins	3		21	4
+731	2016-07-21 01:25:57.04703+00	3751	Agusto Mesquita	3		21	4
+732	2016-07-21 01:26:05.765202+00	4114	Agusto Neno	3		21	4
+733	2016-07-21 01:26:25.082504+00	1593	Agusto Pinto Ribeiro	3		21	4
+734	2016-07-21 01:26:33.538742+00	4972	Agus Viana	3		21	4
+735	2016-07-21 01:27:24.204829+00	5076	Alan Fletcher	3		21	4
+736	2016-07-21 01:27:47.71305+00	3900	Albertina Maria da Luz	3		21	4
+737	2016-07-21 01:27:59.642023+00	5423	Albertino de Araujo Asa	3		21	4
+738	2016-07-21 01:28:22.02031+00	1379	Alberto Carlos	3		21	4
+739	2016-07-21 01:28:55.264525+00	1716	Alberto da Costa	3		21	4
+740	2016-07-21 01:29:23.057643+00	2691	Alberto Guerra	3		21	4
+741	2016-07-21 01:29:45.253475+00	4084	Alberto Mascarinhas	3		21	4
+742	2016-07-21 01:30:10.403004+00	4047	Alberto Sarmento	3		21	4
+743	2016-07-21 01:30:26.502129+00	4017	Albino Gonzalves da Silva	3		21	4
+744	2016-07-21 01:30:47.206849+00	3058	Alcina Atolan	3		21	4
+745	2016-07-21 01:31:51.856943+00	5348	Alda dos Santos Sarmento	3		21	4
+746	2016-07-21 01:32:19.363528+00	5522	Aleixo A. Freitas	3		21	4
+747	2016-07-21 01:32:26.822876+00	3836	Aleixo Alves Gusmao	3		21	4
+748	2016-07-21 01:32:41.715435+00	2849	Aleixo da Costa	3		21	4
+749	2016-07-21 01:32:47.40582+00	4843	Aleixo dos Santos	3		21	4
+750	2016-07-21 01:32:52.597005+00	3911	Aleixo Ribeiro	3		21	4
+751	2016-07-21 01:33:49.802708+00	5111	Alexandre Amaral	3		21	4
+752	2016-07-21 01:34:41.209614+00	823	Alexandre Freitas Gusmao	3		21	4
+753	2016-07-21 01:37:26.968732+00	3987	Alexandrino de Jesus da Costa	3		21	4
+754	2016-07-21 01:37:36.61291+00	1786	Alexandrino Pereira	3		21	4
+755	2016-07-21 01:38:12.16189+00	442	Alexio Marques	3		21	4
+756	2016-07-21 01:42:10.648647+00	2727	Alfredo do Carmo	3		21	4
+757	2016-07-21 01:42:33.643271+00	1772	Alfredo Jeronimo Guterres	3		21	4
+758	2016-07-21 01:42:46.317985+00	1572	Alfredo Zamudio	3		21	4
+759	2016-07-21 01:43:09.687933+00	1502	Alice da Gloria	3		21	4
+760	2016-07-21 01:43:15.59461+00	3944	Alice Passos	3		21	4
+761	2016-07-21 01:43:23.769282+00	2531	Ali Gallies	3		21	4
+762	2016-07-21 01:44:41.987474+00	10	mARTINZ	3		4	9
+763	2016-07-21 01:44:45.105954+00	3117	Almerindo Oliveira	3		21	4
+764	2016-07-21 01:46:01.355359+00	3966	Alvaro Ribeiro	2	Changed phone.	21	4
+765	2016-07-21 01:46:07.864739+00	5703	Alwin Schuchmann	3		21	4
+766	2016-07-21 01:46:45.189783+00	1668	Alzira Pinto	3		21	4
+767	2016-07-21 01:47:13.400567+00	4187	Amadeo dos Santos	3		21	4
+768	2016-07-21 01:47:55.525644+00	3956	Amelia Andrade	3		21	4
+769	2016-07-21 01:48:11.67974+00	3166	Amaro Campos	3		21	4
+770	2016-07-21 01:48:24.784987+00	5434	Amaro Silveiro dos Santos	3		21	4
+771	2016-07-21 01:48:29.12449+00	4828	Amavel Corbafo	3		21	4
+772	2016-07-21 01:49:35.469538+00	1711	Andre Leite	3		21	4
+773	2016-07-21 01:49:49.761358+00	468	Andrew Bowes	2	Changed phone.	21	4
+774	2016-07-21 01:50:07.424307+00	4797	Andy Stewart	3		21	4
+775	2016-07-21 01:50:14.688133+00	4400	Angela da Cruz	3		21	4
+776	2016-07-21 01:51:30.982357+00	4869	Angelina da Costa	3		21	4
+777	2016-07-21 01:51:39.996452+00	3046	Angelina de Araujo	3		21	4
+778	2016-07-21 01:52:34.516662+00	5730	Angelino Maia	2	No fields changed.	21	4
+779	2016-07-21 01:52:47.424714+00	5730	Angelino Maia	3		21	4
+780	2016-07-21 01:53:33.967683+00	1853	Angelo Silva	3		21	4
+781	2016-07-21 01:53:39.153369+00	1941	Angelo Soares	3		21	4
+782	2016-07-21 01:54:13.973566+00	3147	Anibal Colocaun	3		21	4
+783	2016-07-21 01:54:21.340138+00	4001	Aniceto Guru Berteni Neves	3		21	4
+784	2016-07-21 01:54:59.478003+00	2418	Anita Delany	3		21	4
+785	2016-07-21 01:55:30.34785+00	3919	Anna Maria Mosliw	3		21	4
+786	2016-07-21 01:56:10.066312+00	2346	Anne Measday	3		21	4
+787	2016-07-21 01:56:29.223041+00	3840	Annette Madvig	3		21	4
+788	2016-07-21 01:56:46.80982+00	3954	Annie Major	2	Changed title.	21	4
+789	2016-07-21 01:56:53.61849+00	4757	Annie Sloman	3		21	4
+790	2016-07-21 05:51:36.835573+00	252	Aquilino Fraga	3		21	4
+791	2016-07-21 05:52:04.068189+00	3822	Aquinho Soares	3		21	4
+792	2016-07-21 05:54:05.111374+00	2721	Armando Magno	3		21	4
+793	2016-07-21 05:54:23.227362+00	962	Armando Noronha	3		21	4
+794	2016-07-21 05:54:30.329064+00	1995	Armando Sequeira	3		21	4
+795	2016-07-21 05:54:39.254454+00	2415	Armando Ximenes	3		21	4
+796	2016-07-21 05:55:01.112465+00	3161	Arminda de Orleans	3		21	4
+797	2016-07-21 05:55:47.428776+00	3072	Arnaldo da Silva	3		21	4
+798	2016-07-21 05:55:58.924247+00	2987	Arsenio Pereira	3		21	4
+799	2016-07-21 05:56:19.109874+00	3107	Artur da Cruz	3		21	4
+800	2016-07-21 05:58:40.369665+00	4328	Augusto Mali	3		21	4
+801	2016-07-21 06:18:00.950868+00	2131	Augusto Mesquita	3		21	4
+802	2016-07-21 06:18:14.425002+00	1210	Augusto Pereira	3		21	4
+803	2016-07-21 06:18:58.628549+00	2052	Auria Ximenes	3		21	4
+804	2016-07-21 06:20:02.15348+00	258	Azitu Fernandes	2	Changed phone.	21	4
+805	2016-07-21 06:20:32.761412+00	1135	Balvinder Singh Powar	3		21	4
+806	2016-07-21 06:20:43.438912+00	4460	Baptiste Reverdit	3		21	4
+807	2016-07-21 06:21:40.410994+00	384	Basil Rolandsen	3		21	4
+808	2016-07-21 06:22:06.101433+00	4269	Basri Jafar	3		21	4
+809	2016-07-21 06:22:37.407539+00	5207	Beatriz dos Santos	3		21	4
+810	2016-07-21 06:23:33.815512+00	4057	Belito Marcal	3		21	4
+811	2016-07-21 06:23:55.032215+00	2870	Bendita Amaral	3		21	4
+812	2016-07-21 06:32:59.262251+00	2945	Bendita Na'as	3		21	4
+813	2016-07-21 06:33:47.907937+00	4992	Benedict Mukamba	3		21	4
+814	2016-07-21 06:34:11.2936+00	4450	Benigna Martins	3		21	4
+815	2016-07-21 06:35:21.026261+00	4119	Bernadete Angela Nesi	3		21	4
+816	2016-07-21 06:35:52.6603+00	4112	Bernadino da Costa Nunes	3		21	4
+817	2016-07-21 06:36:02.883514+00	5184	Bernadino Martins Diaz	3		21	4
+818	2016-07-21 06:36:12.54094+00	4837	Bernado Soares	3		21	4
+819	2016-07-21 06:36:24.691678+00	4331	Bernardo da Silva	3		21	4
+820	2016-07-21 06:36:34.600062+00	2812	Bernardo de Carvalho	3		21	4
+821	2016-07-21 06:37:23.390926+00	5257	Caitano Carceres	3		21	4
+822	2016-07-21 06:37:33.355251+00	1891	Calisto Anunu Meco	3		21	4
+823	2016-07-21 06:38:19.170686+00	3819	Calistro de Fatima	3		21	4
+824	2016-07-21 06:39:02.131156+00	3030	Camilio Bone	3		21	4
+825	2016-07-21 08:03:14.579835+00	1904	Cancio Casimata	3		21	4
+826	2016-07-21 08:03:31.090109+00	2986	Cancio Coa	3		21	4
+827	2016-07-21 08:03:41.618652+00	2133	Cancio Soares	3		21	4
+828	2016-07-21 08:03:54.829796+00	1441	Carilena Maria Mendonca	2	Changed name.	21	4
+829	2016-07-21 08:04:17.063649+00	2760	Carlito Alves	3		21	4
+830	2016-07-21 08:04:27.14212+00	4024	Carlito Araujo	3		21	4
+831	2016-07-21 08:04:47.83121+00	4322	Carlito da Gloria Loe	3		21	4
+832	2016-07-21 08:05:45.511558+00	1561	Carlito Goncalves	3		21	4
+833	2016-07-21 08:06:37.710001+00	3085	Carlos Buas	3		21	4
+834	2016-07-21 08:06:46.480155+00	4354	Carlos da Silva Babo	3		21	4
+835	2016-07-21 08:08:03.946153+00	2763	Carlos Moniz Goncalves	2	No fields changed.	21	4
+836	2016-07-21 08:08:21.533679+00	3176	Carlos Rodrigues	3		21	4
+837	2016-07-21 08:08:36.684826+00	3096	Carlos Salsinha Menezes L. C. G	3		21	4
+838	2016-07-21 08:08:57.4508+00	2886	Carlos Soares Nunes	3		21	4
+839	2016-07-21 08:09:02.98119+00	1925	Carlos Soares Ribeiro	3		21	4
+840	2016-07-21 08:10:30.427644+00	5733	Carmaneza M. N. Soares	2	Changed phone.	21	4
+841	2016-07-21 08:11:21.103398+00	4427	Casimiro Pinto	3		21	4
+842	2016-07-21 08:11:55.216675+00	1495	Castro Martins	3		21	4
+843	2016-07-21 08:12:05.9318+00	2877	Catarina Caunan	3		21	4
+844	2016-07-21 08:12:23.919398+00	2947	Catarina Mene	3		21	4
+845	2016-07-21 08:12:44.117091+00	4172	Catherine Gillet	3		21	4
+846	2016-07-21 08:13:00.460992+00	1272	Catherine Kelly	3		21	4
+847	2016-07-21 08:13:32.46954+00	2772	Cecilia da Fonseca	3		21	4
+848	2016-07-21 08:14:33.254293+00	3873	Cecilia da Silva Pires	3		21	4
+849	2016-07-21 08:15:13.742211+00	2876	Cecilia Taek	3		21	4
+850	2016-07-21 08:15:44.703091+00	2872	Celeste Aparicio	3		21	4
+851	2016-07-21 08:15:58.702901+00	4387	Celeste da costa S. Guterres	3		21	4
+852	2016-07-21 08:16:06.627135+00	2722	Celeste Sarmento dos Reis	3		21	4
+853	2016-07-21 08:16:41.745856+00	2758	Celestino Gomes Pereira	3		21	4
+854	2016-07-21 08:17:09.226279+00	3846	Celestino Gusmao	3		21	4
+855	2016-07-21 08:17:18.325008+00	941	Celestino Haumetan	3		21	4
+856	2016-07-21 08:17:42.544053+00	728	Celestino Henriques	3		21	4
+857	2016-07-21 08:17:54.059639+00	4117	Celestino Luruk Klau	3		21	4
+858	2016-07-21 08:18:04.997879+00	4330	Celestino Soares	3		21	4
+859	2016-07-21 08:19:17.836654+00	5084	Celia Parry	3		21	4
+860	2016-07-21 08:19:57.190412+00	1950	Celson Fonseca	3		21	4
+861	2016-07-21 08:20:23.370755+00	3781	Cesaltina Angela Soares	3		21	4
+862	2016-07-21 08:20:29.483594+00	2246	Cesaltina Bento Gomes	3		21	4
+863	2016-07-21 08:20:39.447173+00	2636	Cesaltina da Silva	3		21	4
+864	2016-07-21 08:20:51.670914+00	3938	Cesaltino Belo	3		21	4
+865	2016-07-21 08:21:28.985435+00	5893	Cesaltino Freitas Marques	3		21	4
+866	2016-07-21 08:21:33.328136+00	2720	Cesar  Manuel da Silva	3		21	4
+867	2016-07-21 08:21:47.273821+00	3958	Cesar Melito	3		21	4
+868	2016-07-21 08:22:22.917338+00	3704	Chamot Alves	3		21	4
+869	2016-07-21 08:22:29.566174+00	2024	Chang Deok Lee	3		21	4
+870	2016-07-21 08:23:01.235991+00	2416	Charles S. Rice	3		21	4
+871	2016-07-21 08:23:21.554135+00	1973	Chiquito Guterres	3		21	4
+872	2016-07-21 08:23:49.21833+00	5035	Christine O. Halloran	2	Changed name.	21	4
+873	2016-07-21 08:23:56.603761+00	4247	Christopher Michael Hoffman	3		21	4
+874	2016-07-21 08:24:05.838426+00	1983	Christopher Ross Smith	3		21	4
+875	2016-07-21 08:24:59.520541+00	1935	Crisanto de Araujo Boki	3		21	4
+876	2016-07-22 00:53:11.391449+00	2613	Cristiano da Costa	3		21	4
+877	2016-07-22 00:54:32.048932+00	5672	Crizodia Ferreira	2	Changed phone.	21	4
+878	2016-07-22 00:54:48.726373+00	5068	C. Steven  McGann	2	No fields changed.	21	4
+879	2016-07-22 00:55:14.294848+00	4010	Custodio Mali Dao	3		21	4
+880	2016-07-22 00:56:05.289213+00	5836	Damiao Mendonca	3		21	4
+881	2016-07-22 00:56:28.361517+00	4272	Dandan Chen	2	Changed phone.	21	4
+882	2016-07-22 00:57:04.388977+00	1563	Daniel Francisco	3		21	4
+883	2016-07-22 00:57:15.463132+00	2007	Daniel Goncalves	3		21	4
+884	2016-07-22 00:57:31.219613+00	5013	Daniel Gonzaga	3		21	4
+885	2016-07-22 00:57:40.502789+00	2001	Daniel Honig	3		21	4
+886	2016-07-22 00:57:57.58229+00	5546	Daniel J. Groshong	3		21	4
+887	2016-07-22 00:58:16.49241+00	2505	Daniel Santos do Carmo	3		21	4
+888	2016-07-22 00:59:07.326732+00	1658	Daniel Soares	3		21	4
+889	2016-07-22 00:59:30.241278+00	2093	Danilio Babo	3		21	4
+890	2016-07-22 00:59:40.94656+00	828	Danny Harvey	3		21	4
+891	2016-07-22 01:00:15.429712+00	3092	Darren Hercyk	3		21	4
+892	2016-07-22 01:00:24.581499+00	4674	Darren Milles	3		21	4
+893	2016-07-22 01:00:35.8005+00	1967	David Bendito Silva	3		21	4
+894	2016-07-22 01:00:45.947899+00	2258	David Bloss	3		21	4
+895	2016-07-22 01:00:55.895548+00	2304	David Boycen	3		21	4
+896	2016-07-22 01:01:49.729221+00	2591	David Marcal	3		21	4
+897	2016-07-22 01:02:26.621607+00	267	David Rodrigues Sampaio	3		21	4
+898	2016-07-22 01:02:55.527701+00	5073	Debbie Chia	3		21	4
+899	2016-07-22 01:03:17.111663+00	4408	Dedy Lay	3		21	4
+900	2016-07-22 01:03:26.073252+00	5429	Del Bovill	3		21	4
+901	2016-07-22 01:03:51.628244+00	5218	Delfina da Silva	3		21	4
+902	2016-07-22 01:04:01.639138+00	2761	Delfina de Jesus	3		21	4
+903	2016-07-22 01:04:11.067313+00	4074	Delfin Diaz	3		21	4
+904	2016-07-22 01:04:21.006075+00	294	Delfin Gusmao	3		21	4
+905	2016-07-22 01:04:28.981696+00	2062	Delsio Guimaraes	3		21	4
+906	2016-07-22 01:05:06.236205+00	5646	Delson Barreto do Carmo	3		21	4
+907	2016-07-22 01:05:14.788426+00	5686	Demetrio Amaral	3		21	4
+908	2016-07-22 01:05:25.625494+00	491	Demetrio do Amaral de Carvalho	3		21	4
+909	2016-07-22 01:05:32.742235+00	2590	Denis Soares	3		21	4
+910	2016-07-22 01:05:59.693911+00	3816	Deodora Pereira	3		21	4
+911	2016-07-22 01:06:42.637509+00	2829	Diamantino B. R. Andrade	3		21	4
+912	2016-07-22 01:07:26.842136+00	1025	Diane Francisco	3		21	4
+913	2016-07-22 01:08:07.73686+00	5356	Dicky M. Dooradi	3		21	4
+914	2016-07-22 01:08:24.598064+00	5542	Dimitra Stojkov	3		21	4
+915	2016-07-22 01:08:45.297508+00	2034	Dinesh Bajracharya	3		21	4
+916	2016-07-22 01:09:07.553741+00	4137	Dino Dias Quintas	3		21	4
+917	2016-07-22 01:09:22.972295+00	4898	Dionisio dos Santos	3		21	4
+918	2016-07-22 01:10:30.079972+00	4510	Domingas Amaral	3		21	4
+919	2016-07-22 01:11:08.565566+00	3113	Domingas da Silva Pinto	3		21	4
+920	2016-07-22 01:11:31.703029+00	2924	Domingas Falamira	3		21	4
+921	2016-07-22 01:12:00.008488+00	4388	Domingas Hornai	3		21	4
+922	2016-07-22 01:12:41.562284+00	2603	Domingas Oliveira	3		21	4
+923	2016-07-22 01:12:55.363484+00	2869	Domingas S. da Silva	3		21	4
+924	2016-07-22 02:43:15.07553+00	5481	Dotana Sejaltins da Conceição Freitas	3		21	4
+925	2016-07-22 02:43:32.49665+00	4217	Dr. Domingas Sarmento	2	Changed name.	21	4
+926	2016-07-22 02:45:05.562201+00	5562	Drew Penland	3		21	4
+927	2016-07-22 02:45:19.398039+00	2908	Dr Hayfa Elamin	3		21	4
+928	2016-07-22 02:45:47.687359+00	1703	Dr. Karin Benan	3		21	4
+929	2016-07-22 02:47:06.389999+00	5706	Dr. Wulf Killmann	3		21	4
+930	2016-07-22 02:47:24.253505+00	4735	Duarte Baptista Freitas	3		21	4
+931	2016-07-22 02:47:37.458824+00	2336	Duarte Barros	3		21	4
+932	2016-07-22 02:48:39.389637+00	4845	Duarte de Araujo	3		21	4
+933	2016-07-22 02:48:55.537991+00	1927	Duarte Nunes	3		21	4
+934	2016-07-22 02:49:36.48134+00	2838	Duarte Soares Brandao	3		21	4
+935	2016-07-22 02:52:11.719954+00	2821	Dulce da Costa Mariano	3		21	4
+936	2016-07-22 02:52:27.565513+00	2644	Dulce Dau - Tai	3		21	4
+937	2016-07-22 02:52:43.763421+00	3200	Dulce de Jesus Soares	3		21	4
+938	2016-07-22 02:53:01.438034+00	5667	Dulce Santina Belo	3		21	4
+939	2016-07-22 02:53:12.367673+00	1660	Dulcia Henrique	3		21	4
+940	2016-07-22 02:56:21.015023+00	3067	Dunalva Libeiro Coelho	3		21	4
+941	2016-07-22 02:56:40.213913+00	4293	Dylan Gerrard	3		21	4
+942	2016-07-22 02:58:14.248262+00	5675	Edinho F. Corte Real	2	Changed phone.	21	4
+943	2016-07-22 02:58:36.232576+00	3780	Edmundo Amaral	3		21	4
+944	2016-07-22 02:59:00.597331+00	2118	Edmundo Viegas	3		21	4
+945	2016-07-22 02:59:55.846826+00	1821	Eduardo Costa	3		21	4
+946	2016-07-22 03:01:00.68559+00	1907	Eduardo Teme	3		21	4
+947	2016-07-22 03:01:15.198672+00	5652	Eduardo Trucco	3		21	4
+948	2016-07-22 03:02:18.767667+00	2523	Edy Setiabudi	3		21	4
+949	2016-07-22 03:02:40.307052+00	826	Efigenia Soares	3		21	4
+950	2016-07-22 03:03:03.038906+00	4130	Efrem Pereira	3		21	4
+951	2016-07-22 03:12:36.242623+00	2214	Egas de Araujo Moniz	3		21	4
+952	2016-07-22 03:12:47.718574+00	5658	Egas Moniz	3		21	4
+953	2016-07-22 03:13:14.824124+00	273	Ego Lemos	3		21	4
+954	2016-07-22 03:13:53.961222+00	780	Elda Maria Guterres	3		21	4
+955	2016-07-22 03:15:12.199305+00	4975	Elio Pereira G	2	Changed name.	21	4
+956	2016-07-22 03:15:21.153783+00	3942	Eliot Stephen	3		21	4
+957	2016-07-22 03:15:55.071934+00	2659	Elisario Bianco da Costa	3		21	4
+958	2016-07-22 03:16:15.025192+00	5104	Elito da Costa	3		21	4
+959	2016-07-22 03:16:34.449132+00	2748	Elizabeth Elson	3		21	4
+960	2016-07-22 03:17:40.961794+00	1264	Elmar Goebl	3		21	4
+961	2016-07-22 03:17:58.687006+00	5857	Elsa Magno	3		21	4
+962	2016-07-22 03:18:31.043726+00	1604	Elsa Silva	3		21	4
+963	2016-07-22 03:18:59.797594+00	5430	Elyana Costa Silva	3		21	4
+964	2016-07-22 03:19:15.361951+00	2421	Emanuel Braz	3		21	4
+965	2016-07-22 03:19:59.184063+00	4535	Emiliana de Jesus	3		21	4
+966	2016-07-22 03:20:29.789257+00	3800	Emily Morrison	3		21	4
+967	2016-07-22 03:20:56.721702+00	4129	Emma Coupland	2	Changed title.	21	4
+968	2016-07-22 03:21:12.463961+00	4889	Eng. Ladislau Maria das Dores	3		21	4
+969	2016-07-22 03:21:27.015002+00	2991	Eng. Mateus Salvador	3		21	4
+970	2016-07-22 03:21:47.096318+00	275	Enoque dos Santos Porto	3		21	4
+971	2016-07-22 05:29:13.987312+00	2294	Evangelino Fatima	3		21	4
+972	2016-07-22 05:30:08.729905+00	5281	Faustino dos Santos Pereira	3		21	4
+973	2016-07-22 05:31:00.39757+00	3159	Feliciano de Jesus Aleixo	3		21	4
+974	2016-07-22 05:32:30.200414+00	4056	Felipe Soares	3		21	4
+975	2016-07-22 05:32:38.84583+00	2952	Felisberta dos  Santos	3		21	4
+976	2016-07-22 05:33:09.7363+00	5470	Felisberto de Carvalho Pinto	3		21	4
+977	2016-07-22 05:33:21.662545+00	3928	Felisberto Monteiro	3		21	4
+978	2016-07-22 05:33:40.382682+00	5178	Feliszarda Monis	3		21	4
+979	2016-07-22 05:33:53.142041+00	4566	Felix de Andrade	3		21	4
+980	2016-07-22 05:34:27.842676+00	3128	Feliz Ressy Marques	3		21	4
+981	2016-07-22 05:34:40.733547+00	2961	Fernanda Gomes	3		21	4
+982	2016-07-22 05:36:13.96961+00	3833	Fernando da Silva	3		21	4
+983	2016-07-22 05:36:28.670302+00	2578	Fernando de araujo Goncalves	3		21	4
+984	2016-07-22 05:36:38.0823+00	2985	Fernando dos Reis	3		21	4
+985	2016-07-22 05:37:04.67208+00	4183	Fernando Silva	3		21	4
+986	2016-07-22 05:37:54.747647+00	5669	Fidelita Diana	3		21	4
+987	2016-07-22 05:39:23.814942+00	695	Filismenio de Jesus	3		21	4
+988	2016-07-22 05:39:33.086847+00	803	Filomena Caetano Moniz de A.	3		21	4
+989	2016-07-22 05:39:40.359066+00	5699	Filomena de Jesus Pinto Filipe	3		21	4
+990	2016-07-22 05:39:58.901603+00	3123	Filomena Fuca	3		21	4
+991	2016-07-22 05:40:19.953505+00	5098	Filomena Goncalves Magalhaes	3		21	4
+992	2016-07-22 05:40:34.230682+00	2665	Filomena Maia Baroz	3		21	4
+993	2016-07-22 05:40:44.912416+00	2436	Filomena Sila	3		21	4
+994	2016-07-22 05:41:07.726788+00	2922	Filomena Soares	3		21	4
+995	2016-07-22 05:41:17.363881+00	5359	Filomeno dos Santos	3		21	4
+996	2016-07-22 05:41:26.489816+00	3794	Filomeno Maria Mendonca	3		21	4
+997	2016-07-22 05:41:40.612435+00	3188	Filomeno Pinto	3		21	4
+998	2016-07-22 05:41:59.705733+00	2543	Filomino Soares	3		21	4
+999	2016-07-22 05:42:11.590664+00	2359	Finn Reske  Nielsen	3		21	4
+1000	2016-07-22 05:42:56.559213+00	4547	Flaviano Pereira Jeronimo	3		21	4
+1001	2016-07-22 05:43:11.760779+00	1934	Flavio da Costa Guterres	3		21	4
+1002	2016-07-22 05:45:24.480142+00	472	Florentina Soares	3		21	4
+1003	2016-07-22 05:47:24.79346+00	4124	Florentino dos Santos Ximenes	3		21	4
+1004	2016-07-22 05:47:57.652362+00	3725	Florinda do Santos	3		21	4
+1005	2016-07-22 05:48:19.748847+00	471	Florindo da Silva	3		21	4
+1006	2016-07-22 05:49:00.814215+00	5416	Fortunato Amaral	3		21	4
+1007	2016-07-22 05:49:18.031226+00	3964	Francedez Suni	3		21	4
+1008	2016-07-22 05:49:38.234813+00	4448	Francelino Guterres	3		21	4
+1009	2016-07-22 05:49:49.598516+00	4690	Francelino Sequeira Belo	3		21	4
+1010	2016-07-22 05:50:14.433607+00	4692	Francisca Alves Taolin	3		21	4
+1011	2016-07-22 05:50:41.647242+00	2618	Francisca E. Luruk	3		21	4
+1012	2016-07-22 05:51:05.616525+00	5928	Francisca Varela	3		21	4
+1013	2016-07-22 05:51:16.172038+00	1165	Francisco Belo	3		21	4
+1014	2016-07-26 00:02:38.241085+00	2550	Asian Development Fund	1	Added.	19	5
+1015	2016-07-26 00:26:10.120798+00	2551	Japan Fund for Poverty Reduction	1	Added.	19	5
+1016	2016-07-26 00:37:07.204528+00	2552	Technical Assistance Special Fund	1	Added.	19	5
+1017	2016-07-26 01:14:06.336796+00	6022	Hayden Everett	1	Added.	21	5
+1018	2016-07-26 01:33:30.303963+00	2553	Ordinary capital resources	1	Added.	19	5
+1019	2016-07-26 01:35:34.406769+00	6023	Responsible ADB Officer	1	Added.	21	5
+1020	2016-07-26 01:40:10.241322+00	6023	James Trainor	2	Changed name and title.	21	5
+1021	2016-07-26 01:42:25.398168+00	2554	Ministry of Public Works, Transport and Communications (formerly Ministry of Public Works)	1	Added.	19	5
+1022	2016-07-26 01:54:24.362822+00	2555	Ministry of Education	1	Added.	19	5
+1023	2016-07-26 02:02:52.876002+00	2556	Ministry of Finance	1	Added.	19	5
+1024	2016-07-26 02:09:10.662549+00	2557	Ministry of Infrastructure	1	Added.	19	5
+1025	2016-07-26 02:20:16.929745+00	2558	Banco Nacional de Com rcio de Timor-Leste	1	Added.	19	5
+1026	2016-07-26 02:51:25.962993+00	2559	Council for Administration of the Infrastructure Fund (also Conselho Administrativo do Fundo Infraestrutura)	1	Added.	19	5
+1027	2016-07-26 04:57:29.433645+00	6024	Livio Xavier	1	Added.	21	5
+1028	2016-07-26 04:59:05.939645+00	6024	Livio Xavier	2	Changed email.	21	5
+1029	2016-07-26 05:00:19.562075+00	2560	State Secretariat for Electricity	1	Added.	19	5
+1030	2016-07-26 07:04:58.073955+00	2561	Global Environment Fund (GEF)/LDCF	1	Added.	19	5
+1031	2016-07-26 07:05:51.590618+00	2562	Ministry of Economy and Development	1	Added.	19	5
+1032	2016-07-26 07:06:09.472356+00	2563	Ministry of State Administration and Territorial Management	1	Added.	19	5
+1033	2016-07-27 00:11:00.60829+00	2564	Ministry of Commerce Industry and Environment	1	Added.	19	5
+1034	2016-07-27 00:41:12.99634+00	6025	Emmi Oklada	1	Added.	21	5
+1035	2016-07-27 00:57:26.477927+00	2565	UNDP Bureau for Crisis Prevention and Recovery (BCPR)	1	Added.	19	5
+1036	2016-07-27 01:17:19.61574+00	2566	Chamber of Commerce, Women’s Business Association	1	Added.	19	5
+1037	2016-07-27 01:17:41.593568+00	2567	Commercial Banks	1	Added.	19	5
+1038	2016-07-27 07:05:31.794952+00	2309	Feliciano Araujo	3		21	4
+1039	2016-07-27 07:05:42.830549+00	5528	Faustino Guterres	3		21	4
+1040	2016-07-27 07:06:43.139326+00	5162	Felizarda Tilman da Costa	3		21	4
+1041	2016-07-28 02:08:16.461477+00	4888	Dulcio Guterres	2	Changed title.	21	4
+1042	2016-07-28 02:08:28.98676+00	5688	Durbalina da Costa	3		21	4
+1043	2016-07-28 02:09:06.75306+00	5675	Edinho F. Corte Real	2	Changed title.	21	4
+1044	2016-07-28 02:10:33.842381+00	4529	Eduardo Martins  Azaola	2	Changed name.	21	4
+1045	2016-07-28 02:13:11.444247+00	3820	Elda Martins	3		21	4
+1046	2016-07-28 02:27:09.003504+00	5433	Eria dos Santos	3		21	4
+1047	2016-07-28 02:27:33.271618+00	1905	Erkulano Sousa	3		21	4
+1048	2016-07-28 02:27:43.963278+00	1310	Erling Jorge	3		21	4
+1049	2016-07-28 02:28:02.083887+00	5810	Ermelinda L. Nono	3		21	4
+1050	2016-07-28 02:28:24.909151+00	2490	Ermelito A Gusmao	3		21	4
+1051	2016-07-28 02:28:58.631123+00	1829	Ermenegildo Costa	3		21	4
+1052	2016-07-28 02:29:13.750975+00	926	Ernesto da Silva	3		21	4
+1053	2016-07-28 02:29:23.738953+00	2545	Esmenio dos Santos	3		21	4
+1054	2016-07-28 02:30:31.219923+00	1637	Estanislau Guterres	3		21	4
+1055	2016-07-28 02:30:40.751302+00	1799	Estanislau Martins	3		21	4
+1056	2016-07-28 02:30:53.689598+00	3983	Ester Dias Marques	3		21	4
+1057	2016-07-28 02:38:12.706177+00	2676	Etelvina da Costa	3		21	4
+1058	2016-07-28 02:38:43.282589+00	3986	Euclides Gusmao da Silva, L. Agrn	3		21	4
+1059	2016-07-28 02:38:51.319547+00	5119	Euclito Amaral	3		21	4
+1060	2016-07-28 02:44:57.405789+00	2514	Eurico Xavier	3		21	4
+1061	2016-07-28 02:45:10.020399+00	5561	Eurosia Ornai	3		21	4
+1062	2016-07-28 02:45:18.300622+00	1101	Eusebio Guterres	3		21	4
+1063	2016-07-28 02:46:29.871575+00	5604	Euzete Rangel	3		21	4
+1064	2016-07-28 02:49:45.984382+00	4413	Flavio Sebastião	3		21	4
+1065	2016-07-28 02:54:28.96781+00	2992	Florentino Mendonca	3		21	4
+1066	2016-07-28 07:14:52.203921+00	2982	Francisco das Neves	3		21	4
+1067	2016-07-28 07:15:16.235266+00	2197	Francisco de Deus Soares	3		21	4
+1068	2016-07-28 07:15:38.896991+00	3055	Francisco Jesus Suni	3		21	4
+1069	2016-07-28 07:16:40.859934+00	4104	Francisco Sene	3		21	4
+1070	2016-07-28 07:18:33.470943+00	5435	Francisco Soares de Jesus	3		21	4
+1071	2016-07-28 07:18:57.567772+00	5748	Francisco V. N de Jesus	3		21	4
+1072	2016-07-28 07:20:37.251405+00	1217	Frank Tyler	3		21	4
+1073	2016-07-28 07:20:43.516708+00	1836	Franquelino Costa	3		21	4
+1074	2016-07-28 07:20:52.470997+00	2271	Franquelino Da Costa Freitas	3		21	4
+1075	2016-07-28 07:21:28.172849+00	1988	Fransico Silva	3		21	4
+1076	2016-07-28 07:21:42.417928+00	2343	Fransisco Alves	3		21	4
+1077	2016-07-28 07:21:48.984471+00	5080	Fransisco da Silva Mendonca	3		21	4
+1078	2016-07-28 07:22:03.511218+00	5040	Fransisco de Deus	3		21	4
+1079	2016-07-28 07:22:49.482908+00	4407	Fransisco de Vasconcelos	3		21	4
+1080	2016-07-28 07:23:10.757068+00	4896	Fransisco Sarmento	3		21	4
+1081	2016-07-28 07:23:39.396446+00	2650	Franzelina Rut de Fatima	3		21	4
+1082	2016-07-28 07:24:12.203905+00	1791	Frederica da Luz Bans	3		21	4
+1083	2016-07-28 07:24:26.395581+00	4993	Frederick Mawanda	3		21	4
+1084	2016-07-28 07:24:33.809385+00	3738	Frederic M. De Fatima	3		21	4
+1085	2016-07-28 07:24:42.403031+00	3904	Frederico Almeida Santos da Costa	3		21	4
+1086	2016-07-28 07:25:06.726046+00	2485	Frederic Y. Juliao	3		21	4
+1087	2016-07-28 07:25:17.124103+00	2963	Fu Yuancong	3		21	4
+1088	2016-07-28 07:26:08.447256+00	3860	Gabriel L. Ribeiro	3		21	4
+1089	2016-07-28 07:27:10.775721+00	2111	Geert Klaassen	3		21	4
+1090	2016-07-28 07:27:21.280032+00	3817	Geoliva Maria Hendric Madeira	3		21	4
+1091	2016-07-28 07:28:03.00579+00	2989	George Amaral	3		21	4
+1092	2016-07-28 07:28:12.221141+00	5853	George Revuelta	3		21	4
+1093	2016-07-28 07:28:24.999588+00	3112	Georgia Noy	3		21	4
+1094	2016-07-28 07:28:38.797651+00	2718	Georgina da Silva	3		21	4
+1095	2016-07-28 07:30:02.885539+00	1318	Geraldine Arias	3		21	4
+1096	2016-07-28 07:30:11.125343+00	2638	Geraldine Mary Zwack	3		21	4
+1097	2016-07-28 07:30:20.622569+00	2097	Geraldinho Oliveira	3		21	4
+1098	2016-07-28 07:32:04.32432+00	1955	Guilhermino da Cruz	3		21	4
+1099	2016-07-28 07:32:24.626904+00	2211	Gunnar Eichholz	3		21	4
+1100	2016-07-28 07:33:40.039369+00	1865	Gustavo de Oliveira Maia	3		21	4
+1101	2016-07-28 07:34:16.953283+00	2109	Hans Klemm	3		21	4
+1102	2016-07-28 07:34:28.859099+00	2528	Hans Peter Christophersen	3		21	4
+1103	2016-07-28 07:34:59.420838+00	5943	Harri Hiekkanen	3		21	4
+1104	2016-07-28 07:35:22.97691+00	4738	Harun Boavida	2	Changed phone.	21	4
+1105	2016-07-28 07:36:12.435314+00	3885	Helder dos Santos	3		21	4
+1106	2016-07-28 07:37:01.121072+00	2146	Helena Soares	3		21	4
+1107	2016-07-28 07:37:21.184869+00	2389	Helen Moriarty	3		21	4
+1108	2016-07-28 07:38:03.852819+00	2496	Helio dos Santos	3		21	4
+1109	2016-07-28 07:38:29.347922+00	4834	Helio Jose Antonio da Costa	3		21	4
+1110	2016-07-28 07:38:45.337486+00	5020	Helven Gloria	3		21	4
+1111	2016-07-28 07:39:22.712363+00	2078	Henriette Von Kaltenborn	3		21	4
+1112	2016-07-28 07:39:33.099373+00	2071	Henrique A Bere Amaral	3		21	4
+1113	2016-07-28 07:40:08.856171+00	2634	Hercules Travolta de Jesus	3		21	4
+1114	2016-07-28 07:40:27.234916+00	1945	Hermenegildo Araujo	3		21	4
+1115	2016-07-28 07:40:50.940038+00	2660	Hermenegildo Corte Real	3		21	4
+1116	2016-07-28 07:40:56.71958+00	1556	Hermenegildo da Silva	3		21	4
+1117	2016-07-28 07:41:11.223679+00	5563	Hermenegildo dos Santos	3		21	4
+1118	2016-07-28 07:41:38.739289+00	2688	Hermenegildo Paicecho	3		21	4
+1119	2016-07-28 07:41:47.512533+00	4476	Hermenegildo Pinto	3		21	4
+1120	2016-07-28 07:42:04.023749+00	3799	Hermenegildo Soares	3		21	4
+1121	2016-07-28 07:42:39.210589+00	1374	Hernando Agudelo	3		21	4
+1122	2016-07-28 07:43:01.188613+00	2972	H. E. Sir Rui Botica Santos KGCM	2	Changed name.	21	4
+1123	2016-07-28 07:43:28.891023+00	2967	Hidetoshi Tanaka	3		21	4
+1124	2016-07-28 07:43:50.61393+00	4131	Hipolito de Jesus	3		21	4
+1125	2016-07-28 07:44:11.296257+00	3195	Hirohito Takata	3		21	4
+1126	2016-07-28 07:44:22.624659+00	2533	Hiroshi Enomoto	3		21	4
+1127	2016-07-28 07:44:33.421104+00	2171	Hisae Shiwa	3		21	4
+1128	2016-07-28 07:45:15.599694+00	1655	Horacio Soares	3		21	4
+1129	2016-07-28 07:45:23.412268+00	1782	Horasio Mendes	3		21	4
+1130	2016-07-28 07:46:08.641867+00	4171	Hugo Jorge	3		21	4
+1131	2016-07-28 07:46:19.162351+00	5224	Hugo Lebre	3		21	4
+1132	2016-07-28 07:46:28.469178+00	3858	Humbelina D. J. Key Andava	3		21	4
+1133	2016-07-28 07:46:38.840318+00	2625	Humberto da Costa	3		21	4
+1134	2016-07-28 07:47:05.303321+00	4174	Ian Anthony de La Rossa	3		21	4
+1135	2016-07-28 07:47:14.543765+00	4032	Igidio dos Santos	3		21	4
+1136	2016-07-28 07:47:24.401812+00	2166	Ilda da Costa	3		21	4
+1137	2016-07-29 00:36:41.723045+00	5078	Isidoro dos Santos Correia	2	Changed title.	21	4
+1138	2016-07-29 00:37:47.377069+00	1004	Ismenio Martins da Silva	3		21	4
+1139	2016-07-29 00:39:38.575364+00	2526	Iwao Kitahara	3		21	4
+1140	2016-07-29 00:39:59.541716+00	5405	Iza Bradridge	3		21	4
+1141	2016-07-29 00:40:24.429311+00	5466	Ivo Soares da Costa	3		21	4
+1142	2016-07-29 00:40:56.150756+00	5444	Izaias Xavier	3		21	4
+1143	2016-07-29 00:41:11.979807+00	5406	Izaro M Colo	3		21	4
+1144	2016-07-29 00:41:48.091314+00	5089	Jacinta de Sousa Pereira	2	Changed name.	21	4
+1145	2016-07-29 00:42:15.604134+00	1859	Jacinta Guterres	3		21	4
+1146	2016-07-29 00:42:28.15825+00	3021	Jacinta Maia	3		21	4
+1147	2016-07-29 00:43:07.352314+00	1003	Jacinto de Araujo	3		21	4
+1148	2016-07-29 00:43:31.133036+00	4325	Jacinto Pinto	3		21	4
+1149	2016-07-29 00:44:48.876405+00	5994	Jaime Assi Bento	3		21	4
+1150	2016-07-29 00:45:05.061855+00	5650	Jaime Mouzinho	3		21	4
+1151	2016-07-29 00:45:15.557967+00	5564	Jaimito Goncalves	3		21	4
+1152	2016-07-29 01:27:15.4575+00	3098	James Linch	3		21	4
+1153	2016-07-29 01:27:25.954657+00	2212	James Rock	3		21	4
+1154	2016-07-29 01:28:45.461055+00	5285	Januario Bendito	3		21	4
+1155	2016-07-29 01:28:58.94263+00	4289	Januario Bere Buti	3		21	4
+1156	2016-07-29 01:29:58.535187+00	2542	Januario Dos Santos	3		21	4
+1157	2016-07-29 01:31:16.334778+00	5265	Januario Marques	3		21	4
+1158	2016-07-29 01:31:25.768506+00	4805	Januario Martins	3		21	4
+1159	2016-07-29 01:32:14.297357+00	2031	Jaqueline Ramke	3		21	4
+1160	2016-07-29 01:32:21.22386+00	1601	Jason Belanger	3		21	4
+1161	2016-07-29 01:32:48.265044+00	1619	Jay Mahe Swaran	3		21	4
+1162	2016-07-29 01:33:23.575886+00	4246	Jelena Zelenovic	3		21	4
+1163	2016-07-29 01:33:43.142151+00	2822	Jelita Pires	3		21	4
+1164	2016-07-29 01:34:34.826803+00	5191	Jermano Gusmao	3		21	4
+1165	2016-07-29 01:34:53.915643+00	3733	Jesica Sequeira	3		21	4
+1166	2016-07-29 01:35:15.069616+00	965	Jessica Pearl	3		21	4
+1167	2016-07-29 01:35:27.818135+00	1624	Jessy Joseph	3		21	4
+1168	2016-07-29 01:36:13.094458+00	2458	Jill Jolliffe	3		21	4
+1169	2016-07-29 01:36:44.395317+00	5569	Joana da Costa	2	No fields changed.	21	4
+1170	2016-07-29 01:37:01.539513+00	4482	Joana Franco	3		21	4
+1171	2016-07-29 01:37:26.711486+00	2037	Joana Goik	3		21	4
+1172	2016-07-29 01:37:35.508566+00	2163	Joana Maria Babo	3		21	4
+1173	2016-07-29 01:38:09.270602+00	817	Joana Simoes	3		21	4
+1174	2016-07-29 01:43:18.306673+00	1700	Joao Loucao	3		21	4
+1175	2016-07-29 01:43:37.414846+00	2094	Joao Mauvelo	3		21	4
+1176	2016-07-29 01:48:48.248157+00	2556	Joao Pereira	3		21	4
+1177	2016-07-29 01:48:56.339805+00	5012	Joao Pereira da Silva	3		21	4
+1178	2016-07-29 01:49:21.552318+00	2132	Joao Perrera	3		21	4
+1179	2016-07-29 01:49:31.768077+00	3814	Joao Quintao	3		21	4
+1180	2016-07-29 01:49:45.00711+00	2090	Joao Reis Pequinho	3		21	4
+1181	2016-07-29 01:51:29.81697+00	1899	Joao Tabes	3		21	4
+1182	2016-07-29 01:53:45.279754+00	306	Joaquim Amaral	3		21	4
+1183	2016-07-29 01:54:48.497506+00	2670	Joaquim de Fatima Quintinho	3		21	4
+1184	2016-07-29 01:55:26.802362+00	5125	Joaquim Siaxas	3		21	4
+1185	2016-07-29 01:56:25.817293+00	2990	Jocelino Belmarco  Alves	3		21	4
+1186	2016-07-29 01:56:41.391798+00	5319	Joel Manuel Fernandes	3		21	4
+1187	2016-07-29 01:57:54.081855+00	3868	John Bruce Dalton	3		21	4
+1188	2016-07-29 01:58:00.79899+00	2019	John Hughan	3		21	4
+1189	2016-07-29 01:58:26.832701+00	1835	Joje Malik	3		21	4
+1190	2016-07-29 01:59:10.929302+00	1738	Jonas Souza	3		21	4
+1191	2016-07-29 02:00:03.74267+00	4284	Jonathan Gilam	3		21	4
+1192	2016-07-29 02:01:15.9725+00	5691	Joquelino Belmarco  Alves	3		21	4
+1193	2016-07-29 02:02:58.52438+00	5888	Jordanes Pessoa Vaz	3		21	4
+1194	2016-07-29 02:03:04.788894+00	3977	Jorge Baptista Pinto	3		21	4
+1195	2016-07-29 02:03:14.815464+00	2984	Jorge dos Santos	3		21	4
+1196	2016-07-29 02:04:49.870218+00	4062	Jose  A Gusmao	3		21	4
+1197	2016-07-29 02:05:01.903253+00	3158	Jose Agustinho Colo	3		21	4
+1198	2016-07-29 02:05:09.337849+00	3812	Jose A. M. De Deus	3		21	4
+1199	2016-07-29 02:25:39.308795+00	4404	Jose baeza Rosa	3		21	4
+1200	2016-08-01 05:37:18.440903+00	5884	Ismael Gomes	2	Changed title.	21	4
+1201	2016-08-01 05:51:32.330469+00	2407	Israel da Silva	3		21	4
+1202	2016-08-01 05:56:30.695342+00	5840	Ivonia Pinto Tsia	3		21	4
+1203	2016-08-02 01:48:39.125687+00	32	Micro-Capital Grant for UNDP’s Project on “Strengthening rule of law by supporting the establishment of Access to Justice Clinics (AJCs) in Timor-Leste”	3		7	5
+1204	2016-08-02 01:48:51.673575+00	31	Koko	3		7	5
+1205	2016-08-02 01:50:32.669894+00	33	Micro-Capital Grant for UNDP’s Project on “Strengthening rule of law by supporting the establishment of Access to Justice Clinics (AJCs) in Timor-Leste”	3		7	5
+1206	2016-08-02 01:56:38.21961+00	34	Micro-Capital Grant for UNDP’s Project on “Strengthening rule of law by supporting the establishment of Access to Justice Clinics (AJCs) in Timor-Leste	2	Changed description and application_end_date.	7	5
+1207	2016-08-02 02:03:35.90155+00	34	Micro-Capital Grant for UNDP’s Project on “Strengthening rule of law by supporting the establishment of Access to Justice Clinics (AJCs) in Timor-Leste	3		7	5
+1208	2016-08-02 02:09:25.108999+00	35	Micro-Capital Grant for UNDP’s Project on “Strengthening rule of law by supporting the establishment of Access to Justice Clinics (AJCs) in Timor-Leste”	2	Changed description and application_end_date.	7	5
+1209	2016-08-03 03:09:36.048759+00	3818	Joao Parada Ferreira	3		21	4
+1210	2016-08-05 07:21:14.808588+00	5277	Gida Xavier Pereira	2	Changed title.	21	5
+1211	2016-08-05 07:22:41.929666+00	6026	Rosalva Sandi	1	Added.	21	5
+1212	2016-08-08 01:38:01.048376+00	312	Jose Oliveira	3		21	4
+1213	2016-08-08 01:38:15.12776+00	1972	Jose Petro Aibadaen	3		21	4
+1214	2016-08-08 01:56:28.036886+00	3870	Joseph Freach	3		21	4
+1215	2016-08-08 01:56:55.306765+00	2765	Jose Raimundo Guterres	3		21	4
+1216	2016-08-08 01:57:10.91401+00	5353	Jose Rangel	3		21	4
+1217	2016-08-08 01:57:34.272608+00	4727	Jose Rangel	3		21	4
+1218	2016-08-08 01:57:51.616422+00	5262	Jose Reinaldo da Silva Soares	3		21	4
+1219	2016-08-08 01:59:03.666792+00	4116	Jose Salu Neno	3		21	4
+1220	2016-08-08 01:59:23.466941+00	1895	Jose Soares Gutere Lay	3		21	4
+1221	2016-08-08 01:59:34.958012+00	2123	Jose Sousa Santos	3		21	4
+1222	2016-08-08 02:00:22.105224+00	4793	Joshua Brooks	3		21	4
+1223	2016-08-08 02:00:41.99895+00	4211	Joshua Kyller	3		21	4
+1224	2016-08-08 02:01:29.53798+00	2520	Juan Carlos Rey Salgado	3		21	4
+1225	2016-08-08 02:01:47.015814+00	6004	Judite Marcelina Martins	3		21	4
+1226	2016-08-08 02:01:57.25888+00	5920	Judite Martins	3		21	4
+1227	2016-08-08 02:02:48.53614+00	4729	Judy Rona Madamba	3		21	4
+1228	2016-08-08 02:03:05.031463+00	4342	Julia Belo	3		21	4
+1229	2016-08-08 02:03:23.594054+00	686	Judith Charnaud	3		21	4
+1230	2016-08-08 02:04:25.660552+00	3057	Juliana Beno	3		21	4
+1231	2016-08-08 02:04:53.964107+00	4100	Juliana Bobo	3		21	4
+1232	2016-08-08 02:05:14.034276+00	5547	Juliana da C. Barreto	2	Changed name.	21	4
+1233	2016-08-08 02:05:52.962374+00	5042	Juliana dos Santos	3		21	4
+1234	2016-08-08 02:06:12.799921+00	1674	Juliana Fereirra	2	Changed name.	21	4
+1235	2016-08-08 02:06:37.335537+00	1673	Juliana Soares	3		21	4
+1236	2016-08-08 02:07:10.58155+00	3033	Juliano Moco	3		21	4
+1237	2016-08-08 02:07:47.721654+00	3144	Juliao Almeida	3		21	4
+1238	2016-08-08 02:08:45.94516+00	3150	Julieta da Cruz	3		21	4
+1239	2016-08-08 02:08:56.074804+00	2791	Julieta Ferreira da Silva	3		21	4
+1240	2016-08-08 02:09:06.665344+00	5847	Julieta Fontes	3		21	4
+1241	2016-08-08 02:09:45.375055+00	5445	Julieta Ornai	3		21	4
+1242	2016-08-08 02:10:55.280874+00	6011	Julio Carvalho Gomes	2	Changed title.	21	4
+1243	2016-08-08 02:11:11.90267+00	1842	Julio Casimiro	3		21	4
+1244	2016-08-08 02:11:50.120355+00	5053	Julio da Silva	3		21	4
+1245	2016-08-08 02:13:19.698236+00	5195	Julio do Carmo	3		21	4
+1246	2016-08-08 02:14:04.223834+00	4379	Julio Gil da Silva Guterres	3		21	4
+1247	2016-08-08 02:14:21.68448+00	2286	Julio Martins	3		21	4
+1248	2016-08-08 02:15:17.381502+00	2734	Julio Soares	3		21	4
+1249	2016-08-08 02:15:28.389784+00	4678	Julita da Costa	3		21	4
+1250	2016-08-08 02:15:35.430814+00	5440	Julito da Silva	3		21	4
+1251	2016-08-08 02:16:17.059453+00	3797	Junior Lopez Pereira	3		21	4
+1252	2016-08-08 02:16:44.756287+00	1380	Jun Kukita	3		21	4
+1253	2016-08-08 02:17:03.691759+00	2022	Justin Kaliszewski	3		21	4
+1254	2016-08-08 02:17:15.208782+00	4866	Justino Amaral	3		21	4
+1255	2016-08-08 02:18:05.944355+00	4877	Kylie Anderson	3		21	4
+1256	2016-08-08 02:18:29.357471+00	2724	Kyu-Hee Park	3		21	4
+1257	2016-08-08 02:18:40.080486+00	1108	Kywal de Oliveira	3		21	4
+1258	2016-08-08 02:18:56.912849+00	1998	Lakshman Perira	3		21	4
+1259	2016-08-08 02:19:13.956732+00	318	Lala Noronha	3		21	4
+1260	2016-08-08 02:19:38.631967+00	1116	Lamberto Pinto	3		21	4
+1261	2016-08-08 02:21:30.407341+00	1249	Laurence Bardon	3		21	4
+1262	2016-08-08 02:26:47.179874+00	2861	Laurentino da Silva	3		21	4
+1263	2016-08-08 02:27:11.809912+00	5523	Laurentino Hornay	3		21	4
+1264	2016-08-08 02:27:31.775718+00	2270	Laurie Winter	3		21	4
+1265	2016-08-08 02:28:00.428657+00	2594	Laurinda Deolinda Pinto	3		21	4
+1266	2016-08-08 02:28:45.19132+00	1012	Lauri Winter	3		21	4
+1267	2016-08-08 02:34:12.299713+00	5326	Lay Shiu Peng	3		21	4
+1268	2016-08-08 02:53:26.297575+00	2755	Lay Chun Fi	3		21	4
+1269	2016-08-08 02:53:44.516844+00	5824	Lece A. Ramos	3		21	4
+1270	2016-08-08 02:53:57.408477+00	4651	Leesa Kaplan Nunes, PhD	3		21	4
+1271	2016-08-08 02:57:33.772801+00	1902	Leonel Lopes Mendonca	3		21	4
+1272	2016-08-08 02:58:05.983657+00	2928	Leonia de Jesus	3		21	4
+1273	2016-08-08 02:58:22.165932+00	2666	Leonilda H Pereira	3		21	4
+1274	2016-08-08 03:13:25.395423+00	5831	Leonito Mendonca	3		21	4
+1275	2016-08-08 03:14:34.642862+00	2553	Leovigildo da Costa Hornai	3		21	4
+1276	2016-08-08 03:14:48.595809+00	4716	Leopoldo Pinto	3		21	4
+1277	2016-08-08 03:15:29.557966+00	4366	Lhew Comacoshe	3		21	4
+1278	2016-08-08 03:16:29.650946+00	1922	Lidia Gomes	3		21	4
+1279	2016-08-08 05:24:06.148243+00	1844	Luis Evaristo do santos Soares	3		21	4
+1280	2016-08-08 05:24:44.641662+00	2648	Luis Ignacio Fernandes Aragon	3		21	4
+1281	2016-08-08 05:25:47.110621+00	1747	Luis Pereira	3		21	4
+1282	2016-08-08 05:26:20.581949+00	4009	Luis Pinto	3		21	4
+1283	2016-08-08 05:26:47.389517+00	2558	Luis Pires de Jesus	3		21	4
+1284	2016-08-08 05:27:38.929793+00	3102	Luizino Martins	3		21	4
+1285	2016-08-08 05:27:57.224466+00	1278	Luiz Viera	3		21	4
+1286	2016-08-08 05:28:27.321528+00	5226	Lurdes Mendonca Ramos	3		21	4
+1287	2016-08-08 05:28:48.765223+00	2807	Luzito Goncalves Pereira	3		21	4
+1288	2016-08-08 05:31:50.84389+00	1994	Luzmarie Vila	3		21	4
+1289	2016-08-08 05:32:08.663705+00	2342	Lyn Wan	3		21	4
+1290	2016-08-08 05:33:28.989354+00	1611	Madalena Soares Kasian	2	Changed phone.	21	4
+1291	2016-08-08 05:34:13.021884+00	2887	Madalena Soro	3		21	4
+1292	2016-08-08 05:34:44.203394+00	1686	Madre Basilia Sofia	3		21	4
+1293	2016-08-08 05:35:03.886839+00	2689	Magda A Duarte Mora	3		21	4
+1294	2016-08-08 05:35:43.180082+00	1705	Malcolm Douglas	3		21	4
+1295	2016-08-08 05:36:01.348423+00	2579	Manuel Abreu Da Silva	3		21	4
+1296	2016-08-08 05:36:12.230296+00	4224	Manuel Alves Barbosa	3		21	4
+1297	2016-08-08 05:45:03.624156+00	333	Manuel Da Costa	3		21	4
+1298	2016-08-08 05:46:02.3587+00	4365	Manuel Deus Toda	3		21	4
+1299	2016-08-08 05:46:13.531476+00	2218	Manuel Dos Reis	3		21	4
+1300	2016-08-08 05:46:45.314876+00	1976	Manuel Goncalves	3		21	4
+1301	2016-08-08 05:46:53.146895+00	3137	Manuel Guterres	3		21	4
+1302	2016-08-08 05:50:15.533317+00	1463	Manuel Maia	3		21	4
+1303	2016-08-08 05:50:51.837546+00	3075	Manuel Ribeiro	3		21	4
+1304	2016-08-08 05:51:09.149908+00	5037	Manuel Sequera de Araujo	3		21	4
+1305	2016-08-08 05:51:30.79499+00	5041	Manuel Simao Amaral	3		21	4
+1306	2016-08-08 05:51:51.37784+00	1797	Marcal Alves Xavier	3		21	4
+1307	2016-08-08 05:52:45.365164+00	4671	Marcelino da Cruz Sarmento	3		21	4
+1308	2016-08-08 05:54:58.874187+00	2811	Marcelino Joaquim	3		21	4
+1309	2016-08-08 05:55:39.619126+00	4838	Marcelino Mau	3		21	4
+1310	2016-08-08 05:56:31.24452+00	4033	Marcelino Soares	3		21	4
+1311	2016-08-08 05:57:10.497291+00	5437	Marciana Amaral	3		21	4
+1312	2016-08-08 05:58:19.617923+00	5006	Marcos Cardoso	3		21	4
+1313	2016-08-08 05:59:18.29433+00	2380	Marcus Culley	3		21	4
+1314	2016-08-08 05:59:54.545473+00	5399	Maria Almeida da conceicao	3		21	4
+1315	2016-08-08 06:00:20.870616+00	5925	Maria  Amelia de Araujo Ximenes	3		21	4
+1316	2016-08-08 06:17:55.164177+00	2550	Maria Leucadia	3		21	4
+1317	2016-08-08 06:18:20.839956+00	1760	Maria Lopes Muthy Cardoso	3		21	4
+1318	2016-08-08 06:18:35.272428+00	1037	Maria Lourdes B. Suplido	3		21	4
+1319	2016-08-08 06:19:00.051669+00	3126	Maria Madalena	3		21	4
+1320	2016-08-08 06:20:05.20693+00	5391	Maria Madalena da Silva Barros	2	No fields changed.	21	4
+1321	2016-08-08 06:20:18.337334+00	1940	Maria Madalena dos Santos Fatima	3		21	4
+1322	2016-08-08 06:20:30.647467+00	3801	Maria Maia Saldanha	3		21	4
+1323	2016-08-08 06:34:12.423308+00	5938	Maria Manaton	3		21	4
+1324	2016-08-08 06:35:20.299548+00	2946	Mariana Kelu	3		21	4
+1325	2016-08-08 06:35:33.215483+00	4997	Maria Nelinha Campos Cabral	3		21	4
+1326	2016-08-08 06:36:49.323949+00	5915	Mariano Duarte Quintao Carmo	3		21	4
+1327	2016-08-08 06:37:21.531079+00	3131	Maria Odete Fatima	3		21	4
+1328	2016-08-08 06:37:34.478561+00	1999	Maria Pakpahan	3		21	4
+1329	2016-08-08 06:37:43.752529+00	2833	Maria Pascoela Freitas	3		21	4
+1330	2016-08-08 06:37:54.287507+00	4892	Maria Paula Pereira	3		21	4
+1331	2016-08-08 06:38:22.464407+00	5549	Maria Rosa C. da Silva	2	Changed name.	21	4
+1332	2016-08-08 06:38:38.645835+00	4994	Maria Rowena Ladaga	3		21	4
+1333	2016-08-08 06:38:54.586709+00	5637	Maria Teresa da Silva	3		21	4
+1334	2016-08-08 06:39:13.766561+00	5926	Maria Teresa dos Santos Ferreira	3		21	4
+1335	2016-08-08 06:39:38.070005+00	3762	Maria Veronica	3		21	4
+1336	2016-08-08 06:40:12.900915+00	5385	Mario Almeida da Conceicao	3		21	4
+1337	2016-08-08 06:40:53.58041+00	1504	Mario Araujo	2	Changed name.	21	4
+1338	2016-08-08 06:42:20.882054+00	1795	Mario Cardoso	3		21	4
+1339	2016-08-08 06:42:46.249907+00	5036	Mario da Silva Carvalho	3		21	4
+1340	2016-08-08 06:43:18.000173+00	4909	Mario Gusmao	3		21	4
+1341	2016-08-08 06:44:37.547031+00	2463	Mark Anthony White	3		21	4
+1342	2016-08-08 06:44:45.732168+00	2317	Markus das Dores	3		21	4
+1343	2016-08-08 06:45:23.851329+00	334	Marria Barreto	3		21	4
+1344	2016-08-08 06:45:38.095915+00	3089	Marry Larking	3		21	4
+1345	2016-08-08 06:46:16.085842+00	3893	Marselino Alvaro keke	3		21	4
+1346	2016-08-08 06:46:45.648797+00	4075	Marta Diaz	3		21	4
+1347	2016-08-08 06:47:49.98262+00	2932	Marta Soares	3		21	4
+1348	2016-08-08 06:48:11.590633+00	3824	Martina Cap	3		21	4
+1349	2016-08-08 06:48:20.992167+00	5659	Martinha da Silva de Jesus	3		21	4
+1350	2016-08-08 06:48:40.942958+00	739	Martinha Santa Antunes	3		21	4
+1351	2016-08-08 06:56:48.451221+00	1132	Mary Lou Schramm	3		21	4
+1352	2016-08-08 06:57:00.936287+00	2978	Masahiro Suzuki	3		21	4
+1353	2016-08-08 06:57:45.836502+00	1426	Melinda Mausaco	3		21	4
+1354	2016-08-08 06:58:25.086933+00	1337	Melissa WINGARD-PHILLIPS	3		21	4
+1355	2016-08-08 07:01:11.439287+00	3196	Michael Shanahan	3		21	4
+1356	2016-08-08 07:01:29.955661+00	2011	Michael Thomforde	3		21	4
+1357	2016-08-08 07:02:06.072969+00	4432	Miguel Arcanjo da Costa	3		21	4
+1358	2016-08-08 07:04:08.84022+00	2813	Miguel Guterres	3		21	4
+1359	2016-08-08 07:04:18.083354+00	4083	Miguel Jorge	3		21	4
+1360	2016-08-08 07:04:54.067267+00	1261	Mike Shearing	3		21	4
+1361	2016-08-08 07:05:04.3294+00	2874	Miles Armitage	3		21	4
+1362	2016-08-10 05:51:52.042899+00	2966	Joseph Hayes	3		21	4
+1363	2016-08-10 05:58:34.970777+00	950	Julieta da Costa Ximenes	2	Changed name.	21	4
+1364	2016-08-10 06:10:38.184709+00	3957	Justino da Silva	3		21	4
+1365	2016-08-10 06:10:57.395691+00	3915	Justino Fernandes	3		21	4
+1366	2016-08-10 06:15:13.65448+00	4438	Justino Valentino	3		21	4
+1367	2016-08-10 06:16:36.988791+00	2510	Juvinal Dias Sabines	3		21	4
+1368	2016-08-10 06:17:26.777025+00	3752	Kaime Kipi	3		21	4
+1369	2016-08-10 06:22:23.219226+00	2390	Kana Taniguchi	3		21	4
+1370	2016-08-10 06:22:35.797376+00	2716	Karen Horton	3		21	4
+1371	2016-08-10 06:22:48.55787+00	270	Karin Benan	3		21	4
+1372	2016-08-10 06:23:49.020362+00	413	Keryn Clark	3		21	4
+1373	2016-08-10 06:24:07.418692+00	1368	Kevin Austin	3		21	4
+1374	2016-08-10 06:24:39.436974+00	5026	Kiera Zeen	3		21	4
+1375	2016-08-10 06:26:55.709308+00	5845	Kristina Silaban	3		21	4
+1376	2016-08-10 06:27:45.372644+00	4155	Kunhalli Mutuaje	3		21	4
+1377	2016-08-10 07:05:57.965621+00	1	josh	2	Changed user_permissions.	4	1
+1378	2016-08-10 07:24:12.099473+00	5349	Lauriano Sepeda	3		21	4
+1379	2016-08-10 07:24:28.477359+00	5215	Laurinda Tefa	3		21	4
+1380	2016-08-10 07:26:15.641703+00	1908	Leonel Ximenes Barboja	3		21	4
+1381	2016-08-10 07:33:00.90805+00	3724	Ligia de Deus	3		21	4
+1382	2016-08-10 07:34:15.037855+00	3736	Liliana Amaral	3		21	4
+1383	2016-08-10 07:39:13.475609+00	1877	Lindo Miranda Pinto	3		21	4
+1384	2016-08-10 07:39:57.126306+00	2391	Lino Lopez	3		21	4
+1385	2016-08-10 07:40:28.197695+00	3099	Liverato Mau Fereira	3		21	4
+1386	2016-08-10 07:42:29.932064+00	4733	Lizia de jesus da Costa Guterres	3		21	4
+1387	2016-08-10 07:43:11.065586+00	2028	Lola Dos Reis	3		21	4
+1388	2016-08-10 07:44:03.916723+00	5854	Lorraine Reuter	2	Changed phone.	21	4
+1389	2016-08-10 07:44:18.760353+00	2356	Louisa Meghurd	3		21	4
+1390	2016-08-10 07:45:25.815683+00	1140	Louis Jaimes Gentile	3		21	4
+1391	2016-08-10 07:45:51.010894+00	3148	Lourenco Bubu	3		21	4
+1392	2016-08-10 07:46:35.354518+00	3756	Lourenco da Costa Freitas	3		21	4
+1393	2016-08-10 07:46:46.745361+00	3036	Lourenco Obe	3		21	4
+1394	2016-08-10 07:47:51.251095+00	4846	Lucas Bere de Oliveira Babo Vedigal	3		21	4
+1395	2016-08-10 07:50:05.105988+00	5222	Lucia Timo	3		21	4
+1396	2016-08-10 07:50:43.192286+00	4264	Lucrecia Guterres de Araujo	3		21	4
+1397	2016-08-10 07:50:58.354921+00	3101	Luc Sabot	3		21	4
+1398	2016-08-10 07:51:12.755156+00	940	Ludovina Maria Corbafo	3		21	4
+1399	2016-08-11 05:18:27.318543+00	3962	Leopoldino V.  Martins	2	Changed name.	21	4
+1400	2016-08-11 05:23:42.768166+00	4227	Liesel Coimbra	2	Changed phone.	21	4
+1401	2016-08-11 05:25:38.218917+00	6027	Francisca Murti Tilman	1	Added.	21	5
+1402	2016-08-11 06:25:44.708269+00	6028	Antonio Alves	1	Added.	21	5
+1403	2016-08-11 06:31:47.332923+00	6028	Antonio Alves	2	Changed organization.	21	5
+1404	2016-08-11 07:28:32.752965+00	4726	Valentin da Costa Pinto	2	Changed email.	21	5
+1405	2016-08-12 02:02:18.16361+00	6029	Elisa dos Santos	1	Added.	21	5
+1406	2016-08-12 02:29:03.699551+00	4492	Benjamin dos Santos Barreto	2	Changed email.	21	5
+1407	2016-08-12 02:29:37.034908+00	2481	Bonifacio Sereno Ramalho	2	Changed email.	21	5
+1408	2016-08-12 03:15:41.04539+00	2759	Januario da Pinto dos Santos	2	Changed name.	21	5
+1409	2016-08-12 05:48:01.16137+00	1709	Fundasaun Fini Esperansa (FE) Strengthen reforestation initiatives for improving forest biodiversity	3		28	5
+1410	2016-08-12 06:16:47.8911+00	2577	Paulino Fransisco	2	Changed email.	21	5
+1411	2016-08-15 08:13:06.046117+00	4446	Shane Rosenthal	2	Changed title.	21	5
+1412	2016-08-15 08:14:04.559036+00	6030	Paolo Spantigati	1	Added.	21	5
+1413	2016-08-16 04:46:51.047618+00	4686	Nicolas Kroger	2	Changed title.	21	5
+1414	2016-08-16 04:46:57.037035+00	4684	Nicholas Molyneux	2	Changed title.	21	5
+1415	2016-08-16 04:47:04.639668+00	4685	Niina Kylliainen	2	Changed title.	21	5
+1416	2016-08-16 06:08:36.443981+00	4778	Rosa da Conceicao	3		21	5
+1417	2016-08-16 06:09:48.574329+00	5911	Obed Lopes Nobre Mouzinho	2	Changed title.	21	5
+1418	2016-08-16 06:24:37.63637+00	4639	Mr. Joao Pereira	3		21	4
+1419	2016-08-16 06:25:48.567011+00	2890	Ms. Mikiko Tanaka	3		21	4
+1420	2016-08-16 06:27:10.273082+00	4684	Nicholas Molyneux	3		21	4
+1421	2016-08-16 06:41:59.583846+00	4686	Nicolas Kroger	3		21	4
+1422	2016-08-16 06:42:28.703802+00	4685	Niina Kylliainen	3		21	4
+1423	2016-08-16 06:43:15.789775+00	5575	Noura Hamladji	3		21	4
+1424	2016-08-16 06:44:49.820489+00	4752	Natalia Vasconcelhos	3		21	4
+1425	2016-08-16 06:46:09.917615+00	1369	Nicholas Russel	3		21	4
+1426	2016-08-16 06:46:35.079944+00	4771	Nicolau Amaral Guterres	3		21	4
+1427	2016-08-16 06:51:24.264354+00	4780	Rozentina Jap dos Santos	2	Changed email.	21	4
+1428	2016-08-16 06:56:07.968215+00	4961	Rafael Correia	3		21	5
+1429	2016-08-23 02:29:04.233996+00	36	BA DISTRITO FUNDUS BA ADVOKASIA DESENTRALIZASAUN  REJIAUN ADMINISTRATIVA ESPESIÁL OECUSSE-AMBENO	2	Changed description, application_end_date and district.	7	5
+1430	2016-08-24 01:15:57.448551+00	4161	Farao Aqing Jong	3		21	5
+1431	2016-08-24 03:42:01.557246+00	5640	Angelina dos Santos	2	Changed title.	21	5
+1432	2016-08-24 04:04:08.938357+00	3183	Todd Wassel	2	Changed phone.	21	5
+1433	2016-08-24 05:19:30.170247+00	4905	Carolyn Tanner	2	Changed title.	21	5
+1434	2016-08-24 05:25:18.626845+00	4186	Silvino Adolfo Morais	3		21	5
+1435	2016-08-24 05:25:33.823122+00	4279	Silvino Adolfo Morais	2	Changed title.	21	5
+1436	2016-08-24 05:26:07.636186+00	2497	Simone Barbosa Assis	3		21	5
+1437	2016-08-24 07:17:09.495294+00	4248	Bharath Mohan	3		21	4
+1438	2016-08-24 07:22:51.548482+00	3181	Roselia Pinto	3		21	4
+1439	2016-08-24 07:25:32.122498+00	1580	Silas Everett	3		21	4
+1440	2016-08-24 07:26:34.678418+00	4157	Tony Ku	3		21	4
+1441	2016-08-25 00:59:53.496501+00	2693	Bozan Ristic	3		21	4
+1442	2016-08-25 01:02:37.562536+00	2102	Max Zaldivar	3		21	4
+1443	2016-08-25 01:03:37.647158+00	4398	Shirin Sahani	3		21	4
+1444	2016-08-26 02:55:57.442887+00	4693	Paul Random	3		21	4
+1445	2016-08-26 03:00:43.00195+00	2725	Rick Scott	3		21	4
+1446	2016-08-26 03:03:28.671523+00	4759	Ex. John Seong	2	Changed name and email.	21	4
+1447	2016-08-29 00:48:54.400385+00	70412	Babo Leten	2	Changed name.	34	5
+1448	2016-08-29 00:50:32.017874+00	70403	Babo Kraic	2	Changed name.	34	5
+1449	2016-08-29 00:50:44.251741+00	60405	Biqueli	2	Changed name.	34	5
+1450	2016-08-29 03:06:29.787273+00	4571	Ana Paula Sequeira	3		21	4
+1451	2016-08-29 03:08:09.578595+00	6031	Zelia Fernandes	1	Added.	21	4
+1452	2016-08-29 03:13:20.442238+00	5710	Zelia Fernandes	3		21	4
+1453	2016-08-29 07:03:14.055544+00	5168	Agustinho G. da Silva	2	Changed name.	21	5
+1454	2016-08-29 07:05:31.924586+00	5063	Apricio de Oliveira	2	Changed title.	21	5
+1455	2016-08-29 07:23:39.181269+00	6032	Zaimit de Carvalho	1	Added.	21	5
+1456	2016-08-29 07:26:49.848673+00	6032	Zaimit de Carvalho	2	Changed organization and phone.	21	5
+1457	2016-08-31 06:04:43.992552+00	4902	Luis Pedro Pinto	2	Changed title and phone.	21	4
+1458	2016-08-31 06:08:21.383351+00	2560	Mr. Norberto Carlos Celestino	3		21	4
+1459	2016-08-31 06:10:44.453478+00	2896	Ms. Nadia Piquion	3		21	4
+1460	2016-08-31 06:12:00.842003+00	1284	Sara Ribeiro	3		21	4
+1461	2016-08-31 06:14:22.686296+00	1283	Paulo Paraiso	2	Changed phone.	21	4
+1462	2016-08-31 06:31:59.736933+00	4441	Sergio Paulo Muchanga	3		21	4
+1463	2016-08-31 06:33:53.322167+00	2905	Mr. Remegio Alinderme Alquitran	3		21	4
+1464	2016-08-31 06:36:55.775618+00	2568	Mr. Koen Meyers	3		21	4
+1465	2016-08-31 06:42:25.444917+00	2906	Mr. Nestor Balmores	3		21	4
+1466	2016-09-07 07:38:47.533331+00	6033	Marlina Dianita Viegas	1	Added.	21	4
+1467	2016-09-08 01:24:25.986922+00	37	USAID’S AVANSA AGRIKULTURA PROJECT – Request for Quote – RFQ (Training for Bamboo Low and High Tunnels for USAID’s Avansa Agrikultura Project)- CD 16 de Setembro de 2016	2	Changed description and application_end_date.	7	4
+1468	2016-09-08 05:15:16.474198+00	2759	Januario da Pinto dos Santos	2	Changed phone.	21	4
+1469	2016-09-08 05:17:33.207446+00	5910	Gorethi Gonzalves Oliveira	2	Changed name and phone.	21	4
+1470	2016-09-08 05:19:05.108926+00	4466	Daniel dos Santos	2	Changed email.	21	4
+1471	2016-09-08 05:21:56.22943+00	6034	Dr. Anwar Alsaid	1	Added.	21	4
+1472	2016-09-08 05:49:01.53305+00	4268	Anwar Alsaid	3		21	4
+1473	2016-09-09 04:10:13.875901+00	38	USAID’S AVANSA AGRIKULTURA PROJECT – Request for Application: AID-472-C-15-00001-RFA-#003-Support the Establishment of Tree Nurseries – CD 16 de Setembro de 2016	2	Changed description, application_end_date and district.	7	4
+\.
+
+

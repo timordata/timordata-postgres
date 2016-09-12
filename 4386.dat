@@ -1,0 +1,517 @@
+1	law	\N	law	\N	\N
+2	justice	\N	justice	\N	\N
+3	crime	\N	crime	\N	\N
+4	human rights	\N	human rights	\N	\N
+5	refugees	\N	refugees	\N	\N
+6	culture	\N	culture	\N	\N
+7	economics	\N	economics	\N	\N
+8	social	\N	social	\N	\N
+9	police	\N	police	\N	\N
+10	violence	\N	violence	\N	\N
+11	occupation	\N	occupation	\N	\N
+12	disappearance	\N	disappearance	\N	\N
+13	impunity	\N	impunity	\N	\N
+14	victim	\N	victim	\N	\N
+15	military	\N	military	\N	\N
+16	missing persons	\N	missing persons	\N	\N
+17	democracy	\N	democracy	\N	\N
+18	massacre	\N	massacre	\N	\N
+19	police interventions	\N	police interventions	\N	\N
+20	dignity	\N	dignity	\N	\N
+21	international relations	\N	international relations	\N	\N
+22	agriculture	\N	agriculture	\N	\N
+23	institutions	\N	institutions	\N	\N
+24	announcement	\N	announcement	\N	\N
+25	budget	\N	budget	\N	\N
+26	pntl	\N	pntl	\N	\N
+27	weapons	\N	weapons	\N	\N
+28	ffdtl	\N	ffdtl	\N	\N
+29	capacity	\N	capacity	\N	\N
+30	drugs	\N	drugs	\N	\N
+31	human security	\N	human security	\N	\N
+32	transparency	\N	transparency	\N	\N
+33	community police	\N	community police	\N	\N
+34	election	\N	election	\N	\N
+35	veterans	\N	veterans	\N	\N
+36	media	\N	media	\N	\N
+37	adf	\N	adf	\N	\N
+38	politics	\N	politics	\N	\N
+39	commision b	\N	commision b	\N	\N
+40	parliament	\N	parliament	\N	\N
+41	development	\N	development	\N	\N
+42	corruption	\N	corruption	\N	\N
+43	land dispute	\N	land dispute	\N	\N
+44	commerce	\N	commerce	\N	\N
+45	international	\N	international	\N	\N
+46	transport	\N	transport	\N	\N
+47	border	\N	border	\N	\N
+48	prison	\N	prison	\N	\N
+49	terrorism	\N	terrorism	\N	\N
+50	local governance	\N	local governance	\N	\N
+51	suku	\N	suku	\N	\N
+52	suku council	\N	suku council	\N	\N
+53	administration	\N	administration	\N	\N
+54	prosecution	\N	prosecution	\N	\N
+55	court	\N	court	\N	\N
+56	dispute resolution	\N	dispute resolution	\N	\N
+57	separation	\N	separation	\N	\N
+58	divorce	\N	divorce	\N	\N
+59	domestic violence	\N	domestic violence	\N	\N
+60	voters	\N	voters	\N	\N
+61	economic growth	\N	economic growth	\N	\N
+62	trade	\N	trade	\N	\N
+63	business	\N	business	\N	\N
+64	investment	\N	investment	\N	\N
+65	sustainability	\N	sustainability	\N	\N
+66	policy	\N	policy	\N	\N
+67	rights	\N	rights	\N	\N
+68	legal system	\N	legal system	\N	\N
+69	legal institutions	\N	legal institutions	\N	\N
+70	language	\N	language	\N	\N
+71	legislation	\N	legislation	\N	\N
+72	access to justice	\N	access to justice	\N	\N
+73	civil society	\N	civil society	\N	\N
+74	participation	\N	participation	\N	\N
+75	council	\N	council	\N	\N
+76	finance	\N	finance	\N	\N
+77	tax	\N	tax	\N	\N
+78	customs	\N	customs	\N	\N
+79	procurement	\N	procurement	\N	\N
+80	community policing	\N	community policing	\N	\N
+81	reform	\N	reform	\N	\N
+82	legal aid	\N	legal aid	\N	\N
+83	punishment	\N	punishment	\N	\N
+84	graduates	\N	graduates	\N	\N
+85	career	\N	career	\N	\N
+86	employment	\N	employment	\N	\N
+87	community	\N	community	\N	\N
+88	decentralization	\N	decentralization	\N	\N
+89	communication	\N	communication	\N	\N
+90	technology	\N	technology	\N	\N
+91	information processing	\N	information processing	\N	\N
+92	literacy	\N	literacy	\N	\N
+93	read	\N	read	\N	\N
+94	childen	\N	childen	\N	\N
+95	school	\N	school	\N	\N
+96	early development	\N	early development	\N	\N
+97	nation building	\N	nation building	\N	\N
+98	independence	\N	independence	\N	\N
+99	government structure	\N	government structure	\N	\N
+100	peace	\N	peace	\N	\N
+101	reconciliation	\N	reconciliation	\N	\N
+102	conflict	\N	conflict	\N	\N
+103	tradition	\N	tradition	\N	\N
+104	map	\N	map	\N	\N
+105	public policy	\N	public policy	\N	\N
+106	martial arts	\N	martial arts	\N	\N
+107	reintegration	\N	reintegration	\N	\N
+108	internally displaced people	\N	internally displaced people	\N	\N
+109	crimes	\N	crimes	\N	\N
+110	disputes	\N	disputes	\N	\N
+111	legal awareness	\N	legal awareness	\N	\N
+112	legal reform	\N	legal reform	\N	\N
+113	accountability	\N	accountability	\N	\N
+114	women's access	\N	women's access	\N	\N
+115	acess to justice	\N	acess to justice	\N	\N
+116	books	\N	books	\N	\N
+117	software	\N	software	\N	\N
+118	university	\N	university	\N	\N
+119	women's rights	\N	women's rights	\N	\N
+120	gender	\N	gender	\N	\N
+121	women's participation	\N	women's participation	\N	\N
+122	professional responsibility	\N	professional responsibility	\N	\N
+123	lawyer	\N	lawyer	\N	\N
+124	paternity dispute	\N	paternity dispute	\N	\N
+125	dispute	\N	dispute	\N	\N
+126	relationships	\N	relationships	\N	\N
+127	marriage	\N	marriage	\N	\N
+128	president	\N	president	\N	\N
+129	prime minister	\N	prime minister	\N	\N
+130	constitutional law	\N	constitutional law	\N	\N
+131	judiciary	\N	judiciary	\N	\N
+132	courts	\N	courts	\N	\N
+133	national parliament	\N	national parliament	\N	\N
+134	legal capacity	\N	legal capacity	\N	\N
+135	legal transactions	\N	legal transactions	\N	\N
+136	contract law	\N	contract law	\N	\N
+137	legal	\N	legal	\N	\N
+138	glossary	\N	glossary	\N	\N
+139	safety	\N	safety	\N	\N
+140	tourism	\N	tourism	\N	\N
+141	injury	\N	injury	\N	\N
+142	performance	\N	performance	\N	\N
+143	martial arts groups	\N	martial arts groups	\N	\N
+144	religion	\N	religion	\N	\N
+145	food	\N	food	\N	\N
+146	protests	\N	protests	\N	\N
+147	alcohol	\N	alcohol	\N	\N
+148	religious identity	\N	religious identity	\N	\N
+149	land disputes	\N	land disputes	\N	\N
+150	family	\N	family	\N	\N
+151	natural disasters	\N	natural disasters	\N	\N
+152	schools	\N	schools	\N	\N
+153	community leaders	\N	community leaders	\N	\N
+154	physical assault	\N	physical assault	\N	\N
+155	student	\N	student	\N	\N
+156	conflict prevention	\N	conflict prevention	\N	\N
+157	poison	\N	poison	\N	\N
+158	students	\N	students	\N	\N
+159	assault	\N	assault	\N	\N
+160	tara bandu	\N	tara bandu	\N	\N
+161	land	\N	land	\N	\N
+162	farm	\N	farm	\N	\N
+163	witchcraft	\N	witchcraft	\N	\N
+164	black magic	\N	black magic	\N	\N
+165	money	\N	money	\N	\N
+166	illegal groups	\N	illegal groups	\N	\N
+167	theft	\N	theft	\N	\N
+168	gambling	\N	gambling	\N	\N
+169	sport	\N	sport	\N	\N
+170	animal	\N	animal	\N	\N
+171	domestic abuse	\N	domestic abuse	\N	\N
+172	sexual abuse	\N	sexual abuse	\N	\N
+173	property	\N	property	\N	\N
+174	bribe	\N	bribe	\N	\N
+175	threats	\N	threats	\N	\N
+176	intimidation	\N	intimidation	\N	\N
+177	tension	\N	tension	\N	\N
+178	food security	\N	food security	\N	\N
+179	farming	\N	farming	\N	\N
+180	murder	\N	murder	\N	\N
+181	internally displaced persons	\N	internally displaced persons	\N	\N
+182	property damage	\N	property damage	\N	\N
+183	abuse	\N	abuse	\N	\N
+184	migration	\N	migration	\N	\N
+185	victims	\N	victims	\N	\N
+186	political	\N	political	\N	\N
+187	demarcation	\N	demarcation	\N	\N
+188	indonesia	\N	indonesia	\N	\N
+189	identity	\N	identity	\N	\N
+190	demonstrations	\N	demonstrations	\N	\N
+191	history	\N	history	\N	\N
+192	resistance	\N	resistance	\N	\N
+193	sexual violence	\N	sexual violence	\N	\N
+194	resolution	\N	resolution	\N	\N
+195	sorcery	\N	sorcery	\N	\N
+196	magic	\N	magic	\N	\N
+197	housing	\N	housing	\N	\N
+198	structural damage	\N	structural damage	\N	\N
+199	property sales	\N	property sales	\N	\N
+200	dispossession	\N	dispossession	\N	\N
+201	living conditions	\N	living conditions	\N	\N
+202	construction	\N	construction	\N	\N
+203	repair	\N	repair	\N	\N
+204	discrimination	\N	discrimination	\N	\N
+205	leadership	\N	leadership	\N	\N
+206	curriculum	\N	curriculum	\N	\N
+207	teaching	\N	teaching	\N	\N
+208	peace building	\N	peace building	\N	\N
+209	conflict resolution	\N	conflict resolution	\N	\N
+210	pension	\N	pension	\N	\N
+211	income	\N	income	\N	\N
+212	inequality	\N	inequality	\N	\N
+213	fishing	\N	fishing	\N	\N
+214	assessment	\N	assessment	\N	\N
+215	economic empowerment	\N	economic empowerment	\N	\N
+216	population	\N	population	\N	\N
+217	hiv	\N	hiv	\N	\N
+218	aids	\N	aids	\N	\N
+219	mobility	\N	mobility	\N	\N
+220	poverty	\N	poverty	\N	\N
+221	stigma	\N	stigma	\N	\N
+222	marriage practices	\N	marriage practices	\N	\N
+223	food production	\N	food production	\N	\N
+224	economy	\N	economy	\N	\N
+225	logistics	\N	logistics	\N	\N
+226	crops	\N	crops	\N	\N
+227	labour	\N	labour	\N	\N
+228	work	\N	work	\N	\N
+229	skills	\N	skills	\N	\N
+230	vocational training	\N	vocational training	\N	\N
+231	market	\N	market	\N	\N
+232	industrial relations	\N	industrial relations	\N	\N
+233	roads	\N	roads	\N	\N
+234	rural	\N	rural	\N	\N
+235	capacity building	\N	capacity building	\N	\N
+236	equal opportunity	\N	equal opportunity	\N	\N
+237	cattle	\N	cattle	\N	\N
+238	labor	\N	labor	\N	\N
+239	urban	\N	urban	\N	\N
+240	environment	\N	environment	\N	\N
+241	enterprise	\N	enterprise	\N	\N
+242	displacement	\N	displacement	\N	\N
+243	rehabilitation	\N	rehabilitation	\N	\N
+244	migration management	\N	migration management	\N	\N
+245	capacity development	\N	capacity development	\N	\N
+246	strategy	\N	strategy	\N	\N
+247	small area estimation	\N	small area estimation	\N	\N
+248	empowerment	\N	empowerment	\N	\N
+249	immigrants	\N	immigrants	\N	\N
+250	human trafficking	\N	human trafficking	\N	\N
+251	evaluation	\N	evaluation	\N	\N
+252	human development	\N	human development	\N	\N
+253	energy	\N	energy	\N	\N
+254	biodiversity	\N	biodiversity	\N	\N
+255	ecosystem	\N	ecosystem	\N	\N
+256	marine	\N	marine	\N	\N
+257	animals	\N	animals	\N	\N
+258	flora	\N	flora	\N	\N
+259	fauna	\N	fauna	\N	\N
+260	maternal mortality	\N	maternal mortality	\N	\N
+261	hunger	\N	hunger	\N	\N
+262	child mortality	\N	child mortality	\N	\N
+263	climate change	\N	climate change	\N	\N
+264	sustainable development	\N	sustainable development	\N	\N
+265	strategic planning	\N	strategic planning	\N	\N
+266	indigenous people	\N	indigenous people	\N	\N
+267	cultural property preservation	\N	cultural property preservation	\N	\N
+268	museums	\N	museums	\N	\N
+269	pluralism	\N	pluralism	\N	\N
+270	journalism	\N	journalism	\N	\N
+271	censorship	\N	censorship	\N	\N
+272	refugee	\N	refugee	\N	\N
+273	war	\N	war	\N	\N
+274	international cooperation	\N	international cooperation	\N	\N
+275	community participation	\N	community participation	\N	\N
+276	teachers	\N	teachers	\N	\N
+277	curriculum development	\N	curriculum development	\N	\N
+278	science	\N	science	\N	\N
+279	disease control	\N	disease control	\N	\N
+280	sexual behaviour	\N	sexual behaviour	\N	\N
+281	disaster prevention	\N	disaster prevention	\N	\N
+282	conservation	\N	conservation	\N	\N
+283	development planning	\N	development planning	\N	\N
+284	emergency response	\N	emergency response	\N	\N
+285	coastal zone	\N	coastal zone	\N	\N
+286	traditions	\N	traditions	\N	\N
+287	small island developing states	\N	small island developing states	\N	\N
+288	access to education	\N	access to education	\N	\N
+289	womens participation	\N	womens participation	\N	\N
+290	programmes	\N	programmes	\N	\N
+291	resources	\N	resources	\N	\N
+292	ecology	\N	ecology	\N	\N
+293	biological diversity	\N	biological diversity	\N	\N
+294	ecosystems	\N	ecosystems	\N	\N
+295	biology	\N	biology	\N	\N
+296	environmental protection	\N	environmental protection	\N	\N
+297	plants	\N	plants	\N	\N
+298	textile	\N	textile	\N	\N
+299	dyes technology	\N	dyes technology	\N	\N
+300	national park	\N	national park	\N	\N
+301	geography	\N	geography	\N	\N
+302	maps	\N	maps	\N	\N
+303	sex education	\N	sex education	\N	\N
+304	educational policy	\N	educational policy	\N	\N
+305	drug education	\N	drug education	\N	\N
+306	recession	\N	recession	\N	\N
+307	journalist	\N	journalist	\N	\N
+308	drug use	\N	drug use	\N	\N
+309	pregnancy	\N	pregnancy	\N	\N
+310	abortion	\N	abortion	\N	\N
+311	family planning	\N	family planning	\N	\N
+312	adolescent	\N	adolescent	\N	\N
+313	fertility	\N	fertility	\N	\N
+314	mortality	\N	mortality	\N	\N
+315	male	\N	male	\N	\N
+316	female	\N	female	\N	\N
+317	child	\N	child	\N	\N
+318	infant	\N	infant	\N	\N
+319	demographic	\N	demographic	\N	\N
+320	census	\N	census	\N	\N
+321	statistics	\N	statistics	\N	\N
+322	disability	\N	disability	\N	\N
+323	transitional justice	\N	transitional justice	\N	\N
+324	child rights	\N	child rights	\N	\N
+325	child protection reconciliation	\N	child protection reconciliation	\N	\N
+326	birth	\N	birth	\N	\N
+327	birth registration	\N	birth registration	\N	\N
+328	birth records	\N	birth records	\N	\N
+329	child protection	\N	child protection	\N	\N
+330	water	\N	water	\N	\N
+331	sanitation	\N	sanitation	\N	\N
+332	hygiene	\N	hygiene	\N	\N
+333	service delivery	\N	service delivery	\N	\N
+334	emergency	\N	emergency	\N	\N
+335	disaster management	\N	disaster management	\N	\N
+336	flood	\N	flood	\N	\N
+337	humanitarian	\N	humanitarian	\N	\N
+338	aid	\N	aid	\N	\N
+339	response	\N	response	\N	\N
+340	bullying	\N	bullying	\N	\N
+341	mutilation	\N	mutilation	\N	\N
+342	child marriage	\N	child marriage	\N	\N
+343	political power	\N	political power	\N	\N
+344	peacebuilding	\N	peacebuilding	\N	\N
+345	weight	\N	weight	\N	\N
+346	height	\N	height	\N	\N
+347	age	\N	age	\N	\N
+348	demography	\N	demography	\N	\N
+349	maternal	\N	maternal	\N	\N
+350	disease management	\N	disease management	\N	\N
+351	disaster planning	\N	disaster planning	\N	\N
+352	health policy	\N	health policy	\N	\N
+353	disease prevention	\N	disease prevention	\N	\N
+354	tobacco	\N	tobacco	\N	\N
+355	smoking	\N	smoking	\N	\N
+356	passive smoking	\N	passive smoking	\N	\N
+357	treatment	\N	treatment	\N	\N
+358	prevention	\N	prevention	\N	\N
+359	advertising	\N	advertising	\N	\N
+360	malaria	\N	malaria	\N	\N
+361	mosquito	\N	mosquito	\N	\N
+362	non-communicable disease	\N	non-communicable disease	\N	\N
+363	health system	\N	health system	\N	\N
+364	cardiovascular disease	\N	cardiovascular disease	\N	\N
+365	cancer	\N	cancer	\N	\N
+366	respiratory disease	\N	respiratory disease	\N	\N
+367	diabetes	\N	diabetes	\N	\N
+368	tuberculosis	\N	tuberculosis	\N	\N
+369	morbidity	\N	morbidity	\N	\N
+370	interventions	\N	interventions	\N	\N
+371	death	\N	death	\N	\N
+372	years of life lost	\N	years of life lost	\N	\N
+373	life expectancy	\N	life expectancy	\N	\N
+374	immunization	\N	immunization	\N	\N
+375	obesity	\N	obesity	\N	\N
+376	maternal health	\N	maternal health	\N	\N
+377	child health	\N	child health	\N	\N
+378	refugees and idps	\N	refugees and idps	\N	\N
+379	food for assets	\N	food for assets	\N	\N
+380	general food distribution	\N	general food distribution	\N	\N
+381	school meals	\N	school meals	\N	\N
+382	epilepsy	\N	epilepsy	\N	\N
+383	care	\N	care	\N	\N
+384	health workers	\N	health workers	\N	\N
+385	doctors	\N	doctors	\N	\N
+386	challenges	\N	challenges	\N	\N
+387	opportunities	\N	opportunities	\N	\N
+388	access to health	\N	access to health	\N	\N
+389	maternity	\N	maternity	\N	\N
+390	food shortage	\N	food shortage	\N	\N
+391	humanitarian assistance	\N	humanitarian assistance	\N	\N
+392	self determination	\N	self determination	\N	\N
+393	decolonisation	\N	decolonisation	\N	\N
+394	oppression	\N	oppression	\N	\N
+395	torture	\N	torture	\N	\N
+396	genocide	\N	genocide	\N	\N
+397	protest movements	\N	protest movements	\N	\N
+398	regional planning	\N	regional planning	\N	\N
+399	political history	\N	political history	\N	\N
+400	legends	\N	legends	\N	\N
+401	mythology	\N	mythology	\N	\N
+402	elections	\N	elections	\N	\N
+403	womens rights	\N	womens rights	\N	\N
+404	seeds	fini	seeds		
+405	rice	hare, etu, foos	rice	arroz	beras
+406	maize	batar	maize	milho	jagung
+407	storage	armazén	storage	armazenamento	penyimpanan
+408	seed production	fini produsaun	seed production	produção de sementes	produksi benih
+409	farmer groups	grupu toos nain	farmer groups	grupos de agricultores	kelompok tani
+410	savings and loans groups		savings and loans groups	grupos de poupança e empréstimos	kelompok simpan pinjaman
+411	seed adoption	hakiak fini	seed adoption	adoção de sementes	adopsi benih
+412	foodcrops	to'os fuan	foodcrops	culturas alimentares	tanaman pangan
+433	agriculture and food security	\N	agriculture and food security	\N	\N
+414	FFDTL	FFDTL	FFDTL	FFDTL	FFDTL
+415	test	test	\N	\N	\N
+416	testing	testing	\N	\N	\N
+417	Border	Fronterra	Border	\N	\N
+418	Navy	Navy	Navy	\N	\N
+419	Community Policing	Polisiamentu Komunitaria	Community Policing	\N	\N
+420	Defense Finances	Finansia Defesa	Defense Finances	\N	\N
+421	Intelejen	Intelejen	Intelligence	\N	\N
+422	Fronteira 	Fronteira 	\N	\N	\N
+423	Disputa Rai	Disputa Rai	\N	\N	\N
+424	Orsamentu Defeza no Seguransa 	Orsamentu Defeza no Seguransa 	\N	\N	\N
+425	Orsamentu ba Seguransa no Defeza	Orsamentu ba Seguransa no Defeza	\N	\N	\N
+426	Prizaun iha Timor-Leste	Prizaun iha Timor-Leste	\N	\N	\N
+427	Prizaun 	Prizaun 	\N	\N	\N
+428	Parlamentu Nasional Komisaun B	Parlamentu Nasional Komisaun B	\N	\N	\N
+429	PNTL	PNTL	\N	\N	\N
+430	Pemilu di Timor-Leste	Pemilu di Timor-Leste	\N	\N	\N
+431	Dezenvolvimentu PNTL	Dezenvolvimentu PNTL	\N	\N	\N
+432	Polisia Militar	Polisia Militar	\N	\N	\N
+434	training	\N	training	\N	\N
+435	capacity strengthening	\N	capacity strengthening	\N	\N
+436	advocacy	\N	advocacy	\N	\N
+437	research	\N	research	\N	\N
+438	social services	\N	social services	\N	\N
+439	infrastructure and rehabilitation	\N	infrastructure and rehabilitation	\N	\N
+440	income generation	\N	income generation	\N	\N
+441	microfinance and credit	\N	microfinance and credit	\N	\N
+442	small grants	\N	small grants	\N	\N
+443	public information	\N	public information	\N	\N
+444	advisory support	\N	advisory support	\N	\N
+445	networking	\N	networking	\N	\N
+446	education	\N	education	\N	\N
+447	dialogue	\N	dialogue	\N	\N
+448	health	\N	health	\N	\N
+449	community development	\N	community development	\N	\N
+450	natural resources enviroment and energy	\N	natural resources enviroment and energy	\N	\N
+451	infrastructure	\N	infrastructure	\N	\N
+452	justice human rights and protection	\N	justice human rights and protection	\N	\N
+453	water and sanitation	\N	water and sanitation	\N	\N
+454	economic development	\N	economic development	\N	\N
+455	conflict prevention and peace strengthening	\N	conflict prevention and peace strengthening	\N	\N
+456	governance	\N	governance	\N	\N
+457	media and public information	\N	media and public information	\N	\N
+458	gender equality	\N	gender equality	\N	\N
+459	coordination	\N	coordination	\N	\N
+460	fisheries	\N	fisheries	\N	\N
+461	nutrition	\N	nutrition	\N	\N
+462	disaster risk management	\N	disaster risk management	\N	\N
+463	hiv/aids	\N	hiv/aids	\N	\N
+464	food aid	\N	food aid	\N	\N
+465	emergency shelter	\N	emergency shelter	\N	\N
+466	security	\N	security	\N	\N
+467	youth	\N	youth	\N	\N
+468	community (general)	\N	community (general)	\N	\N
+469	children	\N	children	\N	\N
+470	women	\N	women	\N	\N
+471	widows	\N	widows	\N	\N
+472	organisations	\N	organisations	\N	\N
+473	government	\N	government	\N	\N
+474	professionals	\N	professionals	\N	\N
+475	survivors of violence	\N	survivors of violence	\N	\N
+476	idps	\N	idps	\N	\N
+477	suco councils	\N	suco councils	\N	\N
+478	ex-combatants	\N	ex-combatants	\N	\N
+479	special needs	\N	special needs	\N	\N
+480	activities	\N	activities	\N	\N
+481	sector	\N	sector	\N	\N
+482	beneficiaries	\N	beneficiaries	\N	\N
+483	UN	UN	\N	\N	\N
+484	Peacekeeping	Peacekeeping	\N	\N	\N
+485	Budget	Budget	\N	\N	\N
+486	Organised Crime	Krime Organizadu	Organised Crime	\N	\N
+487	Bombeirus	Bombeirus	\N	\N	\N
+488	Unemployment	Unemployment	\N	\N	\N
+489	Procurement	Procurement	\N	\N	\N
+490	National Defense	National Defense	\N	\N	\N
+491	Ministeriu Interior	Ministeriu Interior	\N	\N	\N
+492	INTERPOL	INTERPOL	\N	\N	\N
+493	Diocese Maliana	Diocese Maliana	\N	\N	\N
+494	ASEAN	ASEAN	\N	\N	\N
+495	Seguransa-ASEAN	Seguransa-ASEAN	\N	\N	\N
+496	Porto Naval FFDTL	Porto Naval FFDTL	\N	\N	\N
+497	Ministeriu Defeza	Ministeriu Defeza	\N	\N	\N
+498	PNTL-FFDTL	PNTL-FFDTL	\N	\N	\N
+499	Polisia Sientifika Investigasaun Kriminal-(PSIK)	Polisia Sientifika Investigasaun Kriminal-(PSIK)	\N	\N	\N
+500	Droga	Droga	\N	\N	\N
+501	Krimi Brankamentu	Krimi Brankamentu	\N	\N	\N
+502	Granada	Granada	\N	\N	\N
+503	Intelligence	Intelligence	\N	\N	\N
+504	Artemasiais	Artemasiais	\N	\N	\N
+505	Ministeriu Publiku	Ministeriu Publiku	\N	\N	\N
+506	Mental Health	Mental Health	\N	\N	\N
+507	Mina Timor Atu Maran	Mina Timor Atu Maran	\N	\N	\N
+508	Prostituisaun	Prostituisaun	\N	\N	\N
+509	Krime	Krime	\N	\N	\N
+510	expenditure	gastu	expenditure	despesa	pengeluaran
+511	Petisionariu	Petisionariu	\N	\N	\N
+512	FALINTIL	FALINTIL	\N	\N	\N
+513	Militar Obrigatoriu	Militar Obrigatoriu	\N	\N	\N
+514	Intel  	Intel  	\N	\N	\N
+515	monitoring and evaluation	monitorizasaun no evaluasaun	monitoring and evaluation	\N	\N
+\.
+
+
