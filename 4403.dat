@@ -578,7 +578,6 @@
 573	2117	Rua de Becora Aihun - Cristo Rei - Dili, Timor- Leste	0101000020E61000000725C2420A675F40690BA3D9D52521C0	(+670)  7729 8359	infotimorvison@yahoo.com
 597	1185	Rua Planalto Vila Nova Baucau, Timor- Leste	0101000020E610000029B8FF98FB985F40C2974D1743EE20C0	(+670)  7730 3909 / (+670)   7730 4115	org.cfhd@gmail.com
 602	495	Rua de Lahomea Maliana- Santa Cruz Maliana - Timor- Leste	0101000020E61000006042250D7F4F5F409484BAD2560322C0	(+670)  7773 3129	fmh.maliana@gmail.com
-603	1160	Rua de Jacinto Candido, Bairo Central- Dili, Timor- Leste (Besik Capela )	0101000020E61000008FB9E32E4D655F40D216A7C2D71B21C0	(+670)  331 3312	jdesousa@sfcg.org/ josevicente@gmail.com
 604	1276	Rua de Bairo Pite - Rountunda- Dili - Timor- Leste	0101000020E610000060315E328E635F408CD6554DB22321C0	(+670)  7724 3993	\N
 605	1112	Rua de Avenida Governador Serpa Rosa, Farol, Dili- Timor- Leste	0101000020E61000008CB3245069645F40D10C15DD721A21C0	(+670)  332 4203	brasemb.dili@itamaraty.gov.br
 606	834	Rua de Tirilolo - Baucau Vila -  Timor- Leste	0101000020E6100000CC6FFF98FB985F40859F4D1743EE20C0	(+670)  7732 0643	\N
@@ -628,6 +627,7 @@
 630	565	Rua de Balide, suku Mascarenhas (near Office CAVR), Dili Timor-Leste	0101000020E6100000000000B8FF645F40B3D2CF777C2321C0	(+670)  7760 6247 /  (+670)  331 1259	hafotitimorleste@gmail.com
 610	1033	Rua de Alferes Duarte Arbiro Farol, Dili- Timor-Leste	0101000020E6100000609F245069645F40060C15DD721A21C0	(+670) 332 4801	pspantigati@adb.org
 649	54	Rua de Gov. Selestino Da Silva Farol Dili, Timor - Leste	0101000020E6100000609F245069645F40060C15DD721A21C0	\N	amkvtimorleste@yahoo.com
+603	1160	Rua de Jacinto Candido, Bairo Central- Dili, Timor- Leste (Besik Capela )	0101000020E61000008853E32E4D655F40851EA7C2D71B21C0	\N	jdesousa@sfcg.org/ josevicente@gmail.com
 654	1197	Rua de Welaku - Buikarin Vila Bahalarawain - Viqueque, Timor- Leste	0101000020E6100000FB0B4E5A3F915F40F60B325BC0B521C0	(+670)  7738 1485	\N
 655	294	Rua de Principal de Dom Jeremias Caraubalo - Viqueque, Timor- Leste	0101000020E61000006B07C77C4F9B5F408F90BD1351B521C0	(+670)  7727 3806	foinsaekatolik@yahoo.co.id / paroquia.viqueque@yahoo.com
 656	130	Rua de Beloi Viqueque Caraubalo Manehat (Behind the TT Office Viqueque)-Timro- Leste	0101000020E61000006B07C77C4F9B5F408F90BD1351B521C0	(+670)  7728 2202	\N
@@ -863,7 +863,6 @@
 892	2044	Rua de Fuiloro - Lospalos - Lautem, Timor Leste	0101000020E6100000F80C1F19A1C05F40747FC6E0160521C0	(+670)  7745 9484	\N
 893	2045	Rua de Heler - Fuiloro - Lospalos - Lautem, Timor Leste	0101000020E6100000F80C1F19A1C05F40747FC6E0160521C0	(+670)  7742 8936	\N
 894	2046	Rua de Culuhun - Beicara - Fuiloro - Lospalos, Timor Leste	0101000020E6100000F80C1F19A1C05F40747FC6E0160521C0	(+670)  7729 5976	\N
-895	2047	Rua de Balide ( Joint with office the leprosy Mission), Dili-Timor- Leste	0101000020E6100000C3490462EC645F40685B4948312321C0	(+670)  331 0540	dwgcoordinator@gmail.com
 896	2031	Rua de Cruz Costa, Pantai Makassar Oe-cusse - Timor- Leste	0101000020E61000003305B51B81195F4083AD97FE857A22C0	(+670)  7739 2554	\N
 898	2049	Rua de Becora Dili - Timor Leste	0101000020E6100000E2670FF4A4655F40DFCB70D53B1B21C0	(+670)  7736 7419	sdra_tl@yahoo.com
 899	2050	Rua de Maudio - Railos -Suco Fatuquero - Ermera, Timor- Leste	0101000020E6100000AF600C8C965C5F405D9D608DE86421C0	(+670)  7725 8596	\N
@@ -891,6 +890,7 @@
 909	921	Rua de Oe Sindo 3 - Bairopite - Dili, Timor- Leste	0101000020E6100000E93800E08D635F40898988E4BF1E21C0	(+670)  332 4475	francisco@tlmdc.org
 920	2072	Rua de Koffi Anan - Bairo Calosa - Liquica, Timor- Leste	0101000020E6100000D17100C0BB555F4003D53B0ADD3A21C0	(+670)  7777 2717	info.fbhtl@yahoo.com
 911	593	Rua de Jacinto Candido,  Bairo Formosa - Dili Timor- Leste (Joint with CODIVA Office))	0101000020E61000008853E32E4D655F40851EA7C2D71B21C0	(+670)  7727 6899	jdewi@hivos.org
+895	2047	Rua de Balide ( Undil nia Kraik), Dili-Timor- Leste	0101000020E61000002B680462EC645F40535D4948312321C0	(+670)  331 0540	dwgcoordinator@gmail.com
 925	2077	Rua de Ma'abat - Manatuto Vila, Timor Leste	0101000020E6100000868E24D375835F406E790430521221C0	(+670)  7705 6836	\N
 926	2078	Rua de Liquica - Suco Dato Vila, Timor Leste	0101000020E61000002E51E3A398545F40D98B11DF883A21C0	(+670)  7750 2025	\N
 927	2079	Rua de Sergio Viera de Mello Maubara, Timor- Leste	0101000020E6100000DDC669FF9C4C5F40F4C6BDDF484121C0	(+670)  7736 4448	\N
@@ -1152,6 +1152,9 @@
 1176	2631	Rua de Kampung Baru-Comoro, Dili Timor-Leste	0101000020E6100000FFFFFFFF8D615F4062BD4844E11E21C0	(+670)  7772 5935 / (+670)  7798 1738	\N
 1106	2490	Rua de Loriku  No 5, Aldeia Rai Nain, Suco Colmera, Postu Administrativu Vera Cruz, Municipiu de Dili (Joint with HIVOS)	0101000020E6100000FFFFFF5F2B645F409074B105191E21C0	(+670)  7816 4385	feliciano.codiva@gmail.com
 975	2141	Rua de Uatu Lete -  Tirilolo - Villa Nova Baucau- Timor- Leste	0101000020E610000029B8FF98FB985F40C2974D1743EE20C0	(+670)   7777 9080	Tyna.conceicao13@gmail.com
+1177	2632	Rua de Boramatan, Caraubalu,  Timor Leste	0101000020E610000000000000099B5F4029F011CFE1CE21C0	(+670)  7726 3940	\N
+1178	2633	Rua de Uaguia Viqueque, Timor- Leste	0101000020E610000000000000369B5F401B38407225AC21C0	(+670)  7751 7423	\N
+1179	2615	Rio de Janeiro-Bairopite-Dili, Timor-Leste	0101000020E6100000FFFFFFDF14645F407998AA1B502221C0	(+670)  7760 4411	mesac.tc@gmail.com / mesak.tc2013@gmail.com
 \.
 
 
