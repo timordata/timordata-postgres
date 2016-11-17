@@ -1,11 +1,147 @@
-1	pbkdf2_sha256$24000$3Lp6yIv8x6Sv$Tb9DoRRi7lxvXdFlUXfKdbF0NjJ05B9c0xf5ipLWlnU=	2016-08-10 07:05:25+00	t	josh			josh@josh.com	t	t	2016-03-23 08:21:21+00
-3	pbkdf2_sha256$24000$ynCbY9139XOb$W5ScrGdHJiJa0g505lBgOgMiQuiu/+rj22JNvaez9u8=	2016-05-05 06:54:12+00	f	Fongtil				f	t	2016-03-31 07:28:15+00
-2	pbkdf2_sha256$24000$UF92O4h8Rs4d$Lo2VXbNPzraZRZCJI7+svdWBwprirM1vsKDhjlO7j3Y=	2016-03-31 13:44:02+00	f	Alola				f	t	2016-03-30 02:51:29+00
-5	pbkdf2_sha256$24000$5FyxJNYH2Tr0$xK1EWiKoOVbWpoBecdEeWXphA1Z2gNSmc5AaytoVi+4=	2016-11-07 23:58:30.767435+00	t	zina				t	t	2016-04-18 07:34:35+00
-4	pbkdf2_sha256$24000$4yzU0LRdJarJ$8SO4nF0KhY0qEAn9u56KMiej16zYDtk63sI88cnbyas=	2016-11-09 02:34:11.148853+00	t	Jeny				t	t	2016-04-12 06:28:21+00
-9	pbkdf2_sha256$24000$RR7MjTd8WVAw$RPbgmNJ7vtXnGsw4WtAsxdmLLgB0ghxfLqMvUMxZPUo=	2016-11-09 23:49:54.683528+00	f	untl				t	t	2016-07-20 00:56:23+00
-8	pbkdf2_sha256$24000$khf2XVQ9mCwd$7eI9eujzMR+BrKz2SK1HXAQYBM+kSuZpac3gt3I1zQA=	2016-06-22 06:54:42.032163+00	t	Agapito				t	t	2016-06-17 07:53:46+00
-7	pbkdf2_sha256$24000$X0ajlwmAeXEO$/OnhqP5wbielIiZrSqKHuYkjxTwPEEVW9mJpiFgn/Is=	2016-11-10 00:37:39.644443+00	t	Alldo				t	t	2016-06-15 05:42:21+00
+1	Can add log entry	1	add_logentry
+2	Can change log entry	1	change_logentry
+3	Can delete log entry	1	delete_logentry
+4	Can add permission	2	add_permission
+5	Can change permission	2	change_permission
+6	Can delete permission	2	delete_permission
+7	Can add group	3	add_group
+8	Can change group	3	change_group
+9	Can delete group	3	delete_group
+10	Can add user	4	add_user
+11	Can change user	4	change_user
+12	Can delete user	4	delete_user
+13	Can add content type	5	add_contenttype
+14	Can change content type	5	change_contenttype
+15	Can delete content type	5	delete_contenttype
+16	Can add session	6	add_session
+17	Can change session	6	change_session
+18	Can delete session	6	delete_session
+19	Can add funding offer	7	add_fundingoffer
+20	Can change funding offer	7	change_fundingoffer
+21	Can delete funding offer	7	delete_fundingoffer
+22	Can add funding offer document	8	add_fundingofferdocument
+23	Can change funding offer document	8	change_fundingofferdocument
+24	Can delete funding offer document	8	delete_fundingofferdocument
+25	Can add donor announcement	9	add_donorannouncement
+26	Can change donor announcement	9	change_donorannouncement
+27	Can delete donor announcement	9	delete_donorannouncement
+28	Can add donor survey response	10	add_donorsurveyresponse
+29	Can change donor survey response	10	change_donorsurveyresponse
+30	Can delete donor survey response	10	delete_donorsurveyresponse
+31	Can add funding survey info methods	11	add_fundingsurveyinfomethods
+32	Can change funding survey info methods	11	change_fundingsurveyinfomethods
+33	Can delete funding survey info methods	11	delete_fundingsurveyinfomethods
+34	Can add funding survey	12	add_fundingsurvey
+35	Can change funding survey	12	change_fundingsurvey
+36	Can delete funding survey	12	delete_fundingsurvey
+37	Can add publication	13	add_publication
+38	Can change publication	13	change_publication
+39	Can delete publication	13	delete_publication
+40	Can add tag	14	add_tag
+41	Can change tag	14	change_tag
+42	Can delete tag	14	delete_tag
+43	Can add thumbnail	15	add_thumbnail
+44	Can change thumbnail	15	change_thumbnail
+45	Can delete thumbnail	15	delete_thumbnail
+46	Can add version	16	add_version
+47	Can change version	16	change_version
+48	Can delete version	16	delete_version
+49	Can add author	17	add_author
+50	Can change author	17	change_author
+51	Can delete author	17	delete_author
+52	Can add pubtype	18	add_pubtype
+53	Can change pubtype	18	change_pubtype
+54	Can delete pubtype	18	delete_pubtype
+55	Can add organization	19	add_organization
+56	Can change organization	19	change_organization
+57	Can delete organization	19	delete_organization
+58	Can add organization class	20	add_organizationclass
+59	Can change organization class	20	change_organizationclass
+60	Can delete organization class	20	delete_organizationclass
+61	Can add person	21	add_person
+62	Can change person	21	change_person
+63	Can delete person	21	delete_person
+64	Can add property tag	22	add_propertytag
+65	Can change property tag	22	change_propertytag
+66	Can delete property tag	22	delete_propertytag
+67	Can add project type	23	add_projecttype
+68	Can change project type	23	change_projecttype
+69	Can delete project type	23	delete_projecttype
+70	Can add record owner	24	add_recordowner
+71	Can change record owner	24	change_recordowner
+72	Can delete record owner	24	delete_recordowner
+73	Can add project image	25	add_projectimage
+74	Can change project image	25	change_projectimage
+75	Can delete project image	25	delete_projectimage
+76	Can add project	26	add_project
+77	Can change project	26	change_project
+78	Can delete project	26	delete_project
+79	Can add project status	27	add_projectstatus
+80	Can change project status	27	change_projectstatus
+81	Can delete project status	27	delete_projectstatus
+82	Can add Project to Organization link	28	add_projectorganization
+83	Can change Project to Organization link	28	change_projectorganization
+84	Can delete Project to Organization link	28	delete_projectorganization
+85	Can add project organization class	29	add_projectorganizationclass
+86	Can change project organization class	29	change_projectorganizationclass
+87	Can delete project organization class	29	delete_projectorganizationclass
+88	Can add project person	30	add_projectperson
+89	Can change project person	30	change_projectperson
+90	Can delete project person	30	delete_projectperson
+91	Can add project place	31	add_projectplace
+92	Can change project place	31	change_projectplace
+93	Can delete project place	31	delete_projectplace
+94	Can add organization place	32	add_organizationplace
+95	Can change organization place	32	change_organizationplace
+96	Can delete organization place	32	delete_organizationplace
+97	Can add town	33	add_town
+98	Can change town	33	change_town
+99	Can delete town	33	delete_town
+100	Can add admin area	34	add_adminarea
+101	Can change admin area	34	change_adminarea
+102	Can delete admin area	34	delete_adminarea
+103	Can add suco	35	add_suco
+104	Can change suco	35	change_suco
+105	Can delete suco	35	delete_suco
+106	Can add subdistrict	36	add_subdistrict
+107	Can change subdistrict	36	change_subdistrict
+108	Can delete subdistrict	36	delete_subdistrict
+109	Can add district	37	add_district
+110	Can change district	37	change_district
+111	Can delete district	37	delete_district
+112	Can add road	38	add_road
+113	Can change road	38	change_road
+114	Can delete road	38	delete_road
+115	Can add world	39	add_world
+116	Can change world	39	change_world
+117	Can delete world	39	delete_world
+118	Can add worldsimple	40	add_worldsimple
+119	Can change worldsimple	40	change_worldsimple
+120	Can delete worldsimple	40	delete_worldsimple
+121	Can add place alternate	41	add_placealternate
+122	Can change place alternate	41	change_placealternate
+123	Can delete place alternate	41	delete_placealternate
+124	Can add affected instance	42	add_affectedinstance
+125	Can change affected instance	42	change_affectedinstance
+126	Can delete affected instance	42	delete_affectedinstance
+127	Can add suggest upload	43	add_suggestupload
+128	Can change suggest upload	43	change_suggestupload
+129	Can delete suggest upload	43	delete_suggestupload
+130	Can add suggest	44	add_suggest
+131	Can change suggest	44	change_suggest
+132	Can delete suggest	44	delete_suggest
+133	Can add site	45	add_site
+134	Can change site	45	change_site
+135	Can delete site	45	delete_site
+136	Can add flat page	46	add_flatpage
+137	Can change flat page	46	change_flatpage
+138	Can delete flat page	46	delete_flatpage
+139	Can add excel download feedback	47	add_exceldownloadfeedback
+140	Can change excel download feedback	47	change_exceldownloadfeedback
+141	Can delete excel download feedback	47	delete_exceldownloadfeedback
+142	Can add organization place description	48	add_organizationplacedescription
+143	Can change organization place description	48	change_organizationplacedescription
+144	Can delete organization place description	48	delete_organizationplacedescription
 \.
 
 

@@ -1,517 +1,1195 @@
-1	law	\N	law	\N	\N
-2	justice	\N	justice	\N	\N
-3	crime	\N	crime	\N	\N
-4	human rights	\N	human rights	\N	\N
-5	refugees	\N	refugees	\N	\N
-6	culture	\N	culture	\N	\N
-7	economics	\N	economics	\N	\N
-8	social	\N	social	\N	\N
-9	police	\N	police	\N	\N
-10	violence	\N	violence	\N	\N
-11	occupation	\N	occupation	\N	\N
-12	disappearance	\N	disappearance	\N	\N
-13	impunity	\N	impunity	\N	\N
-14	victim	\N	victim	\N	\N
-15	military	\N	military	\N	\N
-16	missing persons	\N	missing persons	\N	\N
-17	democracy	\N	democracy	\N	\N
-18	massacre	\N	massacre	\N	\N
-19	police interventions	\N	police interventions	\N	\N
-20	dignity	\N	dignity	\N	\N
-21	international relations	\N	international relations	\N	\N
-22	agriculture	\N	agriculture	\N	\N
-23	institutions	\N	institutions	\N	\N
-24	announcement	\N	announcement	\N	\N
-25	budget	\N	budget	\N	\N
-26	pntl	\N	pntl	\N	\N
-27	weapons	\N	weapons	\N	\N
-28	ffdtl	\N	ffdtl	\N	\N
-29	capacity	\N	capacity	\N	\N
-30	drugs	\N	drugs	\N	\N
-31	human security	\N	human security	\N	\N
-32	transparency	\N	transparency	\N	\N
-33	community police	\N	community police	\N	\N
-34	election	\N	election	\N	\N
-35	veterans	\N	veterans	\N	\N
-36	media	\N	media	\N	\N
-37	adf	\N	adf	\N	\N
-38	politics	\N	politics	\N	\N
-39	commision b	\N	commision b	\N	\N
-40	parliament	\N	parliament	\N	\N
-41	development	\N	development	\N	\N
-42	corruption	\N	corruption	\N	\N
-43	land dispute	\N	land dispute	\N	\N
-44	commerce	\N	commerce	\N	\N
-45	international	\N	international	\N	\N
-46	transport	\N	transport	\N	\N
-47	border	\N	border	\N	\N
-48	prison	\N	prison	\N	\N
-49	terrorism	\N	terrorism	\N	\N
-50	local governance	\N	local governance	\N	\N
-51	suku	\N	suku	\N	\N
-52	suku council	\N	suku council	\N	\N
-53	administration	\N	administration	\N	\N
-54	prosecution	\N	prosecution	\N	\N
-55	court	\N	court	\N	\N
-56	dispute resolution	\N	dispute resolution	\N	\N
-57	separation	\N	separation	\N	\N
-58	divorce	\N	divorce	\N	\N
-59	domestic violence	\N	domestic violence	\N	\N
-60	voters	\N	voters	\N	\N
-61	economic growth	\N	economic growth	\N	\N
-62	trade	\N	trade	\N	\N
-63	business	\N	business	\N	\N
-64	investment	\N	investment	\N	\N
-65	sustainability	\N	sustainability	\N	\N
-66	policy	\N	policy	\N	\N
-67	rights	\N	rights	\N	\N
-68	legal system	\N	legal system	\N	\N
-69	legal institutions	\N	legal institutions	\N	\N
-70	language	\N	language	\N	\N
-71	legislation	\N	legislation	\N	\N
-72	access to justice	\N	access to justice	\N	\N
-73	civil society	\N	civil society	\N	\N
-74	participation	\N	participation	\N	\N
-75	council	\N	council	\N	\N
-76	finance	\N	finance	\N	\N
-77	tax	\N	tax	\N	\N
-78	customs	\N	customs	\N	\N
-79	procurement	\N	procurement	\N	\N
-80	community policing	\N	community policing	\N	\N
-81	reform	\N	reform	\N	\N
-82	legal aid	\N	legal aid	\N	\N
-83	punishment	\N	punishment	\N	\N
-84	graduates	\N	graduates	\N	\N
-85	career	\N	career	\N	\N
-86	employment	\N	employment	\N	\N
-87	community	\N	community	\N	\N
-88	decentralization	\N	decentralization	\N	\N
-89	communication	\N	communication	\N	\N
-90	technology	\N	technology	\N	\N
-91	information processing	\N	information processing	\N	\N
-92	literacy	\N	literacy	\N	\N
-93	read	\N	read	\N	\N
-94	childen	\N	childen	\N	\N
-95	school	\N	school	\N	\N
-96	early development	\N	early development	\N	\N
-97	nation building	\N	nation building	\N	\N
-98	independence	\N	independence	\N	\N
-99	government structure	\N	government structure	\N	\N
-100	peace	\N	peace	\N	\N
-101	reconciliation	\N	reconciliation	\N	\N
-102	conflict	\N	conflict	\N	\N
-103	tradition	\N	tradition	\N	\N
-104	map	\N	map	\N	\N
-105	public policy	\N	public policy	\N	\N
-106	martial arts	\N	martial arts	\N	\N
-107	reintegration	\N	reintegration	\N	\N
-108	internally displaced people	\N	internally displaced people	\N	\N
-109	crimes	\N	crimes	\N	\N
-110	disputes	\N	disputes	\N	\N
-111	legal awareness	\N	legal awareness	\N	\N
-112	legal reform	\N	legal reform	\N	\N
-113	accountability	\N	accountability	\N	\N
-114	women's access	\N	women's access	\N	\N
-115	acess to justice	\N	acess to justice	\N	\N
-116	books	\N	books	\N	\N
-117	software	\N	software	\N	\N
-118	university	\N	university	\N	\N
-119	women's rights	\N	women's rights	\N	\N
-120	gender	\N	gender	\N	\N
-121	women's participation	\N	women's participation	\N	\N
-122	professional responsibility	\N	professional responsibility	\N	\N
-123	lawyer	\N	lawyer	\N	\N
-124	paternity dispute	\N	paternity dispute	\N	\N
-125	dispute	\N	dispute	\N	\N
-126	relationships	\N	relationships	\N	\N
-127	marriage	\N	marriage	\N	\N
-128	president	\N	president	\N	\N
-129	prime minister	\N	prime minister	\N	\N
-130	constitutional law	\N	constitutional law	\N	\N
-131	judiciary	\N	judiciary	\N	\N
-132	courts	\N	courts	\N	\N
-133	national parliament	\N	national parliament	\N	\N
-134	legal capacity	\N	legal capacity	\N	\N
-135	legal transactions	\N	legal transactions	\N	\N
-136	contract law	\N	contract law	\N	\N
-137	legal	\N	legal	\N	\N
-138	glossary	\N	glossary	\N	\N
-139	safety	\N	safety	\N	\N
-140	tourism	\N	tourism	\N	\N
-141	injury	\N	injury	\N	\N
-142	performance	\N	performance	\N	\N
-143	martial arts groups	\N	martial arts groups	\N	\N
-144	religion	\N	religion	\N	\N
-145	food	\N	food	\N	\N
-146	protests	\N	protests	\N	\N
-147	alcohol	\N	alcohol	\N	\N
-148	religious identity	\N	religious identity	\N	\N
-149	land disputes	\N	land disputes	\N	\N
-150	family	\N	family	\N	\N
-151	natural disasters	\N	natural disasters	\N	\N
-152	schools	\N	schools	\N	\N
-153	community leaders	\N	community leaders	\N	\N
-154	physical assault	\N	physical assault	\N	\N
-155	student	\N	student	\N	\N
-156	conflict prevention	\N	conflict prevention	\N	\N
-157	poison	\N	poison	\N	\N
-158	students	\N	students	\N	\N
-159	assault	\N	assault	\N	\N
-160	tara bandu	\N	tara bandu	\N	\N
-161	land	\N	land	\N	\N
-162	farm	\N	farm	\N	\N
-163	witchcraft	\N	witchcraft	\N	\N
-164	black magic	\N	black magic	\N	\N
-165	money	\N	money	\N	\N
-166	illegal groups	\N	illegal groups	\N	\N
-167	theft	\N	theft	\N	\N
-168	gambling	\N	gambling	\N	\N
-169	sport	\N	sport	\N	\N
-170	animal	\N	animal	\N	\N
-171	domestic abuse	\N	domestic abuse	\N	\N
-172	sexual abuse	\N	sexual abuse	\N	\N
-173	property	\N	property	\N	\N
-174	bribe	\N	bribe	\N	\N
-175	threats	\N	threats	\N	\N
-176	intimidation	\N	intimidation	\N	\N
-177	tension	\N	tension	\N	\N
-178	food security	\N	food security	\N	\N
-179	farming	\N	farming	\N	\N
-180	murder	\N	murder	\N	\N
-181	internally displaced persons	\N	internally displaced persons	\N	\N
-182	property damage	\N	property damage	\N	\N
-183	abuse	\N	abuse	\N	\N
-184	migration	\N	migration	\N	\N
-185	victims	\N	victims	\N	\N
-186	political	\N	political	\N	\N
-187	demarcation	\N	demarcation	\N	\N
-188	indonesia	\N	indonesia	\N	\N
-189	identity	\N	identity	\N	\N
-190	demonstrations	\N	demonstrations	\N	\N
-191	history	\N	history	\N	\N
-192	resistance	\N	resistance	\N	\N
-193	sexual violence	\N	sexual violence	\N	\N
-194	resolution	\N	resolution	\N	\N
-195	sorcery	\N	sorcery	\N	\N
-196	magic	\N	magic	\N	\N
-197	housing	\N	housing	\N	\N
-198	structural damage	\N	structural damage	\N	\N
-199	property sales	\N	property sales	\N	\N
-200	dispossession	\N	dispossession	\N	\N
-201	living conditions	\N	living conditions	\N	\N
-202	construction	\N	construction	\N	\N
-203	repair	\N	repair	\N	\N
-204	discrimination	\N	discrimination	\N	\N
-205	leadership	\N	leadership	\N	\N
-206	curriculum	\N	curriculum	\N	\N
-207	teaching	\N	teaching	\N	\N
-208	peace building	\N	peace building	\N	\N
-209	conflict resolution	\N	conflict resolution	\N	\N
-210	pension	\N	pension	\N	\N
-211	income	\N	income	\N	\N
-212	inequality	\N	inequality	\N	\N
-213	fishing	\N	fishing	\N	\N
-214	assessment	\N	assessment	\N	\N
-215	economic empowerment	\N	economic empowerment	\N	\N
-216	population	\N	population	\N	\N
-217	hiv	\N	hiv	\N	\N
-218	aids	\N	aids	\N	\N
-219	mobility	\N	mobility	\N	\N
-220	poverty	\N	poverty	\N	\N
-221	stigma	\N	stigma	\N	\N
-222	marriage practices	\N	marriage practices	\N	\N
-223	food production	\N	food production	\N	\N
-224	economy	\N	economy	\N	\N
-225	logistics	\N	logistics	\N	\N
-226	crops	\N	crops	\N	\N
-227	labour	\N	labour	\N	\N
-228	work	\N	work	\N	\N
-229	skills	\N	skills	\N	\N
-230	vocational training	\N	vocational training	\N	\N
-231	market	\N	market	\N	\N
-232	industrial relations	\N	industrial relations	\N	\N
-233	roads	\N	roads	\N	\N
-234	rural	\N	rural	\N	\N
-235	capacity building	\N	capacity building	\N	\N
-236	equal opportunity	\N	equal opportunity	\N	\N
-237	cattle	\N	cattle	\N	\N
-238	labor	\N	labor	\N	\N
-239	urban	\N	urban	\N	\N
-240	environment	\N	environment	\N	\N
-241	enterprise	\N	enterprise	\N	\N
-242	displacement	\N	displacement	\N	\N
-243	rehabilitation	\N	rehabilitation	\N	\N
-244	migration management	\N	migration management	\N	\N
-245	capacity development	\N	capacity development	\N	\N
-246	strategy	\N	strategy	\N	\N
-247	small area estimation	\N	small area estimation	\N	\N
-248	empowerment	\N	empowerment	\N	\N
-249	immigrants	\N	immigrants	\N	\N
-250	human trafficking	\N	human trafficking	\N	\N
-251	evaluation	\N	evaluation	\N	\N
-252	human development	\N	human development	\N	\N
-253	energy	\N	energy	\N	\N
-254	biodiversity	\N	biodiversity	\N	\N
-255	ecosystem	\N	ecosystem	\N	\N
-256	marine	\N	marine	\N	\N
-257	animals	\N	animals	\N	\N
-258	flora	\N	flora	\N	\N
-259	fauna	\N	fauna	\N	\N
-260	maternal mortality	\N	maternal mortality	\N	\N
-261	hunger	\N	hunger	\N	\N
-262	child mortality	\N	child mortality	\N	\N
-263	climate change	\N	climate change	\N	\N
-264	sustainable development	\N	sustainable development	\N	\N
-265	strategic planning	\N	strategic planning	\N	\N
-266	indigenous people	\N	indigenous people	\N	\N
-267	cultural property preservation	\N	cultural property preservation	\N	\N
-268	museums	\N	museums	\N	\N
-269	pluralism	\N	pluralism	\N	\N
-270	journalism	\N	journalism	\N	\N
-271	censorship	\N	censorship	\N	\N
-272	refugee	\N	refugee	\N	\N
-273	war	\N	war	\N	\N
-274	international cooperation	\N	international cooperation	\N	\N
-275	community participation	\N	community participation	\N	\N
-276	teachers	\N	teachers	\N	\N
-277	curriculum development	\N	curriculum development	\N	\N
-278	science	\N	science	\N	\N
-279	disease control	\N	disease control	\N	\N
-280	sexual behaviour	\N	sexual behaviour	\N	\N
-281	disaster prevention	\N	disaster prevention	\N	\N
-282	conservation	\N	conservation	\N	\N
-283	development planning	\N	development planning	\N	\N
-284	emergency response	\N	emergency response	\N	\N
-285	coastal zone	\N	coastal zone	\N	\N
-286	traditions	\N	traditions	\N	\N
-287	small island developing states	\N	small island developing states	\N	\N
-288	access to education	\N	access to education	\N	\N
-289	womens participation	\N	womens participation	\N	\N
-290	programmes	\N	programmes	\N	\N
-291	resources	\N	resources	\N	\N
-292	ecology	\N	ecology	\N	\N
-293	biological diversity	\N	biological diversity	\N	\N
-294	ecosystems	\N	ecosystems	\N	\N
-295	biology	\N	biology	\N	\N
-296	environmental protection	\N	environmental protection	\N	\N
-297	plants	\N	plants	\N	\N
-298	textile	\N	textile	\N	\N
-299	dyes technology	\N	dyes technology	\N	\N
-300	national park	\N	national park	\N	\N
-301	geography	\N	geography	\N	\N
-302	maps	\N	maps	\N	\N
-303	sex education	\N	sex education	\N	\N
-304	educational policy	\N	educational policy	\N	\N
-305	drug education	\N	drug education	\N	\N
-306	recession	\N	recession	\N	\N
-307	journalist	\N	journalist	\N	\N
-308	drug use	\N	drug use	\N	\N
-309	pregnancy	\N	pregnancy	\N	\N
-310	abortion	\N	abortion	\N	\N
-311	family planning	\N	family planning	\N	\N
-312	adolescent	\N	adolescent	\N	\N
-313	fertility	\N	fertility	\N	\N
-314	mortality	\N	mortality	\N	\N
-315	male	\N	male	\N	\N
-316	female	\N	female	\N	\N
-317	child	\N	child	\N	\N
-318	infant	\N	infant	\N	\N
-319	demographic	\N	demographic	\N	\N
-320	census	\N	census	\N	\N
-321	statistics	\N	statistics	\N	\N
-322	disability	\N	disability	\N	\N
-323	transitional justice	\N	transitional justice	\N	\N
-324	child rights	\N	child rights	\N	\N
-325	child protection reconciliation	\N	child protection reconciliation	\N	\N
-326	birth	\N	birth	\N	\N
-327	birth registration	\N	birth registration	\N	\N
-328	birth records	\N	birth records	\N	\N
-329	child protection	\N	child protection	\N	\N
-330	water	\N	water	\N	\N
-331	sanitation	\N	sanitation	\N	\N
-332	hygiene	\N	hygiene	\N	\N
-333	service delivery	\N	service delivery	\N	\N
-334	emergency	\N	emergency	\N	\N
-335	disaster management	\N	disaster management	\N	\N
-336	flood	\N	flood	\N	\N
-337	humanitarian	\N	humanitarian	\N	\N
-338	aid	\N	aid	\N	\N
-339	response	\N	response	\N	\N
-340	bullying	\N	bullying	\N	\N
-341	mutilation	\N	mutilation	\N	\N
-342	child marriage	\N	child marriage	\N	\N
-343	political power	\N	political power	\N	\N
-344	peacebuilding	\N	peacebuilding	\N	\N
-345	weight	\N	weight	\N	\N
-346	height	\N	height	\N	\N
-347	age	\N	age	\N	\N
-348	demography	\N	demography	\N	\N
-349	maternal	\N	maternal	\N	\N
-350	disease management	\N	disease management	\N	\N
-351	disaster planning	\N	disaster planning	\N	\N
-352	health policy	\N	health policy	\N	\N
-353	disease prevention	\N	disease prevention	\N	\N
-354	tobacco	\N	tobacco	\N	\N
-355	smoking	\N	smoking	\N	\N
-356	passive smoking	\N	passive smoking	\N	\N
-357	treatment	\N	treatment	\N	\N
-358	prevention	\N	prevention	\N	\N
-359	advertising	\N	advertising	\N	\N
-360	malaria	\N	malaria	\N	\N
-361	mosquito	\N	mosquito	\N	\N
-362	non-communicable disease	\N	non-communicable disease	\N	\N
-363	health system	\N	health system	\N	\N
-364	cardiovascular disease	\N	cardiovascular disease	\N	\N
-365	cancer	\N	cancer	\N	\N
-366	respiratory disease	\N	respiratory disease	\N	\N
-367	diabetes	\N	diabetes	\N	\N
-368	tuberculosis	\N	tuberculosis	\N	\N
-369	morbidity	\N	morbidity	\N	\N
-370	interventions	\N	interventions	\N	\N
-371	death	\N	death	\N	\N
-372	years of life lost	\N	years of life lost	\N	\N
-373	life expectancy	\N	life expectancy	\N	\N
-374	immunization	\N	immunization	\N	\N
-375	obesity	\N	obesity	\N	\N
-376	maternal health	\N	maternal health	\N	\N
-377	child health	\N	child health	\N	\N
-378	refugees and idps	\N	refugees and idps	\N	\N
-379	food for assets	\N	food for assets	\N	\N
-380	general food distribution	\N	general food distribution	\N	\N
-381	school meals	\N	school meals	\N	\N
-382	epilepsy	\N	epilepsy	\N	\N
-383	care	\N	care	\N	\N
-384	health workers	\N	health workers	\N	\N
-385	doctors	\N	doctors	\N	\N
-386	challenges	\N	challenges	\N	\N
-387	opportunities	\N	opportunities	\N	\N
-388	access to health	\N	access to health	\N	\N
-389	maternity	\N	maternity	\N	\N
-390	food shortage	\N	food shortage	\N	\N
-391	humanitarian assistance	\N	humanitarian assistance	\N	\N
-392	self determination	\N	self determination	\N	\N
-393	decolonisation	\N	decolonisation	\N	\N
-394	oppression	\N	oppression	\N	\N
-395	torture	\N	torture	\N	\N
-396	genocide	\N	genocide	\N	\N
-397	protest movements	\N	protest movements	\N	\N
-398	regional planning	\N	regional planning	\N	\N
-399	political history	\N	political history	\N	\N
-400	legends	\N	legends	\N	\N
-401	mythology	\N	mythology	\N	\N
-402	elections	\N	elections	\N	\N
-403	womens rights	\N	womens rights	\N	\N
-404	seeds	fini	seeds		
-405	rice	hare, etu, foos	rice	arroz	beras
-406	maize	batar	maize	milho	jagung
-407	storage	armazén	storage	armazenamento	penyimpanan
-408	seed production	fini produsaun	seed production	produção de sementes	produksi benih
-409	farmer groups	grupu toos nain	farmer groups	grupos de agricultores	kelompok tani
-410	savings and loans groups		savings and loans groups	grupos de poupança e empréstimos	kelompok simpan pinjaman
-411	seed adoption	hakiak fini	seed adoption	adoção de sementes	adopsi benih
-412	foodcrops	to'os fuan	foodcrops	culturas alimentares	tanaman pangan
-433	agriculture and food security	\N	agriculture and food security	\N	\N
-414	FFDTL	FFDTL	FFDTL	FFDTL	FFDTL
-415	test	test	\N	\N	\N
-416	testing	testing	\N	\N	\N
-417	Border	Fronterra	Border	\N	\N
-418	Navy	Navy	Navy	\N	\N
-419	Community Policing	Polisiamentu Komunitaria	Community Policing	\N	\N
-420	Defense Finances	Finansia Defesa	Defense Finances	\N	\N
-421	Intelejen	Intelejen	Intelligence	\N	\N
-422	Fronteira 	Fronteira 	\N	\N	\N
-423	Disputa Rai	Disputa Rai	\N	\N	\N
-424	Orsamentu Defeza no Seguransa 	Orsamentu Defeza no Seguransa 	\N	\N	\N
-425	Orsamentu ba Seguransa no Defeza	Orsamentu ba Seguransa no Defeza	\N	\N	\N
-426	Prizaun iha Timor-Leste	Prizaun iha Timor-Leste	\N	\N	\N
-427	Prizaun 	Prizaun 	\N	\N	\N
-428	Parlamentu Nasional Komisaun B	Parlamentu Nasional Komisaun B	\N	\N	\N
-429	PNTL	PNTL	\N	\N	\N
-430	Pemilu di Timor-Leste	Pemilu di Timor-Leste	\N	\N	\N
-431	Dezenvolvimentu PNTL	Dezenvolvimentu PNTL	\N	\N	\N
-432	Polisia Militar	Polisia Militar	\N	\N	\N
-434	training	\N	training	\N	\N
-435	capacity strengthening	\N	capacity strengthening	\N	\N
-436	advocacy	\N	advocacy	\N	\N
-437	research	\N	research	\N	\N
-438	social services	\N	social services	\N	\N
-439	infrastructure and rehabilitation	\N	infrastructure and rehabilitation	\N	\N
-440	income generation	\N	income generation	\N	\N
-441	microfinance and credit	\N	microfinance and credit	\N	\N
-442	small grants	\N	small grants	\N	\N
-443	public information	\N	public information	\N	\N
-444	advisory support	\N	advisory support	\N	\N
-445	networking	\N	networking	\N	\N
-446	education	\N	education	\N	\N
-447	dialogue	\N	dialogue	\N	\N
-448	health	\N	health	\N	\N
-449	community development	\N	community development	\N	\N
-450	natural resources enviroment and energy	\N	natural resources enviroment and energy	\N	\N
-451	infrastructure	\N	infrastructure	\N	\N
-452	justice human rights and protection	\N	justice human rights and protection	\N	\N
-453	water and sanitation	\N	water and sanitation	\N	\N
-454	economic development	\N	economic development	\N	\N
-455	conflict prevention and peace strengthening	\N	conflict prevention and peace strengthening	\N	\N
-456	governance	\N	governance	\N	\N
-457	media and public information	\N	media and public information	\N	\N
-458	gender equality	\N	gender equality	\N	\N
-459	coordination	\N	coordination	\N	\N
-460	fisheries	\N	fisheries	\N	\N
-461	nutrition	\N	nutrition	\N	\N
-462	disaster risk management	\N	disaster risk management	\N	\N
-463	hiv/aids	\N	hiv/aids	\N	\N
-464	food aid	\N	food aid	\N	\N
-465	emergency shelter	\N	emergency shelter	\N	\N
-466	security	\N	security	\N	\N
-467	youth	\N	youth	\N	\N
-468	community (general)	\N	community (general)	\N	\N
-469	children	\N	children	\N	\N
-470	women	\N	women	\N	\N
-471	widows	\N	widows	\N	\N
-472	organisations	\N	organisations	\N	\N
-473	government	\N	government	\N	\N
-474	professionals	\N	professionals	\N	\N
-475	survivors of violence	\N	survivors of violence	\N	\N
-476	idps	\N	idps	\N	\N
-477	suco councils	\N	suco councils	\N	\N
-478	ex-combatants	\N	ex-combatants	\N	\N
-479	special needs	\N	special needs	\N	\N
-480	activities	\N	activities	\N	\N
-481	sector	\N	sector	\N	\N
-482	beneficiaries	\N	beneficiaries	\N	\N
-483	UN	UN	\N	\N	\N
-484	Peacekeeping	Peacekeeping	\N	\N	\N
-485	Budget	Budget	\N	\N	\N
-486	Organised Crime	Krime Organizadu	Organised Crime	\N	\N
-487	Bombeirus	Bombeirus	\N	\N	\N
-488	Unemployment	Unemployment	\N	\N	\N
-489	Procurement	Procurement	\N	\N	\N
-490	National Defense	National Defense	\N	\N	\N
-491	Ministeriu Interior	Ministeriu Interior	\N	\N	\N
-492	INTERPOL	INTERPOL	\N	\N	\N
-493	Diocese Maliana	Diocese Maliana	\N	\N	\N
-494	ASEAN	ASEAN	\N	\N	\N
-495	Seguransa-ASEAN	Seguransa-ASEAN	\N	\N	\N
-496	Porto Naval FFDTL	Porto Naval FFDTL	\N	\N	\N
-497	Ministeriu Defeza	Ministeriu Defeza	\N	\N	\N
-498	PNTL-FFDTL	PNTL-FFDTL	\N	\N	\N
-499	Polisia Sientifika Investigasaun Kriminal-(PSIK)	Polisia Sientifika Investigasaun Kriminal-(PSIK)	\N	\N	\N
-500	Droga	Droga	\N	\N	\N
-501	Krimi Brankamentu	Krimi Brankamentu	\N	\N	\N
-502	Granada	Granada	\N	\N	\N
-503	Intelligence	Intelligence	\N	\N	\N
-504	Artemasiais	Artemasiais	\N	\N	\N
-505	Ministeriu Publiku	Ministeriu Publiku	\N	\N	\N
-506	Mental Health	Mental Health	\N	\N	\N
-507	Mina Timor Atu Maran	Mina Timor Atu Maran	\N	\N	\N
-508	Prostituisaun	Prostituisaun	\N	\N	\N
-509	Krime	Krime	\N	\N	\N
-510	expenditure	gastu	expenditure	despesa	pengeluaran
-511	Petisionariu	Petisionariu	\N	\N	\N
-512	FALINTIL	FALINTIL	\N	\N	\N
-513	Militar Obrigatoriu	Militar Obrigatoriu	\N	\N	\N
-514	Intel  	Intel  	\N	\N	\N
-515	monitoring and evaluation	monitorizasaun no evaluasaun	monitoring and evaluation	\N	\N
+97	Youth employment creation through self-employment promotion and micro and small enterprise development in Timor -Leste rural areas	International Labour Organization (ILO)
+99	Gender dimensions in vocational training in Timor-Leste	EU
+5	Komemora Tinan 72 Ba Loron Invazaun Tropas Japonez mai Timor-Leste (Fevereiru 1942 – Agustu 1945). “Rekuinhesementu Istoria Pasadu Okupasaun Militar Japaun”	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+131	National adaptation program of action on climate change	GEF
+165	Drug use in Timor-Leste - an assessment	United Nations Fund Population (UNFPA)
+93	Employment-intensive infrastructure works (TIM-Works) in Timor-Leste	International Labour Organization (ILO)
+303	FM Nia Artigu Konaba Seguransa 11 Juñu 2015	Fundasaun Mahein
+293	FM Nia Artigu Konaba Seguransa 28 Maiu 2015	Fundasaun Mahein
+19	Trends of local governance in Timor-Leste	The Asia Foundation (TAF)
+186	Child malnutrition estimates by NCHS/WHO reference	World Health Organization (WHO)
+52	Constitutional law in Timor-Leste	The Asia Foundation (TAF)
+35	Reflection on Law No. 3/2009: Community leadership and their election	The Asia Foundation (TAF)
+313	Timor-Leste Household Income and Expenditure Survey 2011	Direcção Nacional de Estatística
+220	Effects of importing maize and rice seed on agricultural seed production in Timor-Leste\r\n	Seeds of Life (SOL)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Asosiasaun Chega ba Ita (Acbit)
+149	Serimónia dada ró no haree bubur	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+218	Donor mapping proposal outline	Belun
+9	Report to Amnesty International Committee on the Rights of a Child	La'o Hamutuk
+155	Safeguarding our traditional ecological knowledge related to coastal ecosystem	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+46	Professional responsibility in Timor-Leste	United States Agency for International Development (USAID)
+281	FM Nia Artigu Konaba Seguransa 14 Maiu 2015	Fundasaun Mahein
+36	Tara Bandu: Its role and use in community conflict prevention in Timor-Leste	Embassy of the European Commission
+48	Matadalan ba kazu paternidade	United States Agency for International Development (USAID)
+301	FM Nia Artigu Konaba Seguransa 9 Juñu 2015	Fundasaun Mahein
+53	Contract law in Timor-Leste	Stanford Law School
+173	Innocenti Insight, Birth Registration and Armed Conflict	United Nations Children's Fund (UNICEF)
+35	Reflection on Law No. 3/2009: Community leadership and their election	Ministériu Administrasaun Estatál
+245	FM Nia Artigu Konaba Seguransa 21 Abril 2015	Fundasaun Mahein
+75	Guide to facilitating dialogue and mediation in the community	Republica Democrática de Timor-Leste
+72	Approaches to domestic violence against women in Timor-Leste. A review and critique	Direito Kostumeiro ho Violênsia Doméstika iha Timor-Leste
+28	“Ami Sei Vítima Beibeik”: Looking to the needs of domestic violence victims	United States Agency for International Development (USAID)
+57	Tara-Bandu ho nia papél ba prevensaun konflitu iha komunidade Timor-Leste	Kooperasaun husi alamaña
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	OPVG (Organizasaun Popular Vitima da Guera)
+159	Producing red and blue colors from native dye plants	Timor Aid
+9	Report to Amnesty International Committee on the Rights of a Child	Forum ONG Timor Leste (FONGTIL)
+327	FM Nia Artigu Konaba Seguransa 06 Jullu 2015	Fundasaun Mahein
+307	FM Nia Artigu Konaba Seguransa 16 Juñu 2015	Fundasaun Mahein
+82	Local and indigenous knowledge for community resilience	Hiwasaki
+287	FM Nia Artigu Konaba Seguransa 19 Maiu 2015	Fundasaun Mahein
+71	Country Gender Assessment	Secretaria do Estado para Promoção da Igualdade
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Aliansi Nasionál Timor-Leste ba Tribunál Internasionál (ANTI)
+208	Man and environment in Eastern Timor: a geoecological analysis of Baucau-Viqueque area as a possible basis for regional planning	Australian National University
+50	Matadalan espesífiku kona-ba kazu divórsiu	The Asia Foundation (TAF)
+80	Community based data gathering and co-management of marine resources in Timor-Leste	Food And Agriculture Organization (FAO)
+33	Timor-Leste celebrates a decade of Independence	The Asia Foundation (TAF)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Forum Tau Matan (FTM)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Pergerakan Solidaritas Mahasiswa Timor Leste (PSM-TL)
+224	Drivers and Determinants of Sustainability and Development of Savings and Loans Groups\r\n	Seeds of Life (SOL)
+209	Decolonization in East Timor	Embassy of the Republic of Indonesia
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Kdadalak Sulimutuk Institute (KSI)
+111	Mapping of migration data sources iin Timor-Leste	United Nations Fund Population (UNFPA)
+24	Timor-Leste	World Health Organization (WHO)
+265	Roads for Development (R4D) ENVIRONMENTAL SAFEGUARDS FRAMEWORK	Republica Democrática de Timor-Leste
+54	Glosáriu jurídiku ba pratikante sira iha Timor-Leste	United States Agency for International Development (USAID)
+221	Benefits of targeted vs non-targeted seed distribution	Seeds of Life (SOL)
+108	IOM Timor-Leste Strategic Plan 2011-2013 	International Organization for Migration (IOM)
+168	National family planning policy	United Nations Fund Population (UNFPA)
+58	Community policing in Timor-Leste	New Zealand Agency for International Development (NZAID)
+47	Handbook for legal aid lawyers: A practical guide	United States Agency for International Development (USAID)
+290	FM Nia Artigu Konaba Seguransa 25 Maiu 2015	Fundasaun Mahein
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Judicial Systems Monitoring Programme (JSMP)
+312	Timor-Leste Demographic and Health Survey 2009-10	Direcção Nacional de Estatística
+161	A situation-response analysis of the education sector's response to HIV, drugs and sexual health in Timor-Leste	Ministério da Educação
+91	Timor-Leste key labour market indicators December 2008	International Labour Organization (ILO)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Judicial Systems Monitoring Programme (JSMP)
+177	UNICEF annual report 2012 for Timor-Leste, EAPRO	United Nations Children's Fund (UNICEF)
+61	In Focus: Community-Police cooperation	The Asia Foundation (TAF)
+206	East Timor: the continuing betrayal	United Nations
+171	Total, urban and rural population	Direcção Nacional de Estatística
+136	No surrender in East Timor. Choosing the truth instead of sides	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+193	Timor-Leste. Alcohol	World Health Organization (WHO)
+72	Approaches to domestic violence against women in Timor-Leste. A review and critique	United Nations Development Program (UNDP)
+117	UNCDF special projects implementation review exercise (SPIRE)	United Nations Capital Development Fund (UNCDF)
+100	Yes Youth Employment Study Timor-Leste 2007	Gesellschaft fuer Internationale Zusammenarbeit (GIZ)
+86	ILO works in Timor-Leste: 2013 results	International Labour Organization (ILO)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Pergerakan Solidaritas Mahasiswa Timor Leste (PSM-TL)
+213	The United Nations and East Timor: self-determination through popular consultation	United Nations
+88	Timor-Leste national youth employment action plan (NYEAP) 2009	SEFOPE
+13	Fundasaun Mahein blogs (2009)	Fundasaun Mahein
+192	Timor-Leste Tuberculosis	World Health Organization (WHO)
+204	FAO/WFP Crop and food supply assessment mission to Timor-Leste	Food And Agriculture Organization (FAO)
+137	UNESCO Office Jakarta: Regional Science Bureau for Asia & Pacific, Cluster Office to Brunei Darussalam, Indonesia, Malaysia, Philippines, Timor-Leste	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	La'o Hamutuk
+49	Matadalan be Xefe Suku nia knaar	Republica Democrática de Timor-Leste
+232	Institutions Taking Root: Building State Capacity in Challenging Contexts\r\n	World Bank (WB)
+128	Summary Report. Consultation on post 2015-MDG in Timor-Leste 	United Nations Development Program (UNDP)
+43	Books for Asia - East Timor	The Asia Foundation (TAF)
+213	The United Nations and East Timor: self-determination through popular consultation	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+111	Mapping of migration data sources iin Timor-Leste	Observatory on Migration
+130	The Millennium Development Goals, Timor-Leste	United Nations Development Program (UNDP)
+158	Plants in Timor Leste for textile production process	Timor Aid
+107	Returned, Resettled, Redisplaced Families by Suco 2006-2009: Chefes de Aldeais 	International Organization for Migration (IOM)
+238	Primary source files for Oxfam Funding Opportunities	Belun
+120	Mid-term evaluation. Local government support programme (LGSP). Volume 1: Main report	Development Researchers' Network
+168	National family planning policy	Ministério da Saúde
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Forum ONG Timor Leste (FONGTIL)
+88	Timor-Leste national youth employment action plan (NYEAP) 2009	YEP
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+292	FM Nia Artigu Konaba Seguransa 27 Maiu 2015	Fundasaun Mahein
+265	Roads for Development (R4D) ENVIRONMENTAL SAFEGUARDS FRAMEWORK	International Labour Organization (ILO)
+265	Roads for Development (R4D) ENVIRONMENTAL SAFEGUARDS FRAMEWORK	Australian Agency for International Development (AusAID)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Forum ONG Timor Leste (FONGTIL)
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Community Development Interest (CDI)
+188	Timor-Leste. Tobacco	World Health Organization (WHO)
+312	Timor-Leste Demographic and Health Survey 2009-10	United States Agency for International Development (USAID)
+39	A Survey of Community-Police Perceptions, 2008	The Asia Foundation (TAF)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	La'o Hamutuk
+100	Yes Youth Employment Study Timor-Leste 2007	World Bank (WB)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Ita ba Paz (We Hope For Peace)
+153	Timor-Leste: UNESCO country programming document 2009-2013	Republica Democrática de Timor-Leste
+92	Timor-Leste national employment strategy December 2008	International Labour Organization (ILO)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Forum Komunikasi Untuk Perempuan Timor Lorosae (FOKUPERS)
+111	Mapping of migration data sources iin Timor-Leste	ACP Secretariat
+214	Women in Self Employment (WISE) Project in Timor-Leste	International Labour Organization (ILO)
+69	Arte futus nian husi naroman ba nakukun	Fundasaun Alola
+257	FM Nia Artigu Konaba Seguransa 05 Maiu 2015	Fundasaun Mahein
+299	FM Nia Artigu Konaba Seguransa 5 Juñu 2015	Fundasaun Mahein
+160	Nino Konis Santa National Park	Timor Aid
+79	A visual guide of key findings from the baseline survey of the Regional Fisheries Livelihoods Programme for South and Southeast Asia (RFLP) in Timor Leste	Ministério de Asuntos Exteriores y de Cooperación
+29	Careers Pathways for Law Graduates: A Survey of Law Graduates in Timor-Leste	The Asia Foundation (TAF)
+253	FM Nia Artigu Konaba Seguransa 29 Abril 2015	Fundasaun Mahein
+313	Timor-Leste Household Income and Expenditure Survey 2011	Republica Democrática de Timor-Leste
+165	Drug use in Timor-Leste - an assessment	Aardvark Consulting
+197	Timor Leste: An evaluation of WFP's portfolio (2008 – 2012)	World Food Program (WFP)
+41	Local leadership of community policing practices in Timor-Leste	The Asia Foundation (TAF)
+15	Fundasaun Mahein blogs (2011)	Fundasaun Mahein
+304	FM Nia Artigu Konaba Seguransa 12 Juñu 2015	Fundasaun Mahein
+176	Children and youth commissions	United Nations Children's Fund (UNICEF)
+219	Impact of Rice Imports on Rice Production in Timor-Leste\r\n	Seeds of Life (SOL)
+182	Brokered democracy-building: developing democracy through transitional governance in Cambodia, East Timor and Afghanistan	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+96	Self employment promotion and enterprise development in Timor-Leste	SEFOPE
+131	National adaptation program of action on climate change	United Nations Development Program (UNDP)
+119	INFUSE	United Nations Capital Development Fund (UNCDF)
+78	Safety at sea assessment in Timor-Leste small-scale fisheries sector	Ministério de Asuntos Exteriores y de Cooperación
+74	Migration patterns survey and HIV vulnerability assessment mapping in selected districts of Timor-Leste	Curtin University of Technology
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Asosiasaun Chega ba Ita (Acbit)
+178	UNICEF annual report 2013 - Timor-Leste	United Nations Children's Fund (UNICEF)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Ita ba Paz (We Hope For Peace)
+294	FM Nia Artigu Konaba Seguransa 29 Maiu 2015	Fundasaun Mahein
+132	Sub-national governance and development programme	United Nations Development Program (UNDP)
+162	Early impact assessment of the global financial crisis on education financing: country case studies	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+55	Timor Leste Public Opinion Poll - March 2013	The Asia Foundation (TAF)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Knua Buka Hatene (KBH)
+262	Analysis of Poverty and Gender in Agriculture in Timor-Leste	Market Development Facility
+140	Human rights protections for sexual minorities in insular Southeast Asia: issues and implications for effective HIV prevention	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+64	In Focus: Security Situation	The Asia Foundation (TAF)
+94	Enterpreneurship Education	International Labour Organization (ILO)
+262	Analysis of Poverty and Gender in Agriculture in Timor-Leste	Australian Agency for International Development (AusAID)
+9	Report to Amnesty International Committee on the Rights of a Child	Associasao Comunidade Vitimas - Timor Leste (ACV - TL)
+151	Effective literacy practices in Timor-Leste	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+127	Timor-Leste's  fourth national report to the UN convention on biological diversity	Republica Democrática de Timor-Leste
+111	Mapping of migration data sources iin Timor-Leste	IOM Development Fund
+4	“Iha Timor Leste : Lia-los ho Justisa Namlele no Hahu Namlaek”	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	OPVG (Organizasaun Popular Vitima da Guera)
+99	Gender dimensions in vocational training in Timor-Leste	International Labour Organization (ILO)
+109	Potential for small area estimation and poverty mapping in Timor-Leste	Massey University
+153	Timor-Leste: UNESCO country programming document 2009-2013	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+126	The national biodiversity strategy and action plan of Timor-Leste (2011-2020)	United Nations Development Program (UNDP)
+268	FM Nia Artigu Konaba Seguransa 11 Maiu 2015	Fundasaun Mahein
+95	Fact sheet on labour market information (LMI) project in Timor-Leste	International Labour Organization (ILO)
+283	2014 Survey of Travelers to Timor-Leste	The Asia Foundation (TAF)
+261	FM Nia Artigu Konaba Seguransa 08 Maiu 2015	Fundasaun Mahein
+310	FM Nia Artigu KonabaSeguransa 18 Juñu 2015	Fundasaun Mahein
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	ACEP
+38	Institutionalising community policing in Timor-Leste	The Asia Foundation (TAF)
+312	Timor-Leste Demographic and Health Survey 2009-10	Irish Aid
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Forum Tau Matan (FTM)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Knua Buka Hatene (KBH)
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Aliansi Nasionál Timor-Leste ba Tribunál Internasionál (ANTI)
+215	Assessment report of the vocational training in Timor-Leste: October 2007	STAGE
+329	FM Nia Artigu Konaba Seguransa 08 Jullu 2015	Fundasaun Mahein
+215	Assessment report of the vocational training in Timor-Leste: October 2007	SEFOPE
+223	Sustainability and Development of Farmer Groups in Bobonaro and Liquiça\r\n	Seeds of Life (SOL)
+9	Report to Amnesty International Committee on the Rights of a Child	Ita ba Paz (We Hope For Peace)
+148	Hamoris fali komunidade nia matenek tradisionál	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+318	FM Nia Artigu Konaba Seguransa 25 Juñu 2015	Fundasaun Mahein
+131	National adaptation program of action on climate change	UNFCCC
+120	Mid-term evaluation. Local government support programme (LGSP). Volume 1: Main report	United Nations Capital Development Fund (UNCDF)
+314	FM Nia Artigu Konaba Seguransa 19 Juñu 2015	Fundasaun Mahein
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Kdadalak Sulimutuk Institute (KSI)
+16	Fundasaun Mahein blogs (2012)	Fundasaun Mahein
+155	Safeguarding our traditional ecological knowledge related to coastal ecosystem	Roman Luan
+283	2014 Survey of Travelers to Timor-Leste	Ministério do Turismo
+209	Decolonization in East Timor	Indonesia Department of Foreign Affairs
+208	Man and environment in Eastern Timor: a geoecological analysis of Baucau-Viqueque area as a possible basis for regional planning	Development Studies Centre
+242	FM Nia Artigu Konaba Seguransa 19 Abril 2015 	Fundasaun Mahein
+305	FM Nia Artigu Konaba Seguransa 13 Juñu 2015	Fundasaun Mahein
+201	Retaining doctors in rural Timor-Leste: a critical appraisal of the opportunities and challenges	World Health Organization (WHO)
+297	FM Nia Artigu Konaba Seguransa 3 Juñu 2015	Fundasaun Mahein
+111	Mapping of migration data sources iin Timor-Leste	Embassy of the European Commission
+311	Timor-Leste 2003 Demographic and Health Survey	Ministério da Saúde
+206	East Timor: the continuing betrayal	Embassy of the European Commission
+102	IOM October- November 2008 Monitoring  Report: Community and IDP Survey	International Organization for Migration (IOM)
+247	FM Nia Artigu Konaba Seguransa 23 Abril 2015	Fundasaun Mahein
+280	FM Nia Artigu Konaba Seguransa 12 Maiu 2015	Fundasaun Mahein
+264	Roads for Development Program (R4D) - Contractors' Tracer Study	Republica Democrática de Timor-Leste
+215	Assessment report of the vocational training in Timor-Leste: October 2007	United Nations Development Program (UNDP)
+129	Timor-Leste millennium development goals report	Republica Democrática de Timor-Leste
+73	Matenek Lokal Timor Nian Haktuir husi workshop Matenek Tradisional Riku soin ba Dezenvolvimentu, Dili, 7-8 Junhu 2011	Carvalho
+24	Timor-Leste	The Asia Foundation (TAF)
+285	FM Nia Artigu Konaba Seguransa 18 Maiu 2015	Fundasaun Mahein
+49	Matadalan be Xefe Suku nia knaar	United States Agency for International Development (USAID)
+312	Timor-Leste Demographic and Health Survey 2009-10	Ministério da Saúde
+196	Timor-Leste - Dili emergency food security assessment	World Food Program (WFP)
+171	Total, urban and rural population	Republica Democrática de Timor-Leste
+63	In Focus: PNTL background and performance	The Asia Foundation (TAF)
+171	Total, urban and rural population	United Nations Fund Population (UNFPA)
+323	FM Nia Artigu Konaba Seguransa 01 Jullu 2015	Fundasaun Mahein
+36	Tara Bandu: Its role and use in community conflict prevention in Timor-Leste	Belun
+32	Teaching children to read	The Asia Foundation (TAF)
+322	FM Nia Artigu Konaba Seguransa 27 Juñu 2015	Fundasaun Mahein
+264	Roads for Development Program (R4D) - Contractors' Tracer Study	International Labour Organization (ILO)
+264	Roads for Development Program (R4D) - Contractors' Tracer Study	Australian Agency for International Development (AusAID)
+194	Timor-Leste: health profile	World Health Organization (WHO)
+138	Education for sustainable development country guidelines	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+162	Early impact assessment of the global financial crisis on education financing: country case studies	UNESCO Institute for Statistics
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Associasao Comunidade Vitimas - Timor Leste (ACV - TL)
+34	Working with female clients: A guideline for legal aid partners	The Asia Foundation (TAF)
+166	Maternal mortality, unplanned pregnancy and unsafe abortion in Timor-Leste: A situational analysis	Fundasaun Alola
+115	Justice sector strategic plan for Timor-Leste 2011-2030	Republica Democrática de Timor-Leste
+185	Baseline study on feminization of poverty in Timor-Leste. Deprivation of women across sectors	UN Women
+121	Consolidated annual report on activities implemented under the joint programme "Local Governance Support" (LGSP) in Timor-Leste	United Nations Development Program (UNDP)
+58	Community policing in Timor-Leste	United States Agency for International Development (USAID)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Community Development Interest (CDI)
+74	Migration patterns survey and HIV vulnerability assessment mapping in selected districts of Timor-Leste	International Organization for Migration (IOM)
+104	Revised Methodology for Return Monitoring Survey	International Organization for Migration (IOM)
+312	Timor-Leste Demographic and Health Survey 2009-10	Australian Agency for International Development (AusAID)
+320	FM Nia Artigu Konaba Seguransa 29 Juñu 2015	Fundasaun Mahein
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+42	Legal reform in East Timor	The Asia Foundation (TAF)
+191	Timor-Leste. Non-communicable disease	World Health Organization (WHO)
+114	RDTL Millennium development goals	RDTL
+185	Baseline study on feminization of poverty in Timor-Leste. Deprivation of women across sectors	Embassy of the European Commission
+152	Obstacles to the effective participation of women in adult education program: focus on social-cultural factors	Oxfam International
+312	Timor-Leste Demographic and Health Survey 2009-10	United Nations Fund Population (UNFPA)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Associasao Comunidade Vitimas - Timor Leste (ACV - TL)
+30	Community experiences of decentralised development in Timor-Leste	Irish Aid
+59	Timor Leste Public Opinion Poll - March 2014	The Asia Foundation (TAF)
+9	Report to Amnesty International Committee on the Rights of a Child	Knua Buka Hatene (KBH)
+62	In Focus: Justice-seeking behavior	The Asia Foundation (TAF)
+103	IOM September-November 2008 Monitoring Report, Chefe Aldeias Surveys	International Organization for Migration (IOM)
+187	WHO Country cooperation strategy 2009-2013 Timor-Leste	World Health Organization (WHO)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Forum ONG Timor Leste (FONGTIL)
+56	Timor Leste Public Opinion Poll - September 2013	The Asia Foundation (TAF)
+57	Tara-Bandu ho nia papél ba prevensaun konflitu iha komunidade Timor-Leste	Embassy of the European Commission
+40	Law and Justice in Timor-Leste: A Survey of Citizen Awareness and Attitudes Regarding Law and Justice 2008	The Asia Foundation (TAF)
+109	Potential for small area estimation and poverty mapping in Timor-Leste	World Food Program (WFP)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Community Development Interest (CDI)
+53	Contract law in Timor-Leste	The Asia Foundation (TAF)
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	ACP Secretariat
+128	Summary Report. Consultation on post 2015-MDG in Timor-Leste 	Republica Democrática de Timor-Leste
+36	Tara Bandu: Its role and use in community conflict prevention in Timor-Leste	Kooperasaun husi alamaña
+144	UNESCO Timor Leste newsletter, volume 2, no. 4., July-Oct 2011	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+51	Saida mak violénsia doméstika?	United States Agency for International Development (USAID)
+130	The Millennium Development Goals, Timor-Leste	Republica Democrática de Timor-Leste
+271	Josh Testing Indonesian Upload	Belun
+300	FM Nia Artigu Konaba Seguransa 6 Juñu 2015	Fundasaun Mahein
+141	Promoting sub-regional education for sustainable development in South-East Asia	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+118	 Local governance support programme Timor-Leste	United Nations Capital Development Fund (UNCDF)
+91	Timor-Leste key labour market indicators December 2008	SEFOPE
+2	Haforsa lei hodi hametin estady de direitu no demokratika	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+52	Constitutional law in Timor-Leste	United States Agency for International Development (USAID)
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	La'o Hamutuk
+248	FM Nia Artigu Konaba Seguransa 24 Abril 2015	Fundasaun Mahein
+80	Community based data gathering and co-management of marine resources in Timor-Leste	Ministério de Asuntos Exteriores y de Cooperación
+212	Adult literacy teaching and learning in multilingual Timor-Leste	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+20	Law and Justice Survey 2013	The Asia Foundation (TAF)
+207	Indonesia and East Timor: power and impunity	Amnesty International
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Associasao Comunidade Vitimas - Timor Leste (ACV - TL)
+23	Law and Justice in East Timor	The Asia Foundation (TAF)
+227	Seeds of Life 3 Baseline Survey - Vol 2: Data tables\r\n	Seeds of Life (SOL)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Community Development Interest (CDI)
+159	Producing red and blue colors from native dye plants	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+170	Mortality monograph. Census population and housing 2004	Republica Democrática de Timor-Leste
+263	SOCIAL SAFEGUARDS FRAMEWORK for Rural Road Works	International Labour Organization (ILO)
+263	SOCIAL SAFEGUARDS FRAMEWORK for Rural Road Works	Australian Agency for International Development (AusAID)
+156	Let's value and enrich our coastal ecosystem for the sustainable future of our community	Roman Luan
+44	Conflict management and prevention in East Timor	The Asia Foundation (TAF)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+184	Gender and nation building in Timor-Leste. Country gender assessment	Asian Development Bank (ADB)
+235	Fundasaun Mahein Nia Lian: No 1 - 39	Fundasaun Mahein
+9	Report to Amnesty International Committee on the Rights of a Child	OPVG (Organizasaun Popular Vitima da Guera)
+46	Professional responsibility in Timor-Leste	The Asia Foundation (TAF)
+311	Timor-Leste 2003 Demographic and Health Survey	The Australian National University
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Judicial Systems Monitoring Programme (JSMP)
+88	Timor-Leste national youth employment action plan (NYEAP) 2009	International Labour Organization (ILO)
+88	Timor-Leste national youth employment action plan (NYEAP) 2009	Australian Agency for International Development (AusAID)
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	IOM Development Fund
+48	Matadalan ba kazu paternidade	The Asia Foundation (TAF)
+84	Timor-Leste special edition, January 2006	International Labour Organization (ILO)
+170	Mortality monograph. Census population and housing 2004	United Nations Fund Population (UNFPA)
+163	Human rights handbook for journalists in Timor-Leste	UNMIT
+185	Baseline study on feminization of poverty in Timor-Leste. Deprivation of women across sectors	United Nations Development Program (UNDP)
+163	Human rights handbook for journalists in Timor-Leste	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+234	Fundasaun Mahein Nia Lian: No 40 - 76	Fundasaun Mahein
+28	“Ami Sei Vítima Beibeik”: Looking to the needs of domestic violence victims	The Asia Foundation (TAF)
+106	IOM Return Monitoring Report: Community and Former IDP Household Surveys	International Organization for Migration (IOM)
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Pergerakan Solidaritas Mahasiswa Timor Leste (PSM-TL)
+215	Assessment report of the vocational training in Timor-Leste: October 2007	EU
+36	Tara Bandu: Its role and use in community conflict prevention in Timor-Leste	The Asia Foundation (TAF)
+263	SOCIAL SAFEGUARDS FRAMEWORK for Rural Road Works	Republica Democrática de Timor-Leste
+76	Teaching Free Timor	Dvoskin
+30	Community experiences of decentralised development in Timor-Leste	The Asia Foundation (TAF)
+199	Timor-Leste: Strong malaria control programme cuts cases	World Health Organization (WHO)
+9	Report to Amnesty International Committee on the Rights of a Child	Forum Komunikasi Untuk Perempuan Timor Lorosae (FOKUPERS)
+75	Guide to facilitating dialogue and mediation in the community	Departamento Hari'I Pás no Koesaun Sosiál
+52	Constitutional law in Timor-Leste	Stanford Law School
+256	FM Nia Artigu Konaba Seguransa 03 Maiu 2015	Fundasaun Mahein
+267	FM Nia Artigu Konaba Seguransa 09 Maiu 2015	Fundasaun Mahein
+57	Tara-Bandu ho nia papél ba prevensaun konflitu iha komunidade Timor-Leste	atRes
+50	Matadalan espesífiku kona-ba kazu divórsiu	United States Agency for International Development (USAID)
+145	UNESCO Timor-Leste Newsletter, year 3, issue 1, March 2013	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+315	FM Nia Artigu Konaba Seguransa 22 Juñu 2015	Fundasaun Mahein
+311	Timor-Leste 2003 Demographic and Health Survey	University of Newcastle
+283	2014 Survey of Travelers to Timor-Leste	Australian Agency for International Development (AusAID)
+328	FM Nia Artigu Konaba Seguransa 07 Jullu 2015	Fundasaun Mahein
+246	FM Nia Artigu Konaba Seguransa 22 Abril 2015	Fundasaun Mahein
+124	Breaking the cycle of domestic violence in Timor-Leste	United Nations Development Program (UNDP)
+158	Plants in Timor Leste for textile production process	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+9	Report to Amnesty International Committee on the Rights of a Child	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+209	Decolonization in East Timor	Indonesia Department of Information
+97	Youth employment creation through self-employment promotion and micro and small enterprise development in Timor -Leste rural areas	SEFOPE
+306	FM Nia Artigu Konaba Seguransa 15 Juñu 2015	Fundasaun Mahein
+26	Ministry of Finance quality of service perception survey	Ministériu Finansas
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	OPVG (Organizasaun Popular Vitima da Guera)
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	Embassy of the European Commission
+93	Employment-intensive infrastructure works (TIM-Works) in Timor-Leste	SEFOPE
+100	Yes Youth Employment Study Timor-Leste 2007	International Labour Organization (ILO)
+75	Guide to facilitating dialogue and mediation in the community	United Nations Development Program (UNDP)
+278	Fundasaun Mahein Blogs (2015)	Fundasaun Mahein
+9	Report to Amnesty International Committee on the Rights of a Child	Community Development Interest (CDI)
+71	Country Gender Assessment	Asian Development Bank (ADB)
+54	Glosáriu jurídiku ba pratikante sira iha Timor-Leste	The Asia Foundation (TAF)
+324	FM Nia Artigu Konaba Seguransa 02 Jullu 2015	Fundasaun Mahein
+47	Handbook for legal aid lawyers: A practical guide	The Asia Foundation (TAF)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Knua Buka Hatene (KBH)
+326	FM Nia Artigu Konaba Seguransa 04 Jullu 2015	Fundasaun Mahein
+98	Youth employment in Timor-Leste	International Labour Organization (ILO)
+18	Fundasaun Mahein blogs (2014)	Fundasaun Mahein
+90	Decent work country programme	Republica Democrática de Timor-Leste
+203	Grave humanitarian and food crisis developing in East Timor	Food And Agriculture Organization (FAO)
+167	Motherhood in childhood	United Nations Fund Population (UNFPA)
+296	FM Nia Artigu Konaba Seguransa 2 Juñu 2015	Fundasaun Mahein
+133	A role for keeping places in the Timor Sea region	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+282	FM Nia Artigu Konaba Seguransa 15 Maiu 2015	Fundasaun Mahein
+321	FM Nia Artigu Konaba Seguransa 30 Juñu 2015	Fundasaun Mahein
+101	IOM Community Based Data Collect and Analysis for Sustainable Return: July-August 2008 results	International Organization for Migration (IOM)
+181	Water, sanitation and hygiene annual report 2013	United Nations Children's Fund (UNICEF)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	OPVG (Organizasaun Popular Vitima da Guera)
+150	Local knowledge of Timor, based on the national workshop on Promoting LINKS and SIDS Programmes in Timor Leste, Dili, Timor Leste, 7-8 June 2011	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+134	Assessment of media development in Timor-Leste based on UNESCO's media development indicators	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+68	Policy brief (EWER)	Belun
+195	Timor-Leste	The Asia Foundation (TAF)
+78	Safety at sea assessment in Timor-Leste small-scale fisheries sector	Ministério da Agricultura e Pescas
+151	Effective literacy practices in Timor-Leste	Ministério da Educação
+89	Report on value change analysis of the cattle sector in Bobonaro and Lautem districts, Timor-Leste	Ministry of Economy and Development
+260	FM Nia Artigu Konaba Seguransa 07 Maiu 2015	Fundasaun Mahein
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Forum Komunikasi Untuk Perempuan Timor Lorosae (FOKUPERS)
+143	UNESCO Timor Leste newsletter, volume 2, issue 3, June 2011	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+146	Habiit Reziliensia Komunidade iha Tasi-ibun no Illa Ki'ik sira hodi hasoru Perigu Idrometeorolójiku no Impaktu Mudansa Klima nian	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+139	Final report UNESCO JFIT STRESCOM regional workshop.pdf	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+250	FM Nia Artigu Konaba Seguransa 27 Abril 2015	Fundasaun Mahein
+110	MDG Achievement Fund Final Evaluation Timor-Leste	MDG Achievement Fund
+189	World Malaria Report. Timor-Leste	World Health Organization (WHO)
+85	ILO Timor-Leste newsletter, April 2004	International Labour Organization (ILO)
+308	FM Nia Artigu Konaba Seguransa 17 Juñu 2015\r\n	Fundasaun Mahein
+10	Human Rights Voice No. 2	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+164	Bride-price and domestic violence in Timor-Leste: A comparative study of married-in and married-out cultures in four districts	United Nations Fund Population (UNFPA)
+265	Roads for Development (R4D) ENVIRONMENTAL SAFEGUARDS FRAMEWORK	Ministério das Obras Públicas, Transportes e Comunicações
+12	Human Rights Voice No. 3	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Ita ba Paz (We Hope For Peace)
+243	FM Artigu Kona ba Seguransa 20 Abril 2015	Fundasaun Mahein
+313	Timor-Leste Household Income and Expenditure Survey 2011	European Union
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Forum Komunikasi Untuk Perempuan Timor Lorosae (FOKUPERS)
+157	Ways to improve your traditional fishing methods to be more eco-friendly	Roman Luan
+90	Decent work country programme	International Labour Organization (ILO)
+222	Complementarity between maize seed production and good storage\r\n	Seeds of Life (SOL)
+289	FM Nia Artigu Konaba Seguransa 22 Maiu 2015	Fundasaun Mahein
+279	FM Nia Artigu Konaba Seguransa 13 Maiu 2015	Fundasaun Mahein
+215	Assessment report of the vocational training in Timor-Leste: October 2007	International Labour Organization (ILO)
+284	FM Nia Artigu Konaba Seguransa 16 Maiu 2015	Fundasaun Mahein
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Forum ONG Timor Leste (FONGTIL)
+115	Justice sector strategic plan for Timor-Leste 2011-2030	United Nations Development Program (UNDP)
+21	East Timor National Survey of Voter Knowledge	The Asia Foundation (TAF)
+111	Mapping of migration data sources iin Timor-Leste	International Organization for Migration (IOM)
+9	Report to Amnesty International Committee on the Rights of a Child	Forum Tau Matan (FTM)
+78	Safety at sea assessment in Timor-Leste small-scale fisheries sector	Agencia Espanola da Cooperacion International Para el Desarrollo (AECID)
+89	Report on value change analysis of the cattle sector in Bobonaro and Lautem districts, Timor-Leste	Republica Democrática de Timor-Leste
+9	Report to Amnesty International Committee on the Rights of a Child	Aliansi Nasionál Timor-Leste ba Tribunál Internasionál (ANTI)
+29	Careers Pathways for Law Graduates: A Survey of Law Graduates in Timor-Leste	United States Agency for International Development (USAID)
+273	The problem of gender quotas: women's representatives on Timor-Leste's suku councils	Oxfam International
+161	A situation-response analysis of the education sector's response to HIV, drugs and sexual health in Timor-Leste	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+17	Fundasaun Mahein blogs (2013)	Fundasaun Mahein
+325	FM Nia Artigu Konaba Seguransa 03 Jullu 2015	Fundasaun Mahein
+71	Country Gender Assessment	UN Women
+170	Mortality monograph. Census population and housing 2004	Direcção Nacional de Estatística
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	La'o Hamutuk
+99	Gender dimensions in vocational training in Timor-Leste	STAGE
+41	Local leadership of community policing practices in Timor-Leste	UK AID
+319	FM Nia Artigu Konaba Segurana 26 Juñu 2015	Fundasaun Mahein
+67	Alerts from Early Warning, Early Response (EWER)	Belun
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Associasao Comunidade Vitimas - Timor Leste (ACV - TL)
+313	Timor-Leste Household Income and Expenditure Survey 2011	Ministériu Finansas
+175	Expert Discussion on Children and Transitional Justice 	United Nations Children's Fund (UNICEF)
+255	FM Nia Artigu Konaba Seguransa 04 Maiu 2015	Fundasaun Mahein
+14	Fundasaun Mahein blogs (2010)	Fundasaun Mahein
+121	Consolidated annual report on activities implemented under the joint programme "Local Governance Support" (LGSP) in Timor-Leste	United Nations Capital Development Fund (UNCDF)
+154	Timor-Leste UNESCO country programming document, 2013-2014	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+33	Timor-Leste celebrates a decade of Independence	S. Rajanaratnam School of International Studies
+241	FM Nia Artigu Kona ba Seguransa 18 Abril 2015	Fundasaun Mahein
+225	Adoption of agricultural technologies: Factors related to adoption of improved food crop varieties in Timor-Leste\r\n	University of Edinburgh
+157	Ways to improve your traditional fishing methods to be more eco-friendly	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+160	Nino Konis Santa National Park	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+200	Timor-Leste: Better epilepsy services means better care	World Health Organization (WHO)
+79	A visual guide of key findings from the baseline survey of the Regional Fisheries Livelihoods Programme for South and Southeast Asia (RFLP) in Timor Leste	Food And Agriculture Organization (FAO)
+226	Seeds of Life 3 Baseline Survey - Main report\r\n	Seeds of Life (SOL)
+27	Institutionalising community policing in Timor-Leste: Exploring the politics of police reform	The Asia Foundation (TAF)
+147	Revitalizing community traditional knowledge for sustainable livelihoods: fishing method	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Judicial Systems Monitoring Programme (JSMP)
+142	UNESCO Timor Leste newsletter, volume 2, issue 1, April 2011	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+45	Women's empowerment programs in East Timor	The Asia Foundation (TAF)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Kdadalak Sulimutuk Institute (KSI)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Pergerakan Solidaritas Mahasiswa Timor Leste (PSM-TL)
+239	FM Nia Artigu Kona ba Seguransa 17 Abril 2015	Fundasaun Mahein
+81	FAO/WFP Crop and food supply assessment mission	Food And Agriculture Organization (FAO)
+312	Timor-Leste Demographic and Health Survey 2009-10	United Nations Development Program (UNDP)
+288	FM Nia Artigu Konaba Seguransa 21 Maiu 2015	Fundasaun Mahein
+70	Regional Fisheries Livelihoods Programme	AMSAT International
+9	Report to Amnesty International Committee on the Rights of a Child	Asosiasaun Chega ba Ita (Acbit)
+317	FM Nia Artigu Konaba Seguransa 24 Juñu 2015	Fundasaun Mahein
+182	Brokered democracy-building: developing democracy through transitional governance in Cambodia, East Timor and Afghanistan	University of California
+262	Analysis of Poverty and Gender in Agriculture in Timor-Leste	Cardno
+113	Timor-Leste strategic development plan 2011-2030	RDTL
+275	The World Bank's land of kiosks: Community driven development in Timor-Leste	Oxfam Great Britain  (OXFAM GB)
+154	Timor-Leste UNESCO country programming document, 2013-2014	Republica Democrática de Timor-Leste
+78	Safety at sea assessment in Timor-Leste small-scale fisheries sector	Food And Agriculture Organization (FAO)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Kdadalak Sulimutuk Institute (KSI)
+129	Timor-Leste millennium development goals report	United Nations Development Program (UNDP)
+89	Report on value change analysis of the cattle sector in Bobonaro and Lautem districts, Timor-Leste	International Labour Organization (ILO)
+258	FM Nia Artigu Konaba Seguransa 06 Maiu 2015	Fundasaun Mahein
+179	UNICEF Timor-Leste flood emergency - situation report	United Nations Children's Fund (UNICEF)
+312	Timor-Leste Demographic and Health Survey 2009-10	United Nations Children's Fund (UNICEF)
+60	A Survey of Community-Police Perceptions, 2013	The Asia Foundation (TAF)
+92	Timor-Leste national employment strategy December 2008	SEFOPE
+252	FM Nia Artigu Konaba Seguransa 28 Abril 2015	Fundasaun Mahein
+126	The national biodiversity strategy and action plan of Timor-Leste (2011-2020)	Republica Democrática de Timor-Leste
+298	FM Nia Artigu Konaba Seguransa 8 Juñu 2015	Fundasaun Mahein
+105	IOM December 2008 - February 2009 Monitoring report: Chefes Aldeias Surveys	International Organization for Migration (IOM)
+127	Timor-Leste's  fourth national report to the UN convention on biological diversity	United Nations Development Program (UNDP)
+57	Tara-Bandu ho nia papél ba prevensaun konflitu iha komunidade Timor-Leste	Belun
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	United Nations Fund Population (UNFPA)
+183	UNWOMEN Timor-Leste factsheet	UN Women
+295	FM Nia Artigu Konaba Seguransa 1 Juñu 2015	Fundasaun Mahein
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Forum Tau Matan (FTM)
+184	Gender and nation building in Timor-Leste. Country gender assessment	UN Women
+302	FM Nia Artigu Konaba Seguransa 10 Juñu 2015	Fundasaun Mahein
+161	A situation-response analysis of the education sector's response to HIV, drugs and sexual health in Timor-Leste	UNAIDS
+180	A statistical snapshot of violence against adolescent girls	United Nations Children's Fund (UNICEF)
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Knua Buka Hatene (KBH)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Aliansi Nasionál Timor-Leste ba Tribunál Internasionál (ANTI)
+249	FM Nia Artigu Konaba Seguransa 25 Abril 2015	Fundasaun Mahein
+312	Timor-Leste Demographic and Health Survey 2009-10	Ministériu Finansas
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Aliansi Nasionál Timor-Leste ba Tribunál Internasionál (ANTI)
+3	Lian Direitus Umanus No. 1	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+87	Rapid assessment on child labour in Timor-Leste	International Labour Organization (ILO)
+185	Baseline study on feminization of poverty in Timor-Leste. Deprivation of women across sectors	SEPI
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Forum Tau Matan (FTM)
+122	East Timor Development Report	United Nations Development Program (UNDP)
+96	Self employment promotion and enterprise development in Timor-Leste	International Labour Organization (ILO)
+169	Country action plan (CPAP) Timor-Leste	United Nations Fund Population (UNFPA)
+49	Matadalan be Xefe Suku nia knaar	The Asia Foundation (TAF)
+230	Adoption survey 2014\r\n	Seeds of Life (SOL)
+123	Human Development Report Timor-Leste	United Nations Development Program (UNDP)
+22	Supporting economic growth in East Timor	The Asia Foundation (TAF)
+89	Report on value change analysis of the cattle sector in Bobonaro and Lautem districts, Timor-Leste	BOSS
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	Wusaustria
+312	Timor-Leste Demographic and Health Survey 2009-10	World Health Organization (WHO)
+190	Timor-Leste child malnutrition estimates by WHO Child Growth Standards	World Health Organization (WHO)
+311	Timor-Leste 2003 Demographic and Health Survey	ACIL Australia Pty Ltd
+25	Governance and civil society in Timor-Leste	The Asia Foundation (TAF)
+94	Enterpreneurship Education	SEFOPE
+169	Country action plan (CPAP) Timor-Leste	Republica Democrática de Timor-Leste
+167	Motherhood in childhood	Direcção Nacional de Estatística
+125	Assessment of development result: Evaluation of UNDP contribution to Timor-Leste	United Nations Development Program (UNDP)
+264	Roads for Development Program (R4D) - Contractors' Tracer Study	Ministério das Obras Públicas, Transportes e Comunicações
+132	Sub-national governance and development programme	United Nations Capital Development Fund (UNCDF)
+229	Seeds of Life 3 Mid-Term Survey\r\n	Seeds of Life (SOL)
+100	Yes Youth Employment Study Timor-Leste 2007	EU
+276	Another invasion: Lessons from international support to East Timorese NGOs	Oxfam Great Britain  (OXFAM GB)
+99	Gender dimensions in vocational training in Timor-Leste	SEFOPE
+72	Approaches to domestic violence against women in Timor-Leste. A review and critique	Asia Pacific Human Rights Information Centre
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	Observatory on Migration
+135	Learning independence: education in emergency and transition in Timor-Leste since 1999	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+174	Timor-Leste donor update	United Nations Children's Fund (UNICEF)
+58	Community policing in Timor-Leste	The Asia Foundation (TAF)
+11	Submission No. 77. Inquiry into Australia’s Relationship with Timor-Leste	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+81	FAO/WFP Crop and food supply assessment mission	World Food Program (WFP)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Asosiasaun Chega ba Ita (Acbit)
+166	Maternal mortality, unplanned pregnancy and unsafe abortion in Timor-Leste: A situational analysis	United Nations Fund Population (UNFPA)
+291	FM Nia Artigu Konaba Seguransa 26 Maiu 2015	Fundasaun Mahein
+58	Community policing in Timor-Leste	Policia Nacional Timor-Leste
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Asosiasaun Chega ba Ita (Acbit)
+95	Fact sheet on labour market information (LMI) project in Timor-Leste	SEFOPE
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Ita ba Paz (We Hope For Peace)
+132	Sub-national governance and development programme	Republica Democrática de Timor-Leste
+99	Gender dimensions in vocational training in Timor-Leste	United Nations Development Program (UNDP)
+9	Report to Amnesty International Committee on the Rights of a Child	Kdadalak Sulimutuk Institute (KSI)
+163	Human rights handbook for journalists in Timor-Leste	Timor Leste Media Development Center (TLMDC)
+26	Ministry of Finance quality of service perception survey	The Asia Foundation (TAF)
+254	FM Nia Artigu Konaba Seguransa 30 Abril 2015	Fundasaun Mahein
+131	National adaptation program of action on climate change	Republica Democrática de Timor-Leste
+274	Sustainability and peace building: a key challenge	Oxfam Great Britain  (OXFAM GB)
+150	Local knowledge of Timor, based on the national workshop on Promoting LINKS and SIDS Programmes in Timor Leste, Dili, Timor Leste, 7-8 June 2011	Fundasaun Haburas
+195	Timor-Leste	World Health Organization (WHO)
+89	Report on value change analysis of the cattle sector in Bobonaro and Lautem districts, Timor-Leste	Irish Aid
+156	Let's value and enrich our coastal ecosystem for the sustainable future of our community	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+316	FM Nia Artigu Konaba Seguransa 23 Juñu 2015	Fundasaun Mahein
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	International Organization for Migration (IOM)
+46	Professional responsibility in Timor-Leste	Stanford Law School
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Forum Komunikasi Untuk Perempuan Timor Lorosae (FOKUPERS)
+152	Obstacles to the effective participation of women in adult education program: focus on social-cultural factors	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+53	Contract law in Timor-Leste	United States Agency for International Development (USAID)
+205	East Timor and the United Nations: the case for intervention	United Nations
+57	Tara-Bandu ho nia papél ba prevensaun konflitu iha komunidade Timor-Leste	The Asia Foundation (TAF)
+272	Post-conflict pro-poor private-sector development: The case of Timor-Leste	Oxfam Great Britain  (OXFAM GB)
+202	The tyranny of distance: maternity waiting homes and access to birthing facilities in rural Timor-Leste	World Health Organization (WHO)
+51	Saida mak violénsia doméstika?	The Asia Foundation (TAF)
+228	Seeds of Life 3 Baseline Survey - Vol 3: Annexes\r\n	Seeds of Life (SOL)
+98	Youth employment in Timor-Leste	SEFOPE
+36	Tara Bandu: Its role and use in community conflict prevention in Timor-Leste	atRes
+9	Report to Amnesty International Committee on the Rights of a Child	Judicial Systems Monitoring Programme (JSMP)
+286	FM Nia Artigu Konaba Seguransa 18 Maiu 2015	Fundasaun Mahein
+31	Information and communication technology for development	The Asia Foundation (TAF)
+116	Timor-Leste labour force survey	SEFOPE
+172	Children and the Commission for Reception, Truth and Reconciliation in Timor-Leste 	United Nations Children's Fund (UNICEF)
+9	Report to Amnesty International Committee on the Rights of a Child	Pergerakan Solidaritas Mahasiswa Timor Leste (PSM-TL)
+100	Yes Youth Employment Study Timor-Leste 2007	United Nations Development Program (UNDP)
+330	FM Nia Artigu Konaba Seguransa 10 Jullu 2015	Fundasaun Mahein
+332	FM Nia Artigu KOnaba Seguransa 09 Jullu 2015	Fundasaun Mahein
+333	FM Nia Artigu Konaba Seguransa 11 Jullu 2015	Fundasaun Mahein
+331	FM Nia Artigu Konaba Seguransa 13 Jullu 2015	Fundasaun Mahein
+334	FM Nia Artigu Konaba Seguransa 14 Jullu 2015	Fundasaun Mahein
+335	FM Nia Artigu Konaba Seguransa 15 Jullu 2015	Fundasaun Mahein
+336	FM Nia Artigu Konaba Seguransa 20 Jullu 2015	Fundasaun Mahein
+337	FM Nia Artigu Konaba Seguransa 16 Jullu 2015	Fundasaun Mahein
+338	FM Nia Artigu Konaba Seguransa 21 Jullu 2015\r\n	Fundasaun Mahein
+339	FM Nia Artigu Konaba Seguransa 22 Jullu 2015	Fundasaun Mahein
+340	FM Nia Artigu Konaba Seguransa 23 Jullu 2015	Fundasaun Mahein
+341	FM Nia Artigu Konaba Seguransa 27 Jullu 2015	Fundasaun Mahein
+342	FM Nia Artigu Konaba Seguransa 28 Jullu 2015	Fundasaun Mahein
+343	FM Nia Artigu Konaba Seguransa 29 Jullu 2015	Fundasaun Mahein
+233	Fundasaun Mahein Nia Hanoin 	Fundasaun Mahein
+345	FM Nia Artigu Konaba Seguransa 31 Jullu 2015	Fundasaun Mahein
+344	FM Nia Artigu Konaba Seguransa 30 Jullu 2015	Fundasaun Mahein
+346	FM Nia Artigu Konaba Seguransa 3 Agostu 2015	Fundasaun Mahein
+347	FM Nia Artigu Konaba Seguransa 4 Agostu 2015	Fundasaun Mahein
+348	FM Nia Artigu Konaba Seguransa 5 Agostu 2015 	Fundasaun Mahein
+349	FM Nia Artigu Konaba Seguransa 10 Agostu 2015	Fundasaun Mahein
+350	FM Nia Artigu Konaba Seguransa 11 Agostu 2015	Fundasaun Mahein
+352	FM Nia Artigu Konaba Seguransa 12 Agostu 2015	Fundasaun Mahein
+353	Women’s Access to Land and Property Rights in the Plural Justice System of Timor-Leste.	International Peacebuilding Alliance (INTERPEACE )
+353	Women’s Access to Land and Property Rights in the Plural Justice System of Timor-Leste.	Centro de Estudos para a Paz e Desenvolvimento (CEPAD)
+353	Women’s Access to Land and Property Rights in the Plural Justice System of Timor-Leste.	UN WOMEN
+353	Women’s Access to Land and Property Rights in the Plural Justice System of Timor-Leste.	Foreign Affairs, Trade and Development Canada
+354	The people’s voice on corruption in Timor-Leste	Miserior
+354	The people’s voice on corruption in Timor-Leste	International Peacebuilding Alliance (INTERPEACE )
+354	The people’s voice on corruption in Timor-Leste	Centro de Estudos para a Paz e Desenvolvimento (CEPAD)
+356	Hakbít Partisipasaun Feto iha Prosesu Konsolidasaun Demokrasia iha Timor-Leste	Ministry of Foreign Affairs of Finland
+356	Hakbít Partisipasaun Feto iha Prosesu Konsolidasaun Demokrasia iha Timor-Leste	International Peacebuilding Alliance (INTERPEACE )
+356	Hakbít Partisipasaun Feto iha Prosesu Konsolidasaun Demokrasia iha Timor-Leste	Centro de Estudos para a Paz e Desenvolvimento (CEPAD)
+357	A Monitoring and Evaluation Framework for the National Action Plan on Gender-Based Violence	SEPI
+358	CEDAW Konvensaun atu halakon diskriminasaun hotu kontra feto	United Nations
+359	Deklarasaun Universál Direitus Umanus	United Nations
+360	Final report on workshop and district consultations for domestic violence legislation	Secretaria do Estado para Promoção da Igualdade
+360	Final report on workshop and district consultations for domestic violence legislation	United Nations Fund Population (UNFPA)
+360	Final report on workshop and district consultations for domestic violence legislation	Forum Komunikasi Untuk Perempuan Timor Lorosae (FOKUPERS)
+360	Final report on workshop and district consultations for domestic violence legislation	Republica Democrática de Timor-Leste
+361	Gender-Based Violence: Challenges and Way Forward. A Report of Focus Groups in Four Districts	International Rescue Committee (IRC)
+363	Voicing the Experience of Silenced Women. A Report of Violence Against Women 2005-2006	Forum Komunikasi Untuk Perempuan Timor Lorosae (FOKUPERS)
+362	Prevalence of Gender-Based Violence in East Timor	International Rescue Committee (IRC)
+364	FM Nia Artigu Konaba Seguransa 17 Agostu 2015	Fundasaun Mahein
+365	FM Nia Artigu Konaba Seguransa 18 Agostu 2015	Fundasaun Mahein
+366	FM Nia Artigu Konaba Seguransa 19 Agostu 2015	Fundasaun Mahein
+367	FM Nia Artigu Kona-ba Seguransa 27 Agostu 2015	Fundasaun Mahein
+237	Fundasaun Mahein Nia Lian - No. 77 -	Fundasaun Mahein
+368	FM Nia Artigu Konaba Seguransa 16 Setembru 2015	Fundasaun Mahein
+351	Understanding Resilience from a Local Perspective; Timor-Leste Country Note	International Peacebuilding Alliance (INTERPEACE )
+351	Understanding Resilience from a Local Perspective; Timor-Leste Country Note	Centro de Estudos para a Paz e Desenvolvimento (CEPAD)
+355	Promoting Social and Economic Inclusion for Women and Youth in Timor-Leste	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+355	Promoting Social and Economic Inclusion for Women and Youth in Timor-Leste	International Peacebuilding Alliance (INTERPEACE )
+355	Promoting Social and Economic Inclusion for Women and Youth in Timor-Leste	Centro de Estudos para a Paz e Desenvolvimento (CEPAD)
+65	Belun EWER situation review	Belun
+66	Belun Trimester Report	Belun
+370	Seminar Report Belun	Belun
+371	Relatoriu Annual Belun Nian 2011	Belun
+97	Youth employment creation through self-employment promotion and micro and small enterprise development in Timor -Leste rural areas	International Labour Organization (ILO)
+99	Gender dimensions in vocational training in Timor-Leste	EU
+5	Komemora Tinan 72 Ba Loron Invazaun Tropas Japonez mai Timor-Leste (Fevereiru 1942 – Agustu 1945). “Rekuinhesementu Istoria Pasadu Okupasaun Militar Japaun”	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+131	National adaptation program of action on climate change	GEF
+165	Drug use in Timor-Leste - an assessment	United Nations Fund Population (UNFPA)
+93	Employment-intensive infrastructure works (TIM-Works) in Timor-Leste	International Labour Organization (ILO)
+303	FM Nia Artigu Konaba Seguransa 11 Juñu 2015	Fundasaun Mahein
+293	FM Nia Artigu Konaba Seguransa 28 Maiu 2015	Fundasaun Mahein
+19	Trends of local governance in Timor-Leste	The Asia Foundation (TAF)
+186	Child malnutrition estimates by NCHS/WHO reference	World Health Organization (WHO)
+52	Constitutional law in Timor-Leste	The Asia Foundation (TAF)
+35	Reflection on Law No. 3/2009: Community leadership and their election	The Asia Foundation (TAF)
+313	Timor-Leste Household Income and Expenditure Survey 2011	Direcção Nacional de Estatística
+220	Effects of importing maize and rice seed on agricultural seed production in Timor-Leste\r\n	Seeds of Life (SOL)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Asosiasaun Chega ba Ita (Acbit)
+149	Serimónia dada ró no haree bubur	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+218	Donor mapping proposal outline	Belun
+9	Report to Amnesty International Committee on the Rights of a Child	La'o Hamutuk
+155	Safeguarding our traditional ecological knowledge related to coastal ecosystem	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+46	Professional responsibility in Timor-Leste	United States Agency for International Development (USAID)
+281	FM Nia Artigu Konaba Seguransa 14 Maiu 2015	Fundasaun Mahein
+36	Tara Bandu: Its role and use in community conflict prevention in Timor-Leste	Embassy of the European Commission
+48	Matadalan ba kazu paternidade	United States Agency for International Development (USAID)
+301	FM Nia Artigu Konaba Seguransa 9 Juñu 2015	Fundasaun Mahein
+53	Contract law in Timor-Leste	Stanford Law School
+173	Innocenti Insight, Birth Registration and Armed Conflict	United Nations Children's Fund (UNICEF)
+35	Reflection on Law No. 3/2009: Community leadership and their election	Ministériu Administrasaun Estatál
+245	FM Nia Artigu Konaba Seguransa 21 Abril 2015	Fundasaun Mahein
+75	Guide to facilitating dialogue and mediation in the community	Republica Democrática de Timor-Leste
+72	Approaches to domestic violence against women in Timor-Leste. A review and critique	Direito Kostumeiro ho Violênsia Doméstika iha Timor-Leste
+28	“Ami Sei Vítima Beibeik”: Looking to the needs of domestic violence victims	United States Agency for International Development (USAID)
+57	Tara-Bandu ho nia papél ba prevensaun konflitu iha komunidade Timor-Leste	Kooperasaun husi alamaña
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	OPVG (Organizasaun Popular Vitima da Guera)
+159	Producing red and blue colors from native dye plants	Timor Aid
+9	Report to Amnesty International Committee on the Rights of a Child	Forum ONG Timor Leste (FONGTIL)
+327	FM Nia Artigu Konaba Seguransa 06 Jullu 2015	Fundasaun Mahein
+307	FM Nia Artigu Konaba Seguransa 16 Juñu 2015	Fundasaun Mahein
+82	Local and indigenous knowledge for community resilience	Hiwasaki
+287	FM Nia Artigu Konaba Seguransa 19 Maiu 2015	Fundasaun Mahein
+71	Country Gender Assessment	Secretaria do Estado para Promoção da Igualdade
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Aliansi Nasionál Timor-Leste ba Tribunál Internasionál (ANTI)
+208	Man and environment in Eastern Timor: a geoecological analysis of Baucau-Viqueque area as a possible basis for regional planning	Australian National University
+50	Matadalan espesífiku kona-ba kazu divórsiu	The Asia Foundation (TAF)
+80	Community based data gathering and co-management of marine resources in Timor-Leste	Food And Agriculture Organization (FAO)
+33	Timor-Leste celebrates a decade of Independence	The Asia Foundation (TAF)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Forum Tau Matan (FTM)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Pergerakan Solidaritas Mahasiswa Timor Leste (PSM-TL)
+224	Drivers and Determinants of Sustainability and Development of Savings and Loans Groups\r\n	Seeds of Life (SOL)
+209	Decolonization in East Timor	Embassy of the Republic of Indonesia
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Kdadalak Sulimutuk Institute (KSI)
+111	Mapping of migration data sources iin Timor-Leste	United Nations Fund Population (UNFPA)
+24	Timor-Leste	World Health Organization (WHO)
+265	Roads for Development (R4D) ENVIRONMENTAL SAFEGUARDS FRAMEWORK	Republica Democrática de Timor-Leste
+54	Glosáriu jurídiku ba pratikante sira iha Timor-Leste	United States Agency for International Development (USAID)
+221	Benefits of targeted vs non-targeted seed distribution	Seeds of Life (SOL)
+108	IOM Timor-Leste Strategic Plan 2011-2013 	International Organization for Migration (IOM)
+168	National family planning policy	United Nations Fund Population (UNFPA)
+58	Community policing in Timor-Leste	New Zealand Agency for International Development (NZAID)
+47	Handbook for legal aid lawyers: A practical guide	United States Agency for International Development (USAID)
+290	FM Nia Artigu Konaba Seguransa 25 Maiu 2015	Fundasaun Mahein
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Judicial Systems Monitoring Programme (JSMP)
+312	Timor-Leste Demographic and Health Survey 2009-10	Direcção Nacional de Estatística
+161	A situation-response analysis of the education sector's response to HIV, drugs and sexual health in Timor-Leste	Ministério da Educação
+91	Timor-Leste key labour market indicators December 2008	International Labour Organization (ILO)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Judicial Systems Monitoring Programme (JSMP)
+177	UNICEF annual report 2012 for Timor-Leste, EAPRO	United Nations Children's Fund (UNICEF)
+61	In Focus: Community-Police cooperation	The Asia Foundation (TAF)
+206	East Timor: the continuing betrayal	United Nations
+171	Total, urban and rural population	Direcção Nacional de Estatística
+136	No surrender in East Timor. Choosing the truth instead of sides	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+193	Timor-Leste. Alcohol	World Health Organization (WHO)
+72	Approaches to domestic violence against women in Timor-Leste. A review and critique	United Nations Development Program (UNDP)
+117	UNCDF special projects implementation review exercise (SPIRE)	United Nations Capital Development Fund (UNCDF)
+100	Yes Youth Employment Study Timor-Leste 2007	Gesellschaft fuer Internationale Zusammenarbeit (GIZ)
+86	ILO works in Timor-Leste: 2013 results	International Labour Organization (ILO)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Pergerakan Solidaritas Mahasiswa Timor Leste (PSM-TL)
+213	The United Nations and East Timor: self-determination through popular consultation	United Nations
+88	Timor-Leste national youth employment action plan (NYEAP) 2009	SEFOPE
+13	Fundasaun Mahein blogs (2009)	Fundasaun Mahein
+192	Timor-Leste Tuberculosis	World Health Organization (WHO)
+204	FAO/WFP Crop and food supply assessment mission to Timor-Leste	Food And Agriculture Organization (FAO)
+137	UNESCO Office Jakarta: Regional Science Bureau for Asia & Pacific, Cluster Office to Brunei Darussalam, Indonesia, Malaysia, Philippines, Timor-Leste	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	La'o Hamutuk
+49	Matadalan be Xefe Suku nia knaar	Republica Democrática de Timor-Leste
+232	Institutions Taking Root: Building State Capacity in Challenging Contexts\r\n	World Bank (WB)
+128	Summary Report. Consultation on post 2015-MDG in Timor-Leste 	United Nations Development Program (UNDP)
+43	Books for Asia - East Timor	The Asia Foundation (TAF)
+213	The United Nations and East Timor: self-determination through popular consultation	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+111	Mapping of migration data sources iin Timor-Leste	Observatory on Migration
+130	The Millennium Development Goals, Timor-Leste	United Nations Development Program (UNDP)
+158	Plants in Timor Leste for textile production process	Timor Aid
+107	Returned, Resettled, Redisplaced Families by Suco 2006-2009: Chefes de Aldeais 	International Organization for Migration (IOM)
+238	Primary source files for Oxfam Funding Opportunities	Belun
+120	Mid-term evaluation. Local government support programme (LGSP). Volume 1: Main report	Development Researchers' Network
+168	National family planning policy	Ministério da Saúde
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Forum ONG Timor Leste (FONGTIL)
+88	Timor-Leste national youth employment action plan (NYEAP) 2009	YEP
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+292	FM Nia Artigu Konaba Seguransa 27 Maiu 2015	Fundasaun Mahein
+265	Roads for Development (R4D) ENVIRONMENTAL SAFEGUARDS FRAMEWORK	International Labour Organization (ILO)
+265	Roads for Development (R4D) ENVIRONMENTAL SAFEGUARDS FRAMEWORK	Australian Agency for International Development (AusAID)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Forum ONG Timor Leste (FONGTIL)
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Community Development Interest (CDI)
+188	Timor-Leste. Tobacco	World Health Organization (WHO)
+312	Timor-Leste Demographic and Health Survey 2009-10	United States Agency for International Development (USAID)
+39	A Survey of Community-Police Perceptions, 2008	The Asia Foundation (TAF)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	La'o Hamutuk
+100	Yes Youth Employment Study Timor-Leste 2007	World Bank (WB)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Ita ba Paz (We Hope For Peace)
+153	Timor-Leste: UNESCO country programming document 2009-2013	Republica Democrática de Timor-Leste
+92	Timor-Leste national employment strategy December 2008	International Labour Organization (ILO)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Forum Komunikasi Untuk Perempuan Timor Lorosae (FOKUPERS)
+111	Mapping of migration data sources iin Timor-Leste	ACP Secretariat
+214	Women in Self Employment (WISE) Project in Timor-Leste	International Labour Organization (ILO)
+69	Arte futus nian husi naroman ba nakukun	Fundasaun Alola
+257	FM Nia Artigu Konaba Seguransa 05 Maiu 2015	Fundasaun Mahein
+299	FM Nia Artigu Konaba Seguransa 5 Juñu 2015	Fundasaun Mahein
+160	Nino Konis Santa National Park	Timor Aid
+79	A visual guide of key findings from the baseline survey of the Regional Fisheries Livelihoods Programme for South and Southeast Asia (RFLP) in Timor Leste	Ministério de Asuntos Exteriores y de Cooperación
+29	Careers Pathways for Law Graduates: A Survey of Law Graduates in Timor-Leste	The Asia Foundation (TAF)
+253	FM Nia Artigu Konaba Seguransa 29 Abril 2015	Fundasaun Mahein
+313	Timor-Leste Household Income and Expenditure Survey 2011	Republica Democrática de Timor-Leste
+165	Drug use in Timor-Leste - an assessment	Aardvark Consulting
+197	Timor Leste: An evaluation of WFP's portfolio (2008 – 2012)	World Food Program (WFP)
+41	Local leadership of community policing practices in Timor-Leste	The Asia Foundation (TAF)
+15	Fundasaun Mahein blogs (2011)	Fundasaun Mahein
+304	FM Nia Artigu Konaba Seguransa 12 Juñu 2015	Fundasaun Mahein
+176	Children and youth commissions	United Nations Children's Fund (UNICEF)
+219	Impact of Rice Imports on Rice Production in Timor-Leste\r\n	Seeds of Life (SOL)
+182	Brokered democracy-building: developing democracy through transitional governance in Cambodia, East Timor and Afghanistan	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+96	Self employment promotion and enterprise development in Timor-Leste	SEFOPE
+131	National adaptation program of action on climate change	United Nations Development Program (UNDP)
+119	INFUSE	United Nations Capital Development Fund (UNCDF)
+78	Safety at sea assessment in Timor-Leste small-scale fisheries sector	Ministério de Asuntos Exteriores y de Cooperación
+74	Migration patterns survey and HIV vulnerability assessment mapping in selected districts of Timor-Leste	Curtin University of Technology
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Asosiasaun Chega ba Ita (Acbit)
+178	UNICEF annual report 2013 - Timor-Leste	United Nations Children's Fund (UNICEF)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Ita ba Paz (We Hope For Peace)
+294	FM Nia Artigu Konaba Seguransa 29 Maiu 2015	Fundasaun Mahein
+132	Sub-national governance and development programme	United Nations Development Program (UNDP)
+162	Early impact assessment of the global financial crisis on education financing: country case studies	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+55	Timor Leste Public Opinion Poll - March 2013	The Asia Foundation (TAF)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Knua Buka Hatene (KBH)
+262	Analysis of Poverty and Gender in Agriculture in Timor-Leste	Market Development Facility
+140	Human rights protections for sexual minorities in insular Southeast Asia: issues and implications for effective HIV prevention	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+64	In Focus: Security Situation	The Asia Foundation (TAF)
+94	Enterpreneurship Education	International Labour Organization (ILO)
+262	Analysis of Poverty and Gender in Agriculture in Timor-Leste	Australian Agency for International Development (AusAID)
+9	Report to Amnesty International Committee on the Rights of a Child	Associasao Comunidade Vitimas - Timor Leste (ACV - TL)
+151	Effective literacy practices in Timor-Leste	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+127	Timor-Leste's  fourth national report to the UN convention on biological diversity	Republica Democrática de Timor-Leste
+111	Mapping of migration data sources iin Timor-Leste	IOM Development Fund
+4	“Iha Timor Leste : Lia-los ho Justisa Namlele no Hahu Namlaek”	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	OPVG (Organizasaun Popular Vitima da Guera)
+99	Gender dimensions in vocational training in Timor-Leste	International Labour Organization (ILO)
+109	Potential for small area estimation and poverty mapping in Timor-Leste	Massey University
+153	Timor-Leste: UNESCO country programming document 2009-2013	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+126	The national biodiversity strategy and action plan of Timor-Leste (2011-2020)	United Nations Development Program (UNDP)
+268	FM Nia Artigu Konaba Seguransa 11 Maiu 2015	Fundasaun Mahein
+95	Fact sheet on labour market information (LMI) project in Timor-Leste	International Labour Organization (ILO)
+283	2014 Survey of Travelers to Timor-Leste	The Asia Foundation (TAF)
+261	FM Nia Artigu Konaba Seguransa 08 Maiu 2015	Fundasaun Mahein
+310	FM Nia Artigu KonabaSeguransa 18 Juñu 2015	Fundasaun Mahein
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	ACEP
+38	Institutionalising community policing in Timor-Leste	The Asia Foundation (TAF)
+312	Timor-Leste Demographic and Health Survey 2009-10	Irish Aid
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Forum Tau Matan (FTM)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Knua Buka Hatene (KBH)
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Aliansi Nasionál Timor-Leste ba Tribunál Internasionál (ANTI)
+215	Assessment report of the vocational training in Timor-Leste: October 2007	STAGE
+329	FM Nia Artigu Konaba Seguransa 08 Jullu 2015	Fundasaun Mahein
+215	Assessment report of the vocational training in Timor-Leste: October 2007	SEFOPE
+223	Sustainability and Development of Farmer Groups in Bobonaro and Liquiça\r\n	Seeds of Life (SOL)
+9	Report to Amnesty International Committee on the Rights of a Child	Ita ba Paz (We Hope For Peace)
+148	Hamoris fali komunidade nia matenek tradisionál	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+318	FM Nia Artigu Konaba Seguransa 25 Juñu 2015	Fundasaun Mahein
+131	National adaptation program of action on climate change	UNFCCC
+120	Mid-term evaluation. Local government support programme (LGSP). Volume 1: Main report	United Nations Capital Development Fund (UNCDF)
+314	FM Nia Artigu Konaba Seguransa 19 Juñu 2015	Fundasaun Mahein
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Kdadalak Sulimutuk Institute (KSI)
+16	Fundasaun Mahein blogs (2012)	Fundasaun Mahein
+155	Safeguarding our traditional ecological knowledge related to coastal ecosystem	Roman Luan
+283	2014 Survey of Travelers to Timor-Leste	Ministério do Turismo
+209	Decolonization in East Timor	Indonesia Department of Foreign Affairs
+208	Man and environment in Eastern Timor: a geoecological analysis of Baucau-Viqueque area as a possible basis for regional planning	Development Studies Centre
+242	FM Nia Artigu Konaba Seguransa 19 Abril 2015 	Fundasaun Mahein
+305	FM Nia Artigu Konaba Seguransa 13 Juñu 2015	Fundasaun Mahein
+201	Retaining doctors in rural Timor-Leste: a critical appraisal of the opportunities and challenges	World Health Organization (WHO)
+297	FM Nia Artigu Konaba Seguransa 3 Juñu 2015	Fundasaun Mahein
+111	Mapping of migration data sources iin Timor-Leste	Embassy of the European Commission
+311	Timor-Leste 2003 Demographic and Health Survey	Ministério da Saúde
+206	East Timor: the continuing betrayal	Embassy of the European Commission
+102	IOM October- November 2008 Monitoring  Report: Community and IDP Survey	International Organization for Migration (IOM)
+247	FM Nia Artigu Konaba Seguransa 23 Abril 2015	Fundasaun Mahein
+280	FM Nia Artigu Konaba Seguransa 12 Maiu 2015	Fundasaun Mahein
+264	Roads for Development Program (R4D) - Contractors' Tracer Study	Republica Democrática de Timor-Leste
+215	Assessment report of the vocational training in Timor-Leste: October 2007	United Nations Development Program (UNDP)
+129	Timor-Leste millennium development goals report	Republica Democrática de Timor-Leste
+73	Matenek Lokal Timor Nian Haktuir husi workshop Matenek Tradisional Riku soin ba Dezenvolvimentu, Dili, 7-8 Junhu 2011	Carvalho
+24	Timor-Leste	The Asia Foundation (TAF)
+285	FM Nia Artigu Konaba Seguransa 18 Maiu 2015	Fundasaun Mahein
+49	Matadalan be Xefe Suku nia knaar	United States Agency for International Development (USAID)
+312	Timor-Leste Demographic and Health Survey 2009-10	Ministério da Saúde
+196	Timor-Leste - Dili emergency food security assessment	World Food Program (WFP)
+171	Total, urban and rural population	Republica Democrática de Timor-Leste
+63	In Focus: PNTL background and performance	The Asia Foundation (TAF)
+171	Total, urban and rural population	United Nations Fund Population (UNFPA)
+323	FM Nia Artigu Konaba Seguransa 01 Jullu 2015	Fundasaun Mahein
+36	Tara Bandu: Its role and use in community conflict prevention in Timor-Leste	Belun
+32	Teaching children to read	The Asia Foundation (TAF)
+322	FM Nia Artigu Konaba Seguransa 27 Juñu 2015	Fundasaun Mahein
+264	Roads for Development Program (R4D) - Contractors' Tracer Study	International Labour Organization (ILO)
+227	Seeds of Life 3 Baseline Survey - Vol 2: Data tables\r\n	Seeds of Life (SOL)
+264	Roads for Development Program (R4D) - Contractors' Tracer Study	Australian Agency for International Development (AusAID)
+194	Timor-Leste: health profile	World Health Organization (WHO)
+138	Education for sustainable development country guidelines	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+162	Early impact assessment of the global financial crisis on education financing: country case studies	UNESCO Institute for Statistics
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Associasao Comunidade Vitimas - Timor Leste (ACV - TL)
+34	Working with female clients: A guideline for legal aid partners	The Asia Foundation (TAF)
+166	Maternal mortality, unplanned pregnancy and unsafe abortion in Timor-Leste: A situational analysis	Fundasaun Alola
+115	Justice sector strategic plan for Timor-Leste 2011-2030	Republica Democrática de Timor-Leste
+185	Baseline study on feminization of poverty in Timor-Leste. Deprivation of women across sectors	UN Women
+121	Consolidated annual report on activities implemented under the joint programme "Local Governance Support" (LGSP) in Timor-Leste	United Nations Development Program (UNDP)
+58	Community policing in Timor-Leste	United States Agency for International Development (USAID)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Community Development Interest (CDI)
+74	Migration patterns survey and HIV vulnerability assessment mapping in selected districts of Timor-Leste	International Organization for Migration (IOM)
+104	Revised Methodology for Return Monitoring Survey	International Organization for Migration (IOM)
+312	Timor-Leste Demographic and Health Survey 2009-10	Australian Agency for International Development (AusAID)
+320	FM Nia Artigu Konaba Seguransa 29 Juñu 2015	Fundasaun Mahein
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+42	Legal reform in East Timor	The Asia Foundation (TAF)
+191	Timor-Leste. Non-communicable disease	World Health Organization (WHO)
+114	RDTL Millennium development goals	RDTL
+185	Baseline study on feminization of poverty in Timor-Leste. Deprivation of women across sectors	Embassy of the European Commission
+152	Obstacles to the effective participation of women in adult education program: focus on social-cultural factors	Oxfam International
+312	Timor-Leste Demographic and Health Survey 2009-10	United Nations Fund Population (UNFPA)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Associasao Comunidade Vitimas - Timor Leste (ACV - TL)
+30	Community experiences of decentralised development in Timor-Leste	Irish Aid
+59	Timor Leste Public Opinion Poll - March 2014	The Asia Foundation (TAF)
+9	Report to Amnesty International Committee on the Rights of a Child	Knua Buka Hatene (KBH)
+62	In Focus: Justice-seeking behavior	The Asia Foundation (TAF)
+103	IOM September-November 2008 Monitoring Report, Chefe Aldeias Surveys	International Organization for Migration (IOM)
+187	WHO Country cooperation strategy 2009-2013 Timor-Leste	World Health Organization (WHO)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Forum ONG Timor Leste (FONGTIL)
+56	Timor Leste Public Opinion Poll - September 2013	The Asia Foundation (TAF)
+57	Tara-Bandu ho nia papél ba prevensaun konflitu iha komunidade Timor-Leste	Embassy of the European Commission
+40	Law and Justice in Timor-Leste: A Survey of Citizen Awareness and Attitudes Regarding Law and Justice 2008	The Asia Foundation (TAF)
+109	Potential for small area estimation and poverty mapping in Timor-Leste	World Food Program (WFP)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Community Development Interest (CDI)
+53	Contract law in Timor-Leste	The Asia Foundation (TAF)
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	ACP Secretariat
+128	Summary Report. Consultation on post 2015-MDG in Timor-Leste 	Republica Democrática de Timor-Leste
+36	Tara Bandu: Its role and use in community conflict prevention in Timor-Leste	Kooperasaun husi alamaña
+144	UNESCO Timor Leste newsletter, volume 2, no. 4., July-Oct 2011	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+51	Saida mak violénsia doméstika?	United States Agency for International Development (USAID)
+130	The Millennium Development Goals, Timor-Leste	Republica Democrática de Timor-Leste
+271	Josh Testing Indonesian Upload	Belun
+300	FM Nia Artigu Konaba Seguransa 6 Juñu 2015	Fundasaun Mahein
+141	Promoting sub-regional education for sustainable development in South-East Asia	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+118	 Local governance support programme Timor-Leste	United Nations Capital Development Fund (UNCDF)
+91	Timor-Leste key labour market indicators December 2008	SEFOPE
+2	Haforsa lei hodi hametin estady de direitu no demokratika	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+52	Constitutional law in Timor-Leste	United States Agency for International Development (USAID)
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	La'o Hamutuk
+248	FM Nia Artigu Konaba Seguransa 24 Abril 2015	Fundasaun Mahein
+80	Community based data gathering and co-management of marine resources in Timor-Leste	Ministério de Asuntos Exteriores y de Cooperación
+212	Adult literacy teaching and learning in multilingual Timor-Leste	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+20	Law and Justice Survey 2013	The Asia Foundation (TAF)
+207	Indonesia and East Timor: power and impunity	Amnesty International
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Associasao Comunidade Vitimas - Timor Leste (ACV - TL)
+23	Law and Justice in East Timor	The Asia Foundation (TAF)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Community Development Interest (CDI)
+159	Producing red and blue colors from native dye plants	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+170	Mortality monograph. Census population and housing 2004	Republica Democrática de Timor-Leste
+263	SOCIAL SAFEGUARDS FRAMEWORK for Rural Road Works	International Labour Organization (ILO)
+263	SOCIAL SAFEGUARDS FRAMEWORK for Rural Road Works	Australian Agency for International Development (AusAID)
+156	Let's value and enrich our coastal ecosystem for the sustainable future of our community	Roman Luan
+44	Conflict management and prevention in East Timor	The Asia Foundation (TAF)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+184	Gender and nation building in Timor-Leste. Country gender assessment	Asian Development Bank (ADB)
+235	Fundasaun Mahein Nia Lian: No 1 - 39	Fundasaun Mahein
+9	Report to Amnesty International Committee on the Rights of a Child	OPVG (Organizasaun Popular Vitima da Guera)
+46	Professional responsibility in Timor-Leste	The Asia Foundation (TAF)
+311	Timor-Leste 2003 Demographic and Health Survey	The Australian National University
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Judicial Systems Monitoring Programme (JSMP)
+88	Timor-Leste national youth employment action plan (NYEAP) 2009	International Labour Organization (ILO)
+88	Timor-Leste national youth employment action plan (NYEAP) 2009	Australian Agency for International Development (AusAID)
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	IOM Development Fund
+48	Matadalan ba kazu paternidade	The Asia Foundation (TAF)
+84	Timor-Leste special edition, January 2006	International Labour Organization (ILO)
+170	Mortality monograph. Census population and housing 2004	United Nations Fund Population (UNFPA)
+163	Human rights handbook for journalists in Timor-Leste	UNMIT
+185	Baseline study on feminization of poverty in Timor-Leste. Deprivation of women across sectors	United Nations Development Program (UNDP)
+163	Human rights handbook for journalists in Timor-Leste	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+234	Fundasaun Mahein Nia Lian: No 40 - 76	Fundasaun Mahein
+28	“Ami Sei Vítima Beibeik”: Looking to the needs of domestic violence victims	The Asia Foundation (TAF)
+106	IOM Return Monitoring Report: Community and Former IDP Household Surveys	International Organization for Migration (IOM)
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Pergerakan Solidaritas Mahasiswa Timor Leste (PSM-TL)
+215	Assessment report of the vocational training in Timor-Leste: October 2007	EU
+36	Tara Bandu: Its role and use in community conflict prevention in Timor-Leste	The Asia Foundation (TAF)
+263	SOCIAL SAFEGUARDS FRAMEWORK for Rural Road Works	Republica Democrática de Timor-Leste
+76	Teaching Free Timor	Dvoskin
+30	Community experiences of decentralised development in Timor-Leste	The Asia Foundation (TAF)
+199	Timor-Leste: Strong malaria control programme cuts cases	World Health Organization (WHO)
+9	Report to Amnesty International Committee on the Rights of a Child	Forum Komunikasi Untuk Perempuan Timor Lorosae (FOKUPERS)
+75	Guide to facilitating dialogue and mediation in the community	Departamento Hari'I Pás no Koesaun Sosiál
+52	Constitutional law in Timor-Leste	Stanford Law School
+256	FM Nia Artigu Konaba Seguransa 03 Maiu 2015	Fundasaun Mahein
+267	FM Nia Artigu Konaba Seguransa 09 Maiu 2015	Fundasaun Mahein
+57	Tara-Bandu ho nia papél ba prevensaun konflitu iha komunidade Timor-Leste	atRes
+50	Matadalan espesífiku kona-ba kazu divórsiu	United States Agency for International Development (USAID)
+145	UNESCO Timor-Leste Newsletter, year 3, issue 1, March 2013	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+315	FM Nia Artigu Konaba Seguransa 22 Juñu 2015	Fundasaun Mahein
+311	Timor-Leste 2003 Demographic and Health Survey	University of Newcastle
+283	2014 Survey of Travelers to Timor-Leste	Australian Agency for International Development (AusAID)
+328	FM Nia Artigu Konaba Seguransa 07 Jullu 2015	Fundasaun Mahein
+246	FM Nia Artigu Konaba Seguransa 22 Abril 2015	Fundasaun Mahein
+124	Breaking the cycle of domestic violence in Timor-Leste	United Nations Development Program (UNDP)
+158	Plants in Timor Leste for textile production process	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+9	Report to Amnesty International Committee on the Rights of a Child	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+209	Decolonization in East Timor	Indonesia Department of Information
+97	Youth employment creation through self-employment promotion and micro and small enterprise development in Timor -Leste rural areas	SEFOPE
+306	FM Nia Artigu Konaba Seguransa 15 Juñu 2015	Fundasaun Mahein
+26	Ministry of Finance quality of service perception survey	Ministériu Finansas
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	OPVG (Organizasaun Popular Vitima da Guera)
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	Embassy of the European Commission
+93	Employment-intensive infrastructure works (TIM-Works) in Timor-Leste	SEFOPE
+100	Yes Youth Employment Study Timor-Leste 2007	International Labour Organization (ILO)
+75	Guide to facilitating dialogue and mediation in the community	United Nations Development Program (UNDP)
+278	Fundasaun Mahein Blogs (2015)	Fundasaun Mahein
+9	Report to Amnesty International Committee on the Rights of a Child	Community Development Interest (CDI)
+71	Country Gender Assessment	Asian Development Bank (ADB)
+54	Glosáriu jurídiku ba pratikante sira iha Timor-Leste	The Asia Foundation (TAF)
+324	FM Nia Artigu Konaba Seguransa 02 Jullu 2015	Fundasaun Mahein
+71	Country Gender Assessment	UN Women
+47	Handbook for legal aid lawyers: A practical guide	The Asia Foundation (TAF)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Knua Buka Hatene (KBH)
+326	FM Nia Artigu Konaba Seguransa 04 Jullu 2015	Fundasaun Mahein
+98	Youth employment in Timor-Leste	International Labour Organization (ILO)
+18	Fundasaun Mahein blogs (2014)	Fundasaun Mahein
+90	Decent work country programme	Republica Democrática de Timor-Leste
+203	Grave humanitarian and food crisis developing in East Timor	Food And Agriculture Organization (FAO)
+167	Motherhood in childhood	United Nations Fund Population (UNFPA)
+296	FM Nia Artigu Konaba Seguransa 2 Juñu 2015	Fundasaun Mahein
+133	A role for keeping places in the Timor Sea region	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+282	FM Nia Artigu Konaba Seguransa 15 Maiu 2015	Fundasaun Mahein
+321	FM Nia Artigu Konaba Seguransa 30 Juñu 2015	Fundasaun Mahein
+101	IOM Community Based Data Collect and Analysis for Sustainable Return: July-August 2008 results	International Organization for Migration (IOM)
+181	Water, sanitation and hygiene annual report 2013	United Nations Children's Fund (UNICEF)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	OPVG (Organizasaun Popular Vitima da Guera)
+150	Local knowledge of Timor, based on the national workshop on Promoting LINKS and SIDS Programmes in Timor Leste, Dili, Timor Leste, 7-8 June 2011	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+134	Assessment of media development in Timor-Leste based on UNESCO's media development indicators	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+68	Policy brief (EWER)	Belun
+195	Timor-Leste	The Asia Foundation (TAF)
+78	Safety at sea assessment in Timor-Leste small-scale fisheries sector	Ministério da Agricultura e Pescas
+151	Effective literacy practices in Timor-Leste	Ministério da Educação
+89	Report on value change analysis of the cattle sector in Bobonaro and Lautem districts, Timor-Leste	Ministry of Economy and Development
+260	FM Nia Artigu Konaba Seguransa 07 Maiu 2015	Fundasaun Mahein
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Forum Komunikasi Untuk Perempuan Timor Lorosae (FOKUPERS)
+143	UNESCO Timor Leste newsletter, volume 2, issue 3, June 2011	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+146	Habiit Reziliensia Komunidade iha Tasi-ibun no Illa Ki'ik sira hodi hasoru Perigu Idrometeorolójiku no Impaktu Mudansa Klima nian	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+139	Final report UNESCO JFIT STRESCOM regional workshop.pdf	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+250	FM Nia Artigu Konaba Seguransa 27 Abril 2015	Fundasaun Mahein
+110	MDG Achievement Fund Final Evaluation Timor-Leste	MDG Achievement Fund
+189	World Malaria Report. Timor-Leste	World Health Organization (WHO)
+85	ILO Timor-Leste newsletter, April 2004	International Labour Organization (ILO)
+308	FM Nia Artigu Konaba Seguransa 17 Juñu 2015\r\n	Fundasaun Mahein
+10	Human Rights Voice No. 2	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+164	Bride-price and domestic violence in Timor-Leste: A comparative study of married-in and married-out cultures in four districts	United Nations Fund Population (UNFPA)
+265	Roads for Development (R4D) ENVIRONMENTAL SAFEGUARDS FRAMEWORK	Ministério das Obras Públicas, Transportes e Comunicações
+12	Human Rights Voice No. 3	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Ita ba Paz (We Hope For Peace)
+243	FM Artigu Kona ba Seguransa 20 Abril 2015	Fundasaun Mahein
+313	Timor-Leste Household Income and Expenditure Survey 2011	European Union
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Forum Komunikasi Untuk Perempuan Timor Lorosae (FOKUPERS)
+157	Ways to improve your traditional fishing methods to be more eco-friendly	Roman Luan
+90	Decent work country programme	International Labour Organization (ILO)
+222	Complementarity between maize seed production and good storage\r\n	Seeds of Life (SOL)
+289	FM Nia Artigu Konaba Seguransa 22 Maiu 2015	Fundasaun Mahein
+279	FM Nia Artigu Konaba Seguransa 13 Maiu 2015	Fundasaun Mahein
+215	Assessment report of the vocational training in Timor-Leste: October 2007	International Labour Organization (ILO)
+284	FM Nia Artigu Konaba Seguransa 16 Maiu 2015	Fundasaun Mahein
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Forum ONG Timor Leste (FONGTIL)
+115	Justice sector strategic plan for Timor-Leste 2011-2030	United Nations Development Program (UNDP)
+21	East Timor National Survey of Voter Knowledge	The Asia Foundation (TAF)
+111	Mapping of migration data sources iin Timor-Leste	International Organization for Migration (IOM)
+9	Report to Amnesty International Committee on the Rights of a Child	Forum Tau Matan (FTM)
+78	Safety at sea assessment in Timor-Leste small-scale fisheries sector	Agencia Espanola da Cooperacion International Para el Desarrollo (AECID)
+89	Report on value change analysis of the cattle sector in Bobonaro and Lautem districts, Timor-Leste	Republica Democrática de Timor-Leste
+9	Report to Amnesty International Committee on the Rights of a Child	Aliansi Nasionál Timor-Leste ba Tribunál Internasionál (ANTI)
+29	Careers Pathways for Law Graduates: A Survey of Law Graduates in Timor-Leste	United States Agency for International Development (USAID)
+273	The problem of gender quotas: women's representatives on Timor-Leste's suku councils	Oxfam International
+161	A situation-response analysis of the education sector's response to HIV, drugs and sexual health in Timor-Leste	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+17	Fundasaun Mahein blogs (2013)	Fundasaun Mahein
+325	FM Nia Artigu Konaba Seguransa 03 Jullu 2015	Fundasaun Mahein
+170	Mortality monograph. Census population and housing 2004	Direcção Nacional de Estatística
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	La'o Hamutuk
+99	Gender dimensions in vocational training in Timor-Leste	STAGE
+41	Local leadership of community policing practices in Timor-Leste	UK AID
+319	FM Nia Artigu Konaba Segurana 26 Juñu 2015	Fundasaun Mahein
+67	Alerts from Early Warning, Early Response (EWER)	Belun
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Associasao Comunidade Vitimas - Timor Leste (ACV - TL)
+313	Timor-Leste Household Income and Expenditure Survey 2011	Ministériu Finansas
+175	Expert Discussion on Children and Transitional Justice 	United Nations Children's Fund (UNICEF)
+255	FM Nia Artigu Konaba Seguransa 04 Maiu 2015	Fundasaun Mahein
+14	Fundasaun Mahein blogs (2010)	Fundasaun Mahein
+121	Consolidated annual report on activities implemented under the joint programme "Local Governance Support" (LGSP) in Timor-Leste	United Nations Capital Development Fund (UNCDF)
+154	Timor-Leste UNESCO country programming document, 2013-2014	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+33	Timor-Leste celebrates a decade of Independence	S. Rajanaratnam School of International Studies
+241	FM Nia Artigu Kona ba Seguransa 18 Abril 2015	Fundasaun Mahein
+225	Adoption of agricultural technologies: Factors related to adoption of improved food crop varieties in Timor-Leste\r\n	University of Edinburgh
+157	Ways to improve your traditional fishing methods to be more eco-friendly	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+160	Nino Konis Santa National Park	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+200	Timor-Leste: Better epilepsy services means better care	World Health Organization (WHO)
+79	A visual guide of key findings from the baseline survey of the Regional Fisheries Livelihoods Programme for South and Southeast Asia (RFLP) in Timor Leste	Food And Agriculture Organization (FAO)
+226	Seeds of Life 3 Baseline Survey - Main report\r\n	Seeds of Life (SOL)
+27	Institutionalising community policing in Timor-Leste: Exploring the politics of police reform	The Asia Foundation (TAF)
+147	Revitalizing community traditional knowledge for sustainable livelihoods: fishing method	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Judicial Systems Monitoring Programme (JSMP)
+142	UNESCO Timor Leste newsletter, volume 2, issue 1, April 2011	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+45	Women's empowerment programs in East Timor	The Asia Foundation (TAF)
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Kdadalak Sulimutuk Institute (KSI)
+8	COMMEMORATION OF THE LIQUISA CHURCH MASSACRE ON 5-6 APRIL 1999: “Families of the Victim continue to live with uncertainty”	Pergerakan Solidaritas Mahasiswa Timor Leste (PSM-TL)
+239	FM Nia Artigu Kona ba Seguransa 17 Abril 2015	Fundasaun Mahein
+81	FAO/WFP Crop and food supply assessment mission	Food And Agriculture Organization (FAO)
+312	Timor-Leste Demographic and Health Survey 2009-10	United Nations Development Program (UNDP)
+288	FM Nia Artigu Konaba Seguransa 21 Maiu 2015	Fundasaun Mahein
+70	Regional Fisheries Livelihoods Programme	AMSAT International
+9	Report to Amnesty International Committee on the Rights of a Child	Asosiasaun Chega ba Ita (Acbit)
+317	FM Nia Artigu Konaba Seguransa 24 Juñu 2015	Fundasaun Mahein
+182	Brokered democracy-building: developing democracy through transitional governance in Cambodia, East Timor and Afghanistan	University of California
+262	Analysis of Poverty and Gender in Agriculture in Timor-Leste	Cardno
+113	Timor-Leste strategic development plan 2011-2030	RDTL
+275	The World Bank's land of kiosks: Community driven development in Timor-Leste	Oxfam Great Britain  (OXFAM GB)
+154	Timor-Leste UNESCO country programming document, 2013-2014	Republica Democrática de Timor-Leste
+78	Safety at sea assessment in Timor-Leste small-scale fisheries sector	Food And Agriculture Organization (FAO)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Kdadalak Sulimutuk Institute (KSI)
+129	Timor-Leste millennium development goals report	United Nations Development Program (UNDP)
+89	Report on value change analysis of the cattle sector in Bobonaro and Lautem districts, Timor-Leste	International Labour Organization (ILO)
+258	FM Nia Artigu Konaba Seguransa 06 Maiu 2015	Fundasaun Mahein
+179	UNICEF Timor-Leste flood emergency - situation report	United Nations Children's Fund (UNICEF)
+312	Timor-Leste Demographic and Health Survey 2009-10	United Nations Children's Fund (UNICEF)
+60	A Survey of Community-Police Perceptions, 2013	The Asia Foundation (TAF)
+92	Timor-Leste national employment strategy December 2008	SEFOPE
+252	FM Nia Artigu Konaba Seguransa 28 Abril 2015	Fundasaun Mahein
+126	The national biodiversity strategy and action plan of Timor-Leste (2011-2020)	Republica Democrática de Timor-Leste
+298	FM Nia Artigu Konaba Seguransa 8 Juñu 2015	Fundasaun Mahein
+105	IOM December 2008 - February 2009 Monitoring report: Chefes Aldeias Surveys	International Organization for Migration (IOM)
+127	Timor-Leste's  fourth national report to the UN convention on biological diversity	United Nations Development Program (UNDP)
+57	Tara-Bandu ho nia papél ba prevensaun konflitu iha komunidade Timor-Leste	Belun
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	United Nations Fund Population (UNFPA)
+183	UNWOMEN Timor-Leste factsheet	UN Women
+295	FM Nia Artigu Konaba Seguransa 1 Juñu 2015	Fundasaun Mahein
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Forum Tau Matan (FTM)
+184	Gender and nation building in Timor-Leste. Country gender assessment	UN Women
+302	FM Nia Artigu Konaba Seguransa 10 Juñu 2015	Fundasaun Mahein
+161	A situation-response analysis of the education sector's response to HIV, drugs and sexual health in Timor-Leste	UNAIDS
+180	A statistical snapshot of violence against adolescent girls	United Nations Children's Fund (UNICEF)
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Knua Buka Hatene (KBH)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Aliansi Nasionál Timor-Leste ba Tribunál Internasionál (ANTI)
+249	FM Nia Artigu Konaba Seguransa 25 Abril 2015	Fundasaun Mahein
+312	Timor-Leste Demographic and Health Survey 2009-10	Ministériu Finansas
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Aliansi Nasionál Timor-Leste ba Tribunál Internasionál (ANTI)
+3	Lian Direitus Umanus No. 1	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+87	Rapid assessment on child labour in Timor-Leste	International Labour Organization (ILO)
+185	Baseline study on feminization of poverty in Timor-Leste. Deprivation of women across sectors	SEPI
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Forum Tau Matan (FTM)
+122	East Timor Development Report	United Nations Development Program (UNDP)
+96	Self employment promotion and enterprise development in Timor-Leste	International Labour Organization (ILO)
+169	Country action plan (CPAP) Timor-Leste	United Nations Fund Population (UNFPA)
+49	Matadalan be Xefe Suku nia knaar	The Asia Foundation (TAF)
+230	Adoption survey 2014\r\n	Seeds of Life (SOL)
+123	Human Development Report Timor-Leste	United Nations Development Program (UNDP)
+22	Supporting economic growth in East Timor	The Asia Foundation (TAF)
+89	Report on value change analysis of the cattle sector in Bobonaro and Lautem districts, Timor-Leste	BOSS
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	Wusaustria
+312	Timor-Leste Demographic and Health Survey 2009-10	World Health Organization (WHO)
+190	Timor-Leste child malnutrition estimates by WHO Child Growth Standards	World Health Organization (WHO)
+311	Timor-Leste 2003 Demographic and Health Survey	ACIL Australia Pty Ltd
+25	Governance and civil society in Timor-Leste	The Asia Foundation (TAF)
+94	Enterpreneurship Education	SEFOPE
+169	Country action plan (CPAP) Timor-Leste	Republica Democrática de Timor-Leste
+167	Motherhood in childhood	Direcção Nacional de Estatística
+125	Assessment of development result: Evaluation of UNDP contribution to Timor-Leste	United Nations Development Program (UNDP)
+264	Roads for Development Program (R4D) - Contractors' Tracer Study	Ministério das Obras Públicas, Transportes e Comunicações
+132	Sub-national governance and development programme	United Nations Capital Development Fund (UNCDF)
+229	Seeds of Life 3 Mid-Term Survey\r\n	Seeds of Life (SOL)
+100	Yes Youth Employment Study Timor-Leste 2007	EU
+276	Another invasion: Lessons from international support to East Timorese NGOs	Oxfam Great Britain  (OXFAM GB)
+99	Gender dimensions in vocational training in Timor-Leste	SEFOPE
+72	Approaches to domestic violence against women in Timor-Leste. A review and critique	Asia Pacific Human Rights Information Centre
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	Observatory on Migration
+135	Learning independence: education in emergency and transition in Timor-Leste since 1999	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+174	Timor-Leste donor update	United Nations Children's Fund (UNICEF)
+58	Community policing in Timor-Leste	The Asia Foundation (TAF)
+11	Submission No. 77. Inquiry into Australia’s Relationship with Timor-Leste	Asosiasaun Hak  (Hukum, Hak Asasi dan Keadilan)
+81	FAO/WFP Crop and food supply assessment mission	World Food Program (WFP)
+7	Truth and Justice are the foundations for developing democracy in Timor-Leste	Asosiasaun Chega ba Ita (Acbit)
+166	Maternal mortality, unplanned pregnancy and unsafe abortion in Timor-Leste: A situational analysis	United Nations Fund Population (UNFPA)
+291	FM Nia Artigu Konaba Seguransa 26 Maiu 2015	Fundasaun Mahein
+58	Community policing in Timor-Leste	Policia Nacional Timor-Leste
+6	Commemoration of International Day of Enforced Disappearances "Bring them home"	Asosiasaun Chega ba Ita (Acbit)
+95	Fact sheet on labour market information (LMI) project in Timor-Leste	SEFOPE
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Ita ba Paz (We Hope For Peace)
+132	Sub-national governance and development programme	Republica Democrática de Timor-Leste
+99	Gender dimensions in vocational training in Timor-Leste	United Nations Development Program (UNDP)
+9	Report to Amnesty International Committee on the Rights of a Child	Kdadalak Sulimutuk Institute (KSI)
+163	Human rights handbook for journalists in Timor-Leste	Timor Leste Media Development Center (TLMDC)
+26	Ministry of Finance quality of service perception survey	The Asia Foundation (TAF)
+254	FM Nia Artigu Konaba Seguransa 30 Abril 2015	Fundasaun Mahein
+131	National adaptation program of action on climate change	Republica Democrática de Timor-Leste
+274	Sustainability and peace building: a key challenge	Oxfam Great Britain  (OXFAM GB)
+150	Local knowledge of Timor, based on the national workshop on Promoting LINKS and SIDS Programmes in Timor Leste, Dili, Timor Leste, 7-8 June 2011	Fundasaun Haburas
+195	Timor-Leste	World Health Organization (WHO)
+89	Report on value change analysis of the cattle sector in Bobonaro and Lautem districts, Timor-Leste	Irish Aid
+156	Let's value and enrich our coastal ecosystem for the sustainable future of our community	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+316	FM Nia Artigu Konaba Seguransa 23 Juñu 2015	Fundasaun Mahein
+112	New country, new needs, new responses: Irregular labour migration to Timor-Leste	International Organization for Migration (IOM)
+46	Professional responsibility in Timor-Leste	Stanford Law School
+368	FM Nia Artigu Konaba Seguransa 16 Setembru 2015	Fundasaun Mahein
+1	Benvindu Prezidente SBY mai vizita Timor-Leste! Labele fase liman ba krime kontra umanidade husi 1975-1999.	Forum Komunikasi Untuk Perempuan Timor Lorosae (FOKUPERS)
+152	Obstacles to the effective participation of women in adult education program: focus on social-cultural factors	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+53	Contract law in Timor-Leste	United States Agency for International Development (USAID)
+205	East Timor and the United Nations: the case for intervention	United Nations
+57	Tara-Bandu ho nia papél ba prevensaun konflitu iha komunidade Timor-Leste	The Asia Foundation (TAF)
+272	Post-conflict pro-poor private-sector development: The case of Timor-Leste	Oxfam Great Britain  (OXFAM GB)
+202	The tyranny of distance: maternity waiting homes and access to birthing facilities in rural Timor-Leste	World Health Organization (WHO)
+51	Saida mak violénsia doméstika?	The Asia Foundation (TAF)
+228	Seeds of Life 3 Baseline Survey - Vol 3: Annexes\r\n	Seeds of Life (SOL)
+98	Youth employment in Timor-Leste	SEFOPE
+36	Tara Bandu: Its role and use in community conflict prevention in Timor-Leste	atRes
+9	Report to Amnesty International Committee on the Rights of a Child	Judicial Systems Monitoring Programme (JSMP)
+286	FM Nia Artigu Konaba Seguransa 18 Maiu 2015	Fundasaun Mahein
+31	Information and communication technology for development	The Asia Foundation (TAF)
+116	Timor-Leste labour force survey	SEFOPE
+172	Children and the Commission for Reception, Truth and Reconciliation in Timor-Leste 	United Nations Children's Fund (UNICEF)
+9	Report to Amnesty International Committee on the Rights of a Child	Pergerakan Solidaritas Mahasiswa Timor Leste (PSM-TL)
+100	Yes Youth Employment Study Timor-Leste 2007	United Nations Development Program (UNDP)
+330	FM Nia Artigu Konaba Seguransa 10 Jullu 2015	Fundasaun Mahein
+332	FM Nia Artigu KOnaba Seguransa 09 Jullu 2015	Fundasaun Mahein
+333	FM Nia Artigu Konaba Seguransa 11 Jullu 2015	Fundasaun Mahein
+331	FM Nia Artigu Konaba Seguransa 13 Jullu 2015	Fundasaun Mahein
+334	FM Nia Artigu Konaba Seguransa 14 Jullu 2015	Fundasaun Mahein
+335	FM Nia Artigu Konaba Seguransa 15 Jullu 2015	Fundasaun Mahein
+336	FM Nia Artigu Konaba Seguransa 20 Jullu 2015	Fundasaun Mahein
+337	FM Nia Artigu Konaba Seguransa 16 Jullu 2015	Fundasaun Mahein
+338	FM Nia Artigu Konaba Seguransa 21 Jullu 2015\r\n	Fundasaun Mahein
+339	FM Nia Artigu Konaba Seguransa 22 Jullu 2015	Fundasaun Mahein
+340	FM Nia Artigu Konaba Seguransa 23 Jullu 2015	Fundasaun Mahein
+341	FM Nia Artigu Konaba Seguransa 27 Jullu 2015	Fundasaun Mahein
+342	FM Nia Artigu Konaba Seguransa 28 Jullu 2015	Fundasaun Mahein
+343	FM Nia Artigu Konaba Seguransa 29 Jullu 2015	Fundasaun Mahein
+233	Fundasaun Mahein Nia Hanoin 	Fundasaun Mahein
+345	FM Nia Artigu Konaba Seguransa 31 Jullu 2015	Fundasaun Mahein
+344	FM Nia Artigu Konaba Seguransa 30 Jullu 2015	Fundasaun Mahein
+346	FM Nia Artigu Konaba Seguransa 3 Agostu 2015	Fundasaun Mahein
+347	FM Nia Artigu Konaba Seguransa 4 Agostu 2015	Fundasaun Mahein
+348	FM Nia Artigu Konaba Seguransa 5 Agostu 2015 	Fundasaun Mahein
+349	FM Nia Artigu Konaba Seguransa 10 Agostu 2015	Fundasaun Mahein
+350	FM Nia Artigu Konaba Seguransa 11 Agostu 2015	Fundasaun Mahein
+352	FM Nia Artigu Konaba Seguransa 12 Agostu 2015	Fundasaun Mahein
+353	Women’s Access to Land and Property Rights in the Plural Justice System of Timor-Leste.	International Peacebuilding Alliance (INTERPEACE )
+353	Women’s Access to Land and Property Rights in the Plural Justice System of Timor-Leste.	Centro de Estudos para a Paz e Desenvolvimento (CEPAD)
+353	Women’s Access to Land and Property Rights in the Plural Justice System of Timor-Leste.	UN WOMEN
+353	Women’s Access to Land and Property Rights in the Plural Justice System of Timor-Leste.	Foreign Affairs, Trade and Development Canada
+354	The people’s voice on corruption in Timor-Leste	Miserior
+354	The people’s voice on corruption in Timor-Leste	International Peacebuilding Alliance (INTERPEACE )
+354	The people’s voice on corruption in Timor-Leste	Centro de Estudos para a Paz e Desenvolvimento (CEPAD)
+356	Hakbít Partisipasaun Feto iha Prosesu Konsolidasaun Demokrasia iha Timor-Leste	Ministry of Foreign Affairs of Finland
+356	Hakbít Partisipasaun Feto iha Prosesu Konsolidasaun Demokrasia iha Timor-Leste	International Peacebuilding Alliance (INTERPEACE )
+356	Hakbít Partisipasaun Feto iha Prosesu Konsolidasaun Demokrasia iha Timor-Leste	Centro de Estudos para a Paz e Desenvolvimento (CEPAD)
+357	A Monitoring and Evaluation Framework for the National Action Plan on Gender-Based Violence	SEPI
+358	CEDAW Konvensaun atu halakon diskriminasaun hotu kontra feto	United Nations
+359	Deklarasaun Universál Direitus Umanus	United Nations
+360	Final report on workshop and district consultations for domestic violence legislation	Secretaria do Estado para Promoção da Igualdade
+360	Final report on workshop and district consultations for domestic violence legislation	United Nations Fund Population (UNFPA)
+360	Final report on workshop and district consultations for domestic violence legislation	Forum Komunikasi Untuk Perempuan Timor Lorosae (FOKUPERS)
+360	Final report on workshop and district consultations for domestic violence legislation	Republica Democrática de Timor-Leste
+361	Gender-Based Violence: Challenges and Way Forward. A Report of Focus Groups in Four Districts	International Rescue Committee (IRC)
+363	Voicing the Experience of Silenced Women. A Report of Violence Against Women 2005-2006	Forum Komunikasi Untuk Perempuan Timor Lorosae (FOKUPERS)
+362	Prevalence of Gender-Based Violence in East Timor	International Rescue Committee (IRC)
+364	FM Nia Artigu Konaba Seguransa 17 Agostu 2015	Fundasaun Mahein
+365	FM Nia Artigu Konaba Seguransa 18 Agostu 2015	Fundasaun Mahein
+366	FM Nia Artigu Konaba Seguransa 19 Agostu 2015	Fundasaun Mahein
+367	FM Nia Artigu Kona-ba Seguransa 27 Agostu 2015	Fundasaun Mahein
+237	Fundasaun Mahein Nia Lian - No. 77 -	Fundasaun Mahein
+351	Understanding Resilience from a Local Perspective; Timor-Leste Country Note	International Peacebuilding Alliance (INTERPEACE )
+351	Understanding Resilience from a Local Perspective; Timor-Leste Country Note	Centro de Estudos para a Paz e Desenvolvimento (CEPAD)
+355	Promoting Social and Economic Inclusion for Women and Youth in Timor-Leste	United Nations  Education, Scientific and Cultural Organization (UNESCO)
+355	Promoting Social and Economic Inclusion for Women and Youth in Timor-Leste	International Peacebuilding Alliance (INTERPEACE )
+355	Promoting Social and Economic Inclusion for Women and Youth in Timor-Leste	Centro de Estudos para a Paz e Desenvolvimento (CEPAD)
+65	Belun EWER situation review	Belun
+66	Belun Trimester Report	Belun
+370	Seminar Report Belun	Belun
+371	Relatoriu Annual Belun Nian 2011	Belun
 \.
 
 
