@@ -60,9 +60,6 @@
 424	library	version	upload_tet	273	150	/var/www/html/media/publications/TAF_2013_Constitutional_law_-_Tetun.pdf	0	/var/www/html/media/thumbnails/150/library_version_273_150_upload_tet.jpg
 425	library	version	upload_en	273	150	/var/www/html/media/publications/TAF_2013_Constitutional_law_-_English.pdf	0	/var/www/html/media/thumbnails/150/library_version_273_150_upload_en.jpg
 426	library	version	upload_pt	273	150	/var/www/html/media/publications/TAF_2013_Constitutional_law_-_Portuguese.pdf	0	/var/www/html/media/thumbnails/150/library_version_273_150_upload_pt.jpg
-427	library	version	upload_tet	274	150	/var/www/html/media/publications/TAF_2013_Contract_law_-_Tetun.pdf	0	/var/www/html/media/thumbnails/150/library_version_274_150_upload_tet.jpg
-428	library	version	upload_en	274	150	/var/www/html/media/publications/TAF_2013_Contract_law_-_English.pdf	0	/var/www/html/media/thumbnails/150/library_version_274_150_upload_en.jpg
-429	library	version	upload_pt	274	150	/var/www/html/media/publications/TAF_2013_Contract_law_-_Portuguese.pdf	0	/var/www/html/media/thumbnails/150/library_version_274_150_upload_pt.jpg
 423	library	version	upload_tet	5	150	/var/www/html/media/publications/HAK_2014_Rekuinhesementu_istoria_pasadu_okupasaun_militar_Japaun_-_Tetun.pdf	0	/var/www/html/media/thumbnails/150/library_version_5_150_upload_tet.jpg
 435	library	version	upload_en	7	150	/var/www/html/media/publications/ANTI_2013_Truth_and_Justice_are_the_foundations_for_developing_democracy_in_Timor-Leste_-_English.pdf	0	/var/www/html/media/thumbnails/150/library_version_7_150_upload_en.jpg
 434	library	version	upload_tet	7	150	/var/www/html/media/publications/ANTI_2013_Truth_and_Justice_are_the_foundations_for_developing_democracy_in_Timor-Leste_-_Tetun.pdf	0	/var/www/html/media/thumbnails/150/library_version_7_150_upload_tet.jpg
@@ -88,6 +85,9 @@
 442	library	version	upload_tet	264	150	/var/www/html/media/publications/TAF_2007_Books_for_Asia_-_East_Timor_-_Tetun.pdf	0	/var/www/html/media/thumbnails/150/library_version_264_150_upload_tet.jpg
 437	library	version	upload_tet	3	150	/var/www/html/media/publications/HAK_2013_Lian_Direitus_Umanus_No._1_-_Tetun.pdf	0	/var/www/html/media/thumbnails/150/library_version_3_150_upload_tet.jpg
 445	library	version	upload_tet	440	150	/var/www/html/media/publications/UNESCO_2013_Mai_ita-hotu_hafolin_matenek_beiala_nian_hametin_ita-nia_lisan_no_tradisaun_hodi_salva_ita-nia_ambiente_tasi.pdf	0	/var/www/html/media/thumbnails/150/library_version_440_150_upload_tet.jpg
+429	library	version	upload_pt	274	150	/var/www/html/media/publications/TAF_2013_Contract_law_-_Portuguese.pdf	0	/var/www/html/media/thumbnails/150/library_version_274_150_upload_pt.jpg
+428	library	version	upload_en	274	150	/var/www/html/media/publications/TAF_2013_Contract_law_-_English.pdf	0	/var/www/html/media/thumbnails/150/library_version_274_150_upload_en.jpg
+427	library	version	upload_tet	274	150	/var/www/html/media/publications/TAF_2013_Contract_law_-_Tetun.pdf	0	/var/www/html/media/thumbnails/150/library_version_274_150_upload_tet.jpg
 466	library	version	upload_tet	263	150	/var/www/html/media/publications/TAF_2006_Legal_reform_in_East_Timor_-_Tetun.pdf	0	/var/www/html/media/thumbnails/150/library_version_263_150_upload_tet.jpg
 467	library	version	upload_en	263	150	/var/www/html/media/publications/TAF_2006_Legal_reform_in_East_Timor_-_English.pdf	0	/var/www/html/media/thumbnails/150/library_version_263_150_upload_en.jpg
 468	library	version	upload_tet	318	150	/var/www/html/media/publications/Belun_2009_Trimester_report_1_-_Tetun.pdf	0	/var/www/html/media/thumbnails/150/library_version_318_150_upload_tet.jpg
@@ -1360,10 +1360,13 @@
 1792	library	version	upload_tet	574	150	/var/www/html/media/publications/FM_MNL_52.pdf	0	/var/www/html/media/thumbnails/150/library_version_574_150_upload_tet.jpg
 1793	library	version	cover_en	251	150	/var/www/html/media/publication_covers/TAF_2012_Community_experiences_of_decentralised_development_in_Timor-Leste_KINcJI3.jpg	0	/var/www/html/media/thumbnails/150/library_version_251_150_cover_en.jpg
 1794	library	version	upload_en	251	150	/var/www/html/media/publications/TAF_2012_Community_experiences_of_decentralised_development_in_Timor-Leste.pdf	0	/var/www/html/media/thumbnails/150/library_version_251_150_upload_en.jpg
+1801	library	version	cover_tet	274	150	/var/www/html/media/publication_covers/TAF_2013_Contract_law_-_Tetun_fMwCI1X.jpg	0	/var/www/html/media/thumbnails/150/library_version_274_150_cover_tet.jpg
 1797	library	version	cover_en	354	150	/var/www/html/media/publication_covers/UNWOMEN_2013_Country_Gender_Assessment_-_English_6Kl2ZRd.jpg	0	/var/www/html/media/thumbnails/150/library_version_354_150_cover_en.jpg
 1798	library	version	upload_en	354	150	/var/www/html/media/publications/UNWOMEN_2013_Country_Gender_Assessment_-_English.pdf	0	/var/www/html/media/thumbnails/150/library_version_354_150_upload_en.jpg
 1799	library	version	cover_en	250	150	/var/www/html/media/publication_covers/TAF_2012_Careers_pathways_for_law_graduates._A_survey_of_law_graduates_in_Timor-Leste_MVtRbTM.jpg	0	/var/www/html/media/thumbnails/150/library_version_250_150_cover_en.jpg
 1800	library	version	upload_en	250	150	/var/www/html/media/publications/TAF_2012_Careers_pathways_for_law_graduates._A_survey_of_law_graduates_in_Timor-Leste.pdf	0	/var/www/html/media/thumbnails/150/library_version_250_150_upload_en.jpg
+1802	library	version	cover_en	274	150	/var/www/html/media/publication_covers/TAF_2013_Contract_law_-_English_l8vWBp3.jpg	0	/var/www/html/media/thumbnails/150/library_version_274_150_cover_en.jpg
+1803	library	version	cover_pt	274	150	/var/www/html/media/publication_covers/TAF_2013_Contract_law_-_Portuguese_uws9y7N.jpg	0	/var/www/html/media/thumbnails/150/library_version_274_150_cover_pt.jpg
 \.
 
 
