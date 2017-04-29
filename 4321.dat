@@ -1695,6 +1695,279 @@
 1728	2016-11-23 00:43:39.975578+00	6056	Celeste Sarmento dos Reis	2	Changed primary_contact_of.	21	5
 1729	2016-11-30 06:11:06.962769+00	40	The United Nations Democracy Fund: Call for Project Proposals	2	Changed description, application_end_date and all_districts.	7	5
 1730	2017-03-31 02:33:50.24644+00	7	Alldo	2	Changed password.	4	9
+1731	2017-04-10 05:58:50.967671+00	4	Jeny	2	Changed password.	4	5
+1732	2017-04-10 05:58:57.766306+00	4	Jeny	2	No fields changed.	4	5
+1733	2017-04-10 06:03:29.260542+00	3877	Samaresh Nayak	2	Changed title.	21	5
+1734	2017-04-11 01:18:31.635168+00	18	Small Grant Fund	2	Changed description, conditions and application_end_date.	7	5
+1735	2017-04-11 01:20:30.899101+00	7	UNDP Small Grants Program	2	Changed application_end_date.	7	5
+1736	2017-04-12 05:58:15.394989+00	41	Expression of Interest Hygienic Initiative Grant	2	Changed description, application_end_date, district and all_districts.	7	5
+1737	2017-04-12 06:04:21.101044+00	41	Expression of Interest Hygienic Initiative Grant	2	Changed description. Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object".	7	5
+1738	2017-04-17 00:30:42.322246+00	5243	Kathy Rychards	2	Changed name and email.	21	5
+1739	2017-04-17 00:32:56.312799+00	3097	Sarah Dewhurst	3		21	5
+1740	2017-04-17 00:36:13.481195+00	3877	Fabiano Franz	2	Changed name, title and email.	21	5
+1741	2017-04-17 00:40:34.226097+00	5378	Sujana Ximenes	2	Changed name and primary_contact_of.	21	5
+1742	2017-04-17 00:42:58.756886+00	5378	Sujana Ximenes	2	Changed phone.	21	5
+1743	2017-04-17 00:52:12.690291+00	2498	Ana Paulina Da Costa	2	Changed name, title and email.	21	5
+1744	2017-04-17 00:58:12.498754+00	6141	Marsaulina Pasaribu	1	Added.	21	5
+1745	2017-04-17 01:01:20.139474+00	6142	Julião da Silva de Jesus	1	Added.	21	5
+1746	2017-04-17 01:04:27.688887+00	6143	Adriana Grace Pitanuki	1	Added.	21	5
+1747	2017-04-17 01:07:47.608335+00	6144	ClaudinaArlindaViana	1	Added.	21	5
+1748	2017-04-17 01:10:19.616129+00	6145	Marizinha Pereira	1	Added.	21	5
+1749	2017-04-17 06:58:28.455928+00	42	REQUEST FOR PROPOSALS	2	Changed description, application_end_date and all_districts.	7	5
+1750	2017-04-18 01:40:05.485537+00	6146	Marianne Kearney	1	Added.	21	5
+1751	2017-04-18 02:04:02.857419+00	6147	FUJIWARA YUSUKE	1	Added.	21	5
+1815	2017-04-21 01:49:01.575866+00	2128	Pedro Eusebio Aparicio de Oliveira	3		21	5
+1752	2017-04-18 05:59:54.653126+00	43	European Instrument for Democracy and Human Rights (EIDHR)   Pilot Programme to Strengthen Political Parties Guidelines for grant applicants	3		7	5
+1753	2017-04-18 06:21:35.71833+00	44	European Instrument for Democracy and Human Rights (EIDHR) call for proposals "Pilot programme to strengthen political parties" has just been launched and Timor-Leste is one of the countries targeted	2	Changed description, application_end_date and all_districts. Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object".	7	5
+1754	2017-04-18 06:23:00.764952+00	44	European Instrument for Democracy and Human Rights (EIDHR) call for proposals "Pilot programme to strengthen political parties" has just been launched and Timor-Leste is one of the countries targeted	2	Changed description for funding offer document "FundingOfferDocument object".	7	5
+1755	2017-04-18 06:24:04.870076+00	44	European Instrument for Democracy and Human Rights (EIDHR) call for proposals "Pilot programme to strengthen political parties" has just been launched and Timor-Leste is one of the countries targeted	2	Added funding offer document "FundingOfferDocument object".	7	5
+1756	2017-04-18 07:04:47.994+00	45	JAPAN'S GRANT ASSISTANCE FOR GRASSROOTS HUMAN SECURITY PROJECTS	2	Changed description and application_end_date.	7	5
+1757	2017-04-18 07:05:42.994687+00	45	JAPAN'S GRANT ASSISTANCE FOR GRASSROOTS HUMAN SECURITY PROJECTS	2	No fields changed.	7	5
+1758	2017-04-19 02:29:01.840978+00	3775	Pe. Agostinho de Jesus Soares	2	Changed name, phone and email.	21	5
+1759	2017-04-19 06:24:44.221509+00	45	JAPAN'S GRANT ASSISTANCE FOR GRASSROOTS HUMAN SECURITY PROJECTS	2	Changed description. Changed file for funding offer document "FundingOfferDocument object". Changed file for funding offer document "FundingOfferDocument object". Changed file for funding offer document "FundingOfferDocument object". Changed file for funding offer document "FundingOfferDocument object". Changed file for funding offer document "FundingOfferDocument object". Changed file for funding offer document "FundingOfferDocument object". Changed file for funding offer document "FundingOfferDocument object".	7	5
+1760	2017-04-19 06:25:04.827378+00	45	JAPAN'S GRANT ASSISTANCE FOR GRASSROOTS HUMAN SECURITY PROJECTS	2	No fields changed.	7	5
+1761	2017-04-19 06:45:47.973983+00	45	Japan’s Grant Assistance for Grass-roots Human Security Projects	3		7	5
+1762	2017-04-19 06:52:59.552686+00	46	Japan’s Grant Assistance for Grass-roots Human Security Projects	2	Changed description, application_end_date and all_districts. Added funding offer document "FundingOfferDocument object". Added funding offer document "FundingOfferDocument object".	7	5
+1763	2017-04-20 02:07:54.111779+00	4208	Ex.Mr. Hubertus Djatmiko Witjaksono	2	Changed name and primary_contact_of.	21	5
+1764	2017-04-20 02:09:53.366154+00	6148	Mr. Idhi Maryono	1	Added.	21	5
+1765	2017-04-20 05:47:50.102247+00	4046	Constantino Exposto	3		21	5
+1766	2017-04-20 05:49:19.287403+00	5299	Ex.Hikoyuki Ukai	2	Changed name.	21	5
+1767	2017-04-20 05:51:42.159699+00	6149	Mr. Hideaki Matco Moto	1	Added.	21	5
+1768	2017-04-20 05:52:44.653211+00	5299	Hikoyuki Ukai	2	Changed name and title.	21	5
+1769	2017-04-20 05:57:16.514174+00	5277	Gida Xavier Pereira	3		21	5
+1770	2017-04-20 06:03:00.161484+00	2700	Ana Delia Martins	3		21	5
+1771	2017-04-20 06:03:47.606224+00	4143	Ramalho Barreto	3		21	5
+1772	2017-04-20 06:04:56.085405+00	4147	Sheila Freitas	3		21	5
+1773	2017-04-20 06:09:11.211232+00	6015	Secretary	3		21	5
+1774	2017-04-20 06:09:24.949028+00	3710	Sergio Freitas	3		21	5
+1775	2017-04-20 06:11:25.569469+00	3095	Vincent Ashcort	3		21	5
+1776	2017-04-20 06:14:12.605353+00	2204	Dores M. da S. Gomes	3		21	5
+1777	2017-04-20 06:16:24.462581+00	2254	Pe. Antonio Tranfiguracao Pinto	3		21	5
+1778	2017-04-20 06:17:29.995345+00	4067	Pe. Hermenio Basilio Freitas Sequiera SDB	3		21	5
+1779	2017-04-20 06:18:04.927413+00	5579	Paulo J.Mendonca	3		21	5
+1780	2017-04-20 06:20:49.634799+00	986	Bill Tynan	3		21	5
+1781	2017-04-20 06:41:45.526733+00	5313	Jaoa Mariano Saldanha	2	Changed name, phone and email.	21	5
+1782	2017-04-20 06:47:31.442576+00	4903	Paula Xavier	2	Changed name, title and email.	21	5
+1783	2017-04-20 06:53:36.231184+00	2541	Julvencio Soares	2	Changed phone and email.	21	5
+1784	2017-04-20 07:20:22.202983+00	3931	Mr. Yoshitaka Hanada	3		21	5
+1785	2017-04-20 07:48:16.446666+00	4281	Mr. Oh Hyangkyun	3		21	5
+1786	2017-04-20 07:50:07.910311+00	2517	Seo Kyoung-Suk	3		21	5
+1787	2017-04-20 07:52:06.124803+00	2518	Nazarudin Bin Sallen	3		21	5
+1788	2017-04-20 07:54:11.560375+00	2519	Tim Mc Ivor	3		21	5
+1789	2017-04-20 07:55:17.011322+00	2639	Tony Fautua	3		21	5
+1790	2017-04-20 07:56:38.541927+00	4857	H. E. Mr. Jonathan Douglas Schwass	3		21	5
+1791	2017-04-20 08:07:08.844296+00	2527	Luis Barreira de Sousa	3		21	5
+1792	2017-04-20 08:09:25.987101+00	4497	Mr. Manuel Goncalves de Jesus	3		21	5
+1793	2017-04-20 08:11:35.798128+00	3918	Ms. Tawatchai Koopirom	3		21	5
+1794	2017-04-20 08:13:19.54872+00	2747	Suraphan Boonyamanop	3		21	5
+1795	2017-04-21 00:44:51.193723+00	1981	Many Hands International (MHI)	2	Changed active.	19	5
+1796	2017-04-21 01:01:35.015513+00	2562	Mr. Fabrizio Cesaretti	3		21	5
+1797	2017-04-21 01:03:41.257304+00	1509	Rosa Maria do Rosario Sousa	3		21	5
+1798	2017-04-21 01:06:13.598646+00	2802	Josefa Kaibete	3		21	5
+1799	2017-04-21 01:06:48.818587+00	5043	Jose Fatima Bere	3		21	5
+1800	2017-04-21 01:10:36.216627+00	5039	Maria Fernandes Mendes	3		21	5
+1801	2017-04-21 01:11:50.502414+00	5038	Vasco da Costa Gama	3		21	5
+1802	2017-04-21 01:28:33.774166+00	3796	Teresa Alita Verdial de Araujo	3		21	5
+1803	2017-04-21 01:30:36.199832+00	2064	United Nations Office on Drugs and Crime (UNODC)	2	Changed active.	19	5
+1804	2017-04-21 01:32:36.453909+00	785	Gilman Santos Exposto	3		21	5
+1805	2017-04-21 01:33:43.551807+00	421	Adelaide Marques Freitas Ena	3		21	5
+1806	2017-04-21 01:35:02.645689+00	2570	Mr. Craig Sugden	3		21	5
+1807	2017-04-21 01:35:08.18046+00	2149	Yohana Meluk	3		21	5
+1808	2017-04-21 01:35:51.072066+00	4446	Shane Rosenthal	3		21	5
+1809	2017-04-21 01:40:00.125201+00	4310	Si Ju An	3		21	5
+1810	2017-04-21 01:40:26.581849+00	2521	Su Jian	3		21	5
+1811	2017-04-21 01:43:02.833765+00	4626	Mrs. Judith Ryan Fergin	3		21	5
+1812	2017-04-21 01:45:49.024689+00	5299	Hikoyuki Ukai	3		21	5
+1813	2017-04-21 01:47:20.937436+00	4759	Ex. John Seong	3		21	5
+1814	2017-04-21 01:47:26.87633+00	4208	Ex.Mr. Hubertus Djatmiko Witjaksono	3		21	5
+1816	2017-04-21 01:50:33.051409+00	2615	Nelia Menezes	3		21	5
+1817	2017-04-21 01:51:39.811092+00	2692	Me. Clare L. Q Garcillano, SPC	3		21	5
+1818	2017-04-21 01:53:44.843529+00	956	Rev. Agustinho de Vasconselhos	3		21	5
+1819	2017-04-21 01:55:27.289354+00	1606	Rafael Goncalves	3		21	5
+1820	2017-04-21 02:01:42.881925+00	5063	Apricio de Oliveira	3		21	5
+1821	2017-04-21 02:08:57.75874+00	6150	Joao Ndun	1	Added.	21	5
+1822	2017-04-21 02:10:44.817874+00	6151	H.E.Mrs. Vicky Barbara Poole	1	Added.	21	5
+1823	2017-04-21 02:12:40.82069+00	6019	H.E.Mrs. Vicky Barbara Poole	3		21	5
+1824	2017-04-21 02:15:48.356318+00	6151	H.E.Mrs. Vicky Barbara Poole	2	Changed organization.	21	5
+1825	2017-04-21 02:16:33.116528+00	6150	Joao Ndun	2	No fields changed.	21	5
+1826	2017-04-21 02:16:53.295855+00	5998	Rofina Aifunan	2	Changed primary_contact_of.	21	5
+1827	2017-04-21 02:20:04.850966+00	6152	Carlos Salsinha Menezes L.C.G	1	Added.	21	5
+1828	2017-04-21 02:21:46.174608+00	6131	Laurindo de Jesus dos Santos	2	Changed primary_contact_of.	21	5
+1829	2017-04-21 02:21:59.953068+00	4783	Laurindo de Jesus dos Santos	2	Changed primary_contact_of.	21	5
+1830	2017-04-21 02:23:55.836452+00	2242	Marcal Hornai Neto	2	No fields changed.	21	5
+1831	2017-04-21 02:27:09.617991+00	6153	Manuel dos  Santos	1	Added.	21	5
+1832	2017-04-21 02:28:57.950438+00	6154	Domingos Lemos da Costa	1	Added.	21	5
+1833	2017-04-21 02:32:01.429654+00	3726	Jose Valente	2	Changed primary_contact_of.	21	5
+1834	2017-04-21 02:36:36.988566+00	6129	Jacinto Baptista	2	Changed primary_contact_of.	21	5
+1835	2017-04-21 02:39:04.337271+00	6028	Antonio Alves	2	Changed primary_contact_of.	21	5
+1836	2017-04-21 02:45:43.176069+00	5173	Aguida Afonso	2	Changed primary_contact_of.	21	5
+1837	2017-04-21 02:52:43.742259+00	6027	Francisca Murti Tilman	2	Changed primary_contact_of.	21	5
+1838	2017-04-21 02:55:56.441766+00	6155	Hugo Natalino Correia Lebre	1	Added.	21	5
+1839	2017-04-21 02:57:15.296242+00	6156	Laurinda Tefa	1	Added.	21	5
+1840	2017-04-21 02:58:30.731148+00	6157	Jose Soares	1	Added.	21	5
+1841	2017-04-21 02:59:47.922068+00	6158	Feliszarda Monis	1	Added.	21	5
+1842	2017-04-21 03:01:00.814824+00	2799	Imaculada M. Soares	3		21	5
+1843	2017-04-21 03:01:31.480108+00	6159	Lurdes Mendonca Ramos	1	Added.	21	5
+1844	2017-04-21 03:02:58.145813+00	6160	Rosita Quenat	1	Added.	21	5
+1845	2017-04-21 03:04:45.318276+00	1603	Rosalina da Costa	3		21	5
+1846	2017-04-21 03:09:16.176862+00	6161	Daniel Soares	1	Added.	21	5
+1847	2017-04-21 03:11:07.450992+00	6130	Vasco da Silva	2	Changed primary_contact_of.	21	5
+1848	2017-04-21 05:32:34.910957+00	6162	Lucia Timo	1	Added.	21	5
+1849	2017-04-21 05:35:58.956435+00	5398	Amerco Lopes	2	Changed primary_contact_of.	21	5
+1850	2017-04-21 05:37:17.040095+00	6163	Rui Narciso Lopes	1	Added.	21	5
+1851	2017-04-21 05:39:22.948892+00	6164	Florinda do Santos	1	Added.	21	5
+1852	2017-04-21 05:42:16.123525+00	6118	Cecilia da Fonseca	2	Changed primary_contact_of.	21	5
+1853	2017-04-21 05:45:12.016206+00	6165	Domingas dos Santos	1	Added.	21	5
+1854	2017-04-21 05:46:35.852361+00	6166	Custodio Mali Dao	1	Added.	21	5
+1855	2017-04-21 05:47:45.690517+00	6167	Egas Moniz	1	Added.	21	5
+1856	2017-04-21 05:49:16.888653+00	5471	Merita Alves	2	Changed primary_contact_of.	21	5
+1857	2017-04-21 05:52:02.754067+00	2511	Sedelizio Monteiro Ximenes	2	Changed title and primary_contact_of.	21	5
+1858	2017-04-21 06:04:12.316946+00	5697	Norberto da Costa	2	Changed name, title, primary_contact_of and phone.	21	5
+1859	2017-04-21 06:08:13.516242+00	6013	Bernice Roldan	2	Changed primary_contact_of.	21	5
+1860	2017-04-21 06:16:52.909115+00	6168	Carlito da Costa Bobo	1	Added.	21	5
+1861	2017-04-21 06:17:50.989835+00	3090	Pierr Luc Chevaux	3		21	5
+1862	2017-04-21 06:21:54.336855+00	6168	Carlito da Costa Bobo	2	Changed organization.	21	5
+1863	2017-04-21 06:23:23.182067+00	6119	Dimitra Stojkov	2	Changed primary_contact_of.	21	5
+1864	2017-04-21 06:26:04.756057+00	5541	Joanna Walshe	2	Changed primary_contact_of.	21	5
+1865	2017-04-21 06:27:29.053961+00	5449	Graciana da C. H Boavida	2	Changed primary_contact_of.	21	5
+1866	2017-04-21 06:29:28.647217+00	3168	Naka Yama	2	Changed primary_contact_of.	21	5
+1867	2017-04-21 06:29:54.616657+00	1351	Yoko Ito	3		21	5
+1868	2017-04-21 06:34:34.933992+00	371	Susan Knight	3		21	5
+1869	2017-04-21 06:35:34.780242+00	5023	Victoria Gregory	2	Changed name and primary_contact_of.	21	5
+1870	2017-04-21 06:42:26.22454+00	6169	Kristina Silaban	1	Added.	21	5
+1871	2017-04-21 06:57:17.849459+00	6116	Lauriano Fernandes	2	Changed primary_contact_of.	21	5
+1872	2017-04-21 06:58:59.553047+00	6117	Veronica Belo	2	Changed primary_contact_of.	21	5
+1873	2017-04-21 07:01:13.076501+00	5991	Januario Natalino Soares da Silva	2	Changed primary_contact_of.	21	5
+1874	2017-04-21 07:02:50.891413+00	6046	Rosa Perpetua Boquifai	2	Changed primary_contact_of.	21	5
+1875	2017-04-21 07:04:37.076452+00	6170	Ivo Soares da Costa	1	Added.	21	5
+1876	2017-04-21 07:06:03.789012+00	6078	Joana Belminda	2	Changed primary_contact_of.	21	5
+1877	2017-04-21 07:07:10.482504+00	6089	Ildefonso Ribeiro	2	Changed primary_contact_of.	21	5
+1878	2017-04-21 07:10:52.140714+00	6087	Antonio Doutel Sarmento	2	Changed primary_contact_of.	21	5
+1879	2017-04-21 07:12:03.397682+00	6102	Luis Pinto	2	Changed primary_contact_of.	21	5
+1880	2017-04-21 07:14:14.975859+00	6075	Ilidio Gusmao	2	Changed primary_contact_of.	21	5
+1881	2017-04-21 07:15:50.664394+00	6105	Laulina Agusta Machado	2	Changed primary_contact_of.	21	5
+1882	2017-04-21 07:17:19.254133+00	6171	Chiquito da Costa	1	Added.	21	5
+1883	2017-04-21 07:18:44.053403+00	6009	Orlanda da Silva	2	Changed primary_contact_of.	21	5
+1884	2017-04-21 07:21:34.932583+00	6172	Lece A. Ramos	1	Added.	21	5
+1885	2017-04-21 07:24:27.466808+00	287	Fini Ba Timor (FITIM)	3		19	5
+1886	2017-04-21 07:26:32.197855+00	6059	Frederik Y. Juliao	2	Changed primary_contact_of.	21	5
+1887	2017-04-21 07:28:03.826179+00	6173	Maria Odete Fatima	1	Added.	21	5
+1888	2017-04-21 07:30:22.098738+00	6174	Leonel Ximenes Barboja	1	Added.	21	5
+1889	2017-04-21 07:31:58.549904+00	6133	Abilio Sarmento	2	Changed primary_contact_of.	21	5
+1890	2017-04-21 07:35:00.69853+00	6093	Martinho R. Pereira	2	Changed primary_contact_of.	21	5
+1891	2017-04-21 07:37:02.768687+00	6031	Zelia Fernandes	2	Changed primary_contact_of and email.	21	5
+1892	2017-04-21 07:39:38.522883+00	6175	Calisto Anunu Meco	1	Added.	21	5
+1893	2017-04-21 07:41:08.139883+00	6114	Aida S.L Goncalves	2	Changed primary_contact_of.	21	5
+1894	2017-04-21 07:43:30.195999+00	6110	Julio  Martins da Costa	2	Changed primary_contact_of.	21	5
+1895	2017-04-21 07:45:21.186436+00	6058	Josefina S.S. Vicente	2	Changed primary_contact_of.	21	5
+1896	2017-04-21 07:47:10.507965+00	6176	Hermenegildo dos Santos	1	Added.	21	5
+1897	2017-04-21 07:49:31.127826+00	6177	Agustinho Sequeira	1	Added.	21	5
+1898	2017-04-21 07:51:43.396125+00	6108	Natalino Lopes	2	Changed primary_contact_of.	21	5
+1899	2017-04-21 07:53:34.272818+00	6060	Juliana de Jesus	2	Changed primary_contact_of.	21	5
+1900	2017-04-21 07:55:40.575022+00	6081	Antonio dos Santos	2	Changed primary_contact_of.	21	5
+1901	2017-04-21 07:56:56.19735+00	6103	Damiao da Silva Pereira	2	Changed primary_contact_of.	21	5
+1902	2017-04-21 07:58:41.264846+00	5992	Benedictos Martins da Costa	2	Changed name and primary_contact_of.	21	5
+1903	2017-04-21 08:01:04.092179+00	6044	Mario Cardoso	2	Changed primary_contact_of.	21	5
+1904	2017-04-21 08:03:10.511773+00	6045	Sancho Belo do Rego	2	Changed primary_contact_of.	21	5
+1905	2017-04-24 00:05:33.158114+00	3047	Rev. Helena Maplani, STH	2	Changed primary_contact_of.	21	5
+1906	2017-04-24 00:12:04.732198+00	6112	Felismina Belo	2	Changed primary_contact_of.	21	5
+1907	2017-04-24 00:14:23.837975+00	6036	Leonel Lopes Mendonca	2	Changed primary_contact_of.	21	5
+1908	2017-04-24 00:16:18.012538+00	6178	Felisberto Monteiro	1	Added.	21	5
+1909	2017-04-24 00:18:43.708598+00	6003	Elizario Bianco da Costa	2	Changed primary_contact_of.	21	5
+1910	2017-04-24 00:23:01.985505+00	6109	Moises Clara	2	Changed primary_contact_of.	21	5
+1911	2017-04-24 00:25:16.026087+00	6086	Agustinha Gomes Madeira	2	Changed primary_contact_of.	21	5
+1912	2017-04-24 00:27:51.301737+00	6082	Jose Rangel	2	Changed primary_contact_of.	21	5
+1913	2017-04-24 00:30:36.904189+00	6092	Leao dos Santos	2	Changed primary_contact_of.	21	5
+1914	2017-04-24 00:32:00.597901+00	5473	Aderito Pereira Neves	2	Changed primary_contact_of.	21	5
+1915	2017-04-24 00:33:23.10493+00	6043	Noe Bernardino Ximenes	2	Changed primary_contact_of.	21	5
+1916	2017-04-24 00:35:48.216038+00	6040	Me. Lourenca, CIJ	2	Changed primary_contact_of.	21	5
+1917	2017-04-24 00:36:51.092143+00	6085	Carlos da Costa soares	2	Changed primary_contact_of.	21	5
+1918	2017-04-24 00:39:09.211603+00	6115	Justaquiu Fabiano Lasi	2	Changed primary_contact_of.	21	5
+1919	2017-04-24 00:40:27.667236+00	6039	Aderito de PINA	2	Changed primary_contact_of.	21	5
+1920	2017-04-24 00:41:44.746246+00	6113	Ozorio Leque	2	Changed primary_contact_of.	21	5
+1921	2017-04-24 00:49:36.250788+00	6069	Ana Jose Amaral	2	Changed primary_contact_of.	21	5
+1922	2017-04-24 00:49:47.065237+00	4442	Ana Jose Amaral	3		21	5
+1923	2017-04-24 00:51:08.453677+00	5342	Izaias Soares dos Reis	2	Changed primary_contact_of.	21	5
+1924	2017-04-24 00:52:29.76434+00	6047	Sebastiana S.M. Noronha	2	Changed primary_contact_of.	21	5
+1925	2017-04-24 00:54:10.167021+00	5535	Ramila Fatima da Costa	3		21	5
+1926	2017-04-24 00:54:50.268991+00	6090	Ramila Fatima da Costa	2	Changed primary_contact_of.	21	5
+1927	2017-04-24 00:56:10.778037+00	6179	Ermelinda L. Nono	1	Added.	21	5
+1928	2017-04-24 00:57:26.968555+00	6091	Manuel Hendrique	2	Changed primary_contact_of.	21	5
+1929	2017-04-24 00:59:13.033464+00	2969	Antonio B.S.da Silva	2	Changed primary_contact_of.	21	5
+1930	2017-04-24 01:00:21.581405+00	6062	Yasinta  Lujina C. das Regras	2	Changed primary_contact_of.	21	5
+1931	2017-04-24 01:02:06.734142+00	6072	Julio Freitas Gomes	2	Changed primary_contact_of.	21	5
+1932	2017-04-24 01:03:23.924164+00	6126	Cipriana da Conceicao	2	Changed primary_contact_of.	21	5
+1933	2017-04-24 01:05:24.268974+00	6180	Filomeno Goncalves Magalhaes	1	Added.	21	5
+1934	2017-04-24 01:07:49.465756+00	6104	Joaquim de Fatima Countinho	2	Changed primary_contact_of.	21	5
+1935	2017-04-24 01:09:50.028718+00	5689	Roberto Aleixo da Cruz	2	Changed name, primary_contact_of, phone and email.	21	5
+1936	2017-04-24 01:15:26.347015+00	6042	Jaime Mouzinho	2	Changed primary_contact_of.	21	5
+1937	2017-04-24 01:16:45.045862+00	6080	Pe.Basilio Ximenes	2	Changed primary_contact_of.	21	5
+1938	2017-04-24 01:21:22.807277+00	6077	Andre da Costa	2	Changed primary_contact_of.	21	5
+1939	2017-04-24 01:22:44.718919+00	6055	Saturlino Ricardo Freitas	2	Changed primary_contact_of.	21	5
+1940	2017-04-24 01:24:21.682333+00	6079	Silvano Rodrigues Xavier	2	Changed primary_contact_of.	21	5
+1941	2017-04-24 01:26:08.317551+00	6181	Judite Martins	1	Added.	21	5
+1942	2017-04-24 01:27:58.57391+00	1657	Domingos dos Reis Baptista	2	Changed primary_contact_of.	21	5
+1943	2017-04-24 01:29:07.149013+00	5989	Feliciano da Costa Araujo	2	Changed primary_contact_of.	21	5
+1944	2017-04-24 01:30:25.063976+00	6041	Lew COMACOSE	2	Changed primary_contact_of.	21	5
+1945	2017-04-24 02:36:42.181332+00	6068	Paulino Fernandes	2	Changed primary_contact_of.	21	5
+1946	2017-04-24 02:37:53.401913+00	6029	Elisa dos Santos	2	Changed primary_contact_of.	21	5
+1947	2017-04-24 02:39:25.896411+00	6106	Martinho Ferreira, L.Ec	2	Changed primary_contact_of.	21	5
+1948	2017-04-24 02:40:50.564363+00	6084	Rui Manuel da Silva Miguel	2	Changed primary_contact_of.	21	5
+1949	2017-04-24 02:43:52.576233+00	6182	Bendita de Jesus Amaral	1	Added.	21	5
+1950	2017-04-24 02:45:15.208492+00	6107	Euklidis Torrezao	2	Changed primary_contact_of.	21	5
+1951	2017-04-24 02:46:01.925228+00	6037	Bartolomeu dos Reis Soares	2	Changed primary_contact_of.	21	5
+1952	2017-04-24 03:21:40.481443+00	6008	Ricar Pasquela dos Santos	2	Changed primary_contact_of.	21	5
+1953	2017-04-24 03:38:41.162942+00	2975	Juliana Temparaja	2	Changed name, title, primary_contact_of and phone.	21	5
+1954	2017-04-24 03:41:02.280163+00	6065	Sonja Lizts	2	Changed primary_contact_of.	21	5
+1955	2017-04-24 03:42:10.36452+00	6048	Richard Holloway	2	Changed primary_contact_of.	21	5
+1956	2017-04-24 03:43:53.365984+00	6018	Viliame Bill Seruvakula	2	Changed primary_contact_of.	21	5
+1957	2017-04-24 03:45:30.329473+00	6049	Mario Pereira	2	Changed primary_contact_of.	21	5
+1958	2017-04-25 01:20:33.76357+00	385	Fundasaun Siao	2	Changed active.	19	5
+1959	2017-04-26 01:43:45.067434+00	6183	Ramila Fatima da Costa	1	Added.	21	5
+1960	2017-04-26 01:45:41.156494+00	6184	Rui Narciso Lopes	1	Added.	21	5
+1961	2017-04-26 01:47:04.340649+00	6185	Joana dos Santos	1	Added.	21	5
+1962	2017-04-26 01:48:35.098309+00	6030	Paolo Spantigati	2	Changed primary_contact_of.	21	5
+1963	2017-04-26 01:54:54.096517+00	6186	H. E. Mr. Peter Leo  Doyle	1	Added.	21	5
+1964	2017-04-26 01:59:17.880932+00	6063	Maximo Zaldivar Calderon	2	Changed primary_contact_of.	21	5
+1965	2017-04-26 02:01:00.848709+00	6169	Kristina Silaban	2	Changed organization and primary_contact_of.	21	5
+1966	2017-04-26 02:02:44.004704+00	6074	Elfridus Cardoso	2	Changed primary_contact_of.	21	5
+1967	2017-04-26 02:28:46.552299+00	6064	Tomas Stenstom	2	Changed primary_contact_of.	21	5
+1968	2017-04-26 02:39:09.138726+00	6001	Domingos Savio Henrique Madeira	2	Changed primary_contact_of.	21	5
+1969	2017-04-26 02:40:27.08467+00	6069	Ana Jose Amaral	2	Changed primary_contact_of.	21	5
+1970	2017-04-26 02:41:54.76491+00	5051	Gaspar Quintino Freitas	2	Changed primary_contact_of.	21	5
+1971	2017-04-26 02:47:20.373697+00	6111	Faustino dos Santos Pereira	2	Changed primary_contact_of.	21	5
+1972	2017-04-26 02:49:00.508703+00	6088	Joannes Baptista da Costa Gomes	2	Changed primary_contact_of.	21	5
+1973	2017-04-26 02:55:14.221593+00	6122	Elias da Conceicao	2	Changed primary_contact_of.	21	5
+1974	2017-04-26 03:01:55.727904+00	6083	Laura Menezes Lopes	2	Changed name and primary_contact_of.	21	5
+1975	2017-04-26 03:17:34.919189+00	6070	Francelino da Silva Lisias	2	Changed primary_contact_of.	21	5
+1976	2017-04-26 03:20:06.696212+00	6034	Dr. Anwar Alsaid	2	Changed primary_contact_of.	21	5
+1977	2017-04-26 06:53:29.029242+00	2504	Moises Charles	2	Changed email.	21	5
+1978	2017-04-26 07:04:45.415229+00	2334	Fundasaun Dezenvolvimento Comunitaria (FUDECO)	2	Changed active.	19	5
+1979	2017-04-26 23:52:47.657665+00	4700	Hyenocheol Kang	2	Changed name and email.	21	5
+1980	2017-04-27 00:05:54.392506+00	5582	Mr. Bolormaa Agmabaazar	2	Changed email.	21	5
+1981	2017-04-27 00:19:39.56442+00	2955	Joana do Santos	3		21	5
+1982	2017-04-27 00:20:19.265642+00	6185	Joana dos Santos	2	Changed organization.	21	5
+1983	2017-04-27 00:22:12.450904+00	5395	Lurdes Sarmento	2	Changed title, primary_contact_of and phone.	21	5
+1984	2017-04-27 00:38:06.857006+00	5347	Joaquim da Costa Tavares	2	Changed email.	21	5
+1985	2017-04-27 00:53:23.038837+00	5342	Isaias Soares dos Reis	2	Changed name and email.	21	5
+1986	2017-04-27 02:07:07.918083+00	6187	Armando da Silva	1	Added.	21	5
+1987	2017-04-27 02:08:51.55615+00	6187	Armando da Silva	2	Changed primary_contact_of.	21	5
+1988	2017-04-27 03:13:19.787402+00	6092	Leao dos Santos	2	Changed email.	21	5
+1989	2017-04-27 05:56:43.051748+00	2654	Eugenia Correia	3		21	5
+1990	2017-04-27 06:09:38.110752+00	6188	Evaristo Maria Soares	1	Added.	21	5
+1991	2017-04-27 06:10:15.343077+00	6131	Laurindo de Jesus dos Santos	2	Changed title, primary_contact_of and phone.	21	5
+1992	2017-04-27 06:11:30.878711+00	5476	Emirenciana Nipu	2	Changed phone.	21	5
+1993	2017-04-27 06:14:25.15289+00	4203	Maria Araujo	3		21	5
+1994	2017-04-27 06:15:55.79458+00	6144	Claudina Arlinda Viana	2	Changed name.	21	5
+1995	2017-04-27 06:16:11.049449+00	477	Colin Collett Van Rooyen	3		21	5
+1996	2017-04-27 06:17:52.152867+00	5243	Kathy Rychards	2	Changed phone.	21	5
+1997	2017-04-27 06:19:44.837064+00	444	Grupo Feto Maubara	2	Changed active.	19	5
+1998	2017-04-27 06:32:24.260418+00	4533	Madalena Kasian Bidau Soares	2	Changed phone.	21	5
+1999	2017-04-27 07:04:25.911516+00	2130	Eduardo Tchea Exposto	2	Changed email.	21	5
+2000	2017-04-28 01:32:01.390546+00	5335	Graciano Domingos de Araujo	2	Changed phone.	21	5
+2001	2017-04-28 01:32:44.687161+00	5336	Quintão Masa	2	Changed phone and email.	21	5
+2002	2017-04-28 01:48:05.468876+00	6001	Hilario do Carmo	2	Changed name and phone.	21	5
+2003	2017-04-28 04:55:55.221114+00	2557	Marcos da Silva Ramos	2	Changed email.	21	5
 \.
 
 
