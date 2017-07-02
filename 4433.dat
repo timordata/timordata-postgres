@@ -9974,6 +9974,16 @@
 10511	donormapping_fundingoffer	5844	46	f
 10513	donormapping_fundingofferdocument	5847	110	t
 10512	donormapping_fundingofferdocument	5846	111	t
+10514	nhdb_organizationplace	5848	856	t
+10515	nhdb_organization	5848	2002	f
+10516	nhdb_organization	5849	2645	t
+10517	nhdb_organizationplace	5850	534	t
+10518	nhdb_organizationplace	5851	323	t
+10519	nhdb_organization	5851	694	f
+10520	nhdb_organization	5850	1222	f
+10521	nhdb_projectplace	5852	\N	t
+10522	nhdb_projectplace	5853	\N	t
+10523	nhdb_projectplace	5854	\N	t
 \.
 
 
