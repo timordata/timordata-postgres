@@ -11366,11 +11366,8 @@
 11903	library_author	6392	167	f
 11904	library_author	6394	167	f
 11905	library_publication	6395	459	t
-11906	nhdb_organization	6396	\N	t
 11907	suggest_suggest	6397	6396	t
 11908	suggest_suggest	6398	6396	t
-11909	library_publication	6399	\N	t
-11910	nhdb_project	6400	\N	t
 11911	nhdb_projectperson	6401	396	t
 11912	nhdb_project	6402	24886	t
 11913	nhdb_projecttype	6402	1	f
@@ -11378,6 +11375,30 @@
 11915	nhdb_projecttype	6403	1	f
 11916	nhdb_organizationplace	6404	439	t
 11917	nhdb_organization	6404	186	f
+11920	nhdb_projectplace	6407	\N	t
+11923	nhdb_projectplace	6410	3774	t
+11928	nhdb_projectplace	6415	5572	t
+11927	nhdb_projectplace	6414	5573	t
+11926	nhdb_projectplace	6413	5574	t
+11925	nhdb_projectplace	6412	5575	t
+11924	nhdb_projectplace	6411	5576	t
+11929	nhdb_project	6410	24846	f
+11930	geo_adminarea	6410	8	f
+11922	nhdb_projectplace	6409	5577	t
+11921	nhdb_projectplace	6408	5578	t
+11919	nhdb_projectplace	6406	5579	t
+11918	nhdb_project	6405	25122	t
+11910	nhdb_project	6400	25123	t
+11909	library_publication	6399	460	t
+11931	nhdb_project	6407	24846	f
+11906	nhdb_organization	6396	2661	t
+11932	nhdb_organization	6416	2660	t
+11933	library_publication	6417	459	t
+11934	nhdb_organizationplace	6418	534	t
+11935	nhdb_project	6419	24846	t
+11936	nhdb_projecttype	6419	1	f
+11937	nhdb_organization	6418	1222	f
+11938	nhdb_project	6420	25127	t
 \.
 
 
