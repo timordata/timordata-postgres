@@ -365,7 +365,6 @@
 524	Grupu Feto Mota Ulun	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7732 6317	\N	\N	\N	\N	\N
 522	Grupo Comunidade Weradek	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7776 8910	\N	\N	\N	\N	\N
 519	Grupu Antigos Combatentes	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7724  2550	\N	\N	\N	\N	\N
-518	Grupo Veternario Join	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7738 4009	(+670)  7749 0887	\N	\N	\N	\N
 510	Grupo Suporta Inan Manatutu	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7730 9656	(+670)  7736 0690	\N	\N	\N	\N
 509	Grupo Suporta Inan Liquica	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7737 6373	\N	\N	\N	\N	\N
 505	Grupo Sao Tobias	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7734 1961	\N	\N	\N	\N	\N
@@ -394,7 +393,6 @@
 452	Grupo Habelar Dezenvolvimento	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7727 2564	(+670)  7796 6136	\N	\N	\N	\N
 443	Grupo Feto Liquica	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7732 6317	\N	\N	\N	\N	\N
 440	Grupo Feto Forte Kuluguisa	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7726 5904	(+670)  7734  9305	\N	\N	\N	\N
-435	Grupo Emansipasaun FFTL	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7734 9301	(+670)  7743 9897	\N	\N	\N	\N
 423	Grupo Comunidade Casabauk	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7735 0762	\N	\N	\N	\N	\N
 421	Grupo Comunidade Buburnaro	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7724 6381	\N	\N	\N	\N	\N
 422	Grupo Comunidade Buka Hatene (GCBH) Metinaro	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7744 1213	\N	\N	\N	\N	\N
@@ -419,6 +417,8 @@
 536	Klibur Oan Kiak (KLOK)	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2017-04-28	(+670)  7726 0639	\N	\N	\N	\N	\N
 1233	Mother Support Group (MSG)	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-08-10	(+670)  7731 7415					
 525	Grupo Girasol	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-09-14	(+670)  7737 6369					
+518	Grupo Veternario Join	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-09-20	(+670)  7738 4009	(+670)  7749 0887				
+435	Grupo Emansipasaun FFTL	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-09-20	(+670)  7734 9301	(+670)  7743 9897				
 389	Fundasaun Hafoun Rai Timor ( FHRT)	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2016-03-23	(+670)  331 0411	(+670)  7729 7699	infofhrt@gmail.com	\N	\N	\N
 388	Tecnologia Komputador  Timor Leste (TEKOMTIL)	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2016-03-23	(+670)  7729 3207	(+670)  7735 7593	\N	\N	\N	\N
 1309	Grupo Onu Boot Lesu	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7726 7537	\N	\N	\N	\N	\N
@@ -511,7 +511,6 @@
 238	East Timor Wave	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2016-03-23	(+670)  7723 3870	(+670)  7727 8106	\N	\N	\N	\N
 2113	Balos Foundation	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2016-03-23	(+670)  7728 9596	\N	sabinofitun@gmail.com	\N	\N	\N
 230	DSRSG for Governance Support  Development And Humanitarian Coordination (UNRC/HC/UNDP RR)	\N	\N	\N	\N	\N	UN	f	\N	\N	\N	\N	2016-03-23	(+670)  331 3539	\N	finn.reske-nielsen@undp.org/reke-nielsen@un.org	\N	\N	\N
-1376	Grupo Raifun, Ritabou, Ramascora (R3)	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7733 0099	\N	\N	\N	\N	\N
 223	Diak Timor (DT)	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2016-03-23	(+670)  7740 2431	\N	diaktimorst@gmail.com	\N	\N	\N
 1273	Grupo Moris Hakmatek	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7770 2597	\N	\N	\N	\N	\N
 1944	Buka Naroman (BN)	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2016-03-23	(+670)  7769 6689	(+670)  7732 2394	\N	\N	\N	\N
@@ -534,6 +533,7 @@
 229	Daughters of Mary Help of the Christians (FMA Timor Leste)	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2016-09-15	(+670)  7724  8509	(+670)  331 7415	economatin@yahoo.com	\N	\N	\N
 196	Comunidade Recursos de Ambiente (COREA)	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2016-09-16	(+670)  7713 1273	(+670)  7743 4908	\N	\N	\N	\N
 221	Development of Knowledge and Research Foundation (DENORE)	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2016-09-13	(+670)  7799 7106	(+670)  7711 1120	denore11@yahoo.com	\N	\N	\N
+1376	Grupo Raifun, Ritabou, Ramascora (R3)	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-09-25	(+670)  7733 0099					
 294	Foin Sa'e Catolica (FOSCA), Viqueque	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-05-18	(+670)  7727 3806	\N	foinsaekatolik@yahoo.co.id / paroquia.viqueque@yahoo.com	\N	\N	\N
 199	Consello Solidariedade Universitariu Timor loro sae	\N	\N	\N	\N	\N	NN	f	\N	\N	\N	\N	2016-03-23	(+670)  7723 7189	\N	\N	\N	\N	\N
 2112	Amor Foundation	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2016-09-13	(+670)  7723 2304	(+670) 7724 4846	amor_foundation@ymail.com	\N	\N	\N
@@ -609,7 +609,6 @@
 68	Associasao Amor da Patria	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2016-03-23	(+670)  77315793/ 7733 9583	(+670)  7728 0848/ 7723 6455	\N	\N	\N	\N
 66	Associasaun Radio Komunidade Timor Leste (ARKTL)	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2016-03-23	(+670)  332 4476	(+670)  7723 9945	arktlracom@gmail.com	\N	\N	\N
 64	Associasaun Leno ba Atoni Enclave Oe-cusse (ALEBAO)	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2016-03-23	(+670)  7739 3261	(+670)  7744 2359	alebaooecusse@yahoo.com	\N	\N	\N
-1986	Mata Dalan ba Agricultura Atabae (MATAK)	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7728 5828	\N	matak.atabae@gmail.com	\N	\N	\N
 61	Associasaun Haburas Povo	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2016-03-23	(+670)  7728 0011	\N	\N	\N	\N	\N
 58	Associasaun Popular dos Empresario de Timor-Leste (APETIL-NASIONAL)	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2016-03-23	(+670)  7742 4300	\N	\N	\N	\N	\N
 1073	Haburas / Matres	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7730 3692	\N	\N	\N	\N	\N
@@ -650,6 +649,7 @@
 20	Alliance of Friend for Medical Care in East Timor (AFMET)	\N	\N	\N	\N	\N	INGO	t	\N	\N	\N	\N	2017-04-20	(+670)  7523 7204	(+670)  7767 7148	afmet@tkk.att.ne.jp	\N	\N	\N
 1384	ChildFund Timor Leste	\N	\N	\N	\N	\N	INGO	t	\N	\N	\N	\N	2017-06-05	(+670)  332 3828 / (+670) 7839 8601		BRoldan@ChildFund.org	(+670)  331 0527	www.childfund.org	
 84	Ba Futuru	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2017-07-07	(+670)   7797 7052	(+670)  332 2437	zomarcal@gmail.com		www.bafuturu.org	http://www.facebook.com/pages/Ba-Futuru-For-t
+1986	Mata Dalan ba Agricultura Atabae (MATAK)	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-09-20	(+670)  7728 5828		matak.atabae@gmail.com			
 5	Associasaun Haburas Capasidade Atoni Enclave (AHCAE)	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2016-03-23	(+670)  7754 4333	(+670)  7711 8845	ahcae_tl@yahoo.co.id/datilelo@gmail.com	\N	\N	\N
 4	Acarape Building Communication Foundation (ABC)	\N	\N	\N	\N	\N	INGO	f	\N	\N	\N	\N	2016-03-23	0419 835 644/0419 835 644	\N	\N	8030 (Through untaet DDO	\N	\N
 1158	Kaebauk (KbK)	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2016-03-23	\N	\N	\N	\N	\N	\N
@@ -707,9 +707,9 @@
 1207	Estrela Plus	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2016-09-20	(+670)  7733 1030	(+670)  7729 8071	etrelaplus.easttimor@gmail.com	\N	\N	\N
 1186	Fundasaun Feto Hadomi Familia (FHF)	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2017-07-07	(+670)  7724 0512		tinafhf@yahoo.com			
 1160	Search For Common Ground (SFCG)	\N	\N	\N	\N	\N	INGO	t	\N	\N	\N	\N	2016-11-15	(+670)  7723 6935	\N	jdesousa@sfcg.org/ josevicente@gmail.com	\N	\N	\N
-1177	Grupo Haburas Actividades Feto Manufahi (HAKFEM)	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2017-04-27	(+670)  7731 7298	(+670)  7758 5488	\N	\N	\N	\N
 1165	Fundasaun Moris Rasik	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2017-04-27	(+670)  7741 6824	(+670)  7745 5253	morisrasik@yahoo.com / lola@morisrasik.com	\N	\N	\N
 1168	Justice and Peace Comission/komisaun Justisa e Paz	\N	\N	\N	\N	\N	AC	t	\N	\N	\N	\N	2017-08-09	(+670)  7726 0294		jpcdili.2009@gmail.com			
+1177	Grupo Haburas Actividades Feto Manufahi (HAKFEM)	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-09-20	(+670)  7731 7298	(+670)  7758 5488				
 1223	Haburas Organizasaun Dezenvolvimento (HOD)	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2016-03-23	(+670)  7732 6419	\N	\N	\N	\N	\N
 1231	Halibur Oan Timor fo Liman ba Malu (HOTFLIMA)	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2016-03-23	(+670)  7741 1610	\N	\N	\N	\N	\N
 1234	Feto Politika Haburas Demokrasia no Unidade (FPHDU)	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7731 9641	\N	\N	\N	\N	\N
@@ -964,7 +964,6 @@
 2190	Conservation International	\N	\N	\N	\N	\N	INGO	t	\N	\N	\N	\N	2016-03-23	(+670)  331 0016	(+670)  7718 2054	tdale@conservation.org	\N	\N	\N
 2126	Andorinhas	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2016-03-23	(+670)  7725 9748	\N	\N	\N	\N	\N
 2120	MUDA - Associacao Para A  Protecao e Promocao dos Direitus Humanos	\N	\N	\N	\N	\N	INGO	f	\N	\N	\N	\N	2016-03-23	(+670)  7831 6950	(+670)  7705 2000	mudadireitoshumanos@gmail.com	\N	\N	\N
-2252	Grupo Pareng Biseaung	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7587 9062	\N	\N	\N	\N	\N
 2088	Fundasaun Loroleon	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2016-05-05	(+670)  7715 7638	\N	\N	\N	\N	\N
 2067	Masino Foundation Timor Leste (FTL)	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2016-05-05	(+670)  7744 3387	(+670)  7744 7630	masinofundation@yahoo.com	\N	\N	\N
 2075	Grupo Acadirugudang	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-05-10	(+670)  7700 7699	\N	\N	\N	\N	\N
@@ -990,6 +989,7 @@
 2110	Grupo Haburas Moris Holsa	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-08-15	(+670)  7762 3993	(+670)  7760 4664				
 2076	Grupo Bilibala Olaria Manatuto	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2017-08-15	(+670)  7587 7767					
 2359	Rede ba Rai	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2017-08-25	(+670)  7724 9388		redebarai13@gmail.com			
+2252	Grupo Pareng Biseaung	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-09-20	(+670)  7587 9062					
 2125	Asosiasaun Chega ba Ita (Acbit)	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2016-03-23	(+670)  7723 7267	(+670)  7738 2863	acbit@chegabaita.org	\N	\N	\N
 2153	Institute of International Education (IIE)	\N	\N	\N	\N	\N	INGO	t	\N	\N	\N	\N	2016-03-23	(+670)  7795 9421	\N	SMugabi@iie.org	\N	\N	\N
 2127	Asistensia Legal ba Feto no Labarik (ALFELA)	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2016-03-23	(+670)  331 0282	(+670)  7724 4304	merita.correia@alfela.tl	\N	\N	\N
@@ -998,7 +998,6 @@
 2136	Grupo Seguta Covalima	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7742 7393	\N	\N	\N	\N	\N
 2137	Grupo Moris Foun Matai	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7799 8645	\N	\N	\N	\N	\N
 2143	Centro Juventude  Aileu	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7738 0199	\N	josevalente@yahoo.com	\N	\N	\N
-2148	Grupo Lalisuk Oe-cusse	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7845 0488	\N	\N	\N	\N	\N
 2149	Grupo Lian Labarik no Asaun	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7783 2608	\N	\N	\N	\N	\N
 2170	Creative Children Timor Leste (CC-TL)	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2016-03-23	(+670)  7798 3900	\N	benditosoares1@gmail.com	\N	\N	\N
 2171	Halibur Assuwain  Timor Oan (HATO)	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2016-03-23	(+670)  7743 5587	\N	\N	\N	\N	\N
@@ -1018,7 +1017,6 @@
 2269	Grupo Feto Foin Sae	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7780 5328	\N	\N	\N	\N	\N
 2231	Grupo Fetri	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7809 6248	\N	\N	\N	\N	\N
 2234	Radio Comunidade Lian Tata Mailau	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7725 8263	(+670)  7709 4577	radiocomunidadeainaro@sapo.timorleste	\N	\N	\N
-2260	Grupo Pasensia Ba Moris Diak	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7823 6533	\N	\N	\N	\N	\N
 2239	Grupo Remajeleju	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7726 5767	\N	\N	\N	\N	\N
 2242	Grupo Haburas Goronto	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7808 7792	\N	\N	\N	\N	\N
 2256	Grupo Haburas Tialai	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  7648 2075	\N	\N	\N	\N	\N
@@ -1054,14 +1052,13 @@
 2186	Timor Leste Coalition for Education (TLCE)	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2017-08-15	(+670)  7739 4839	(+670) 7794 0356				
 2240	Grupo Feto Halibur Maudemo	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-08-15	(+670)  7502 2164	(+670)  7556 0919				
 2138	Grupo Mate Restu Covalima	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-08-15	(+670)  7742 7393					
-2285	Grupo Kooperativa ba Futuru	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2017-08-15	(+670)  7733 9323	(+670)    7751 8236				
+2260	Grupo Pasensia Ba Moris Diak	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-09-20	(+670)  7823 6533					
 2184	Counterpart International	\N	\N	\N	\N	\N	INGO	f	\N	\N	\N	\N	2017-09-18	(+670) 331 0189	(+670)  7810 3008	ctanner@counterpart.org			
+2285	Grupo Kooperativa ba Futuru	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-09-20	(+670)  7733 9323	(+670)    7751 8236				
+2148	Grupo Lalisuk Oe-cusse	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-09-20	(+670)  7845 0488					
 2264	Grupo Feto Buka Moris	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7841 0157	\N	\N	\N	\N	\N
-2266	Grupo Haburas Natureza	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7852 8379	\N	\N	\N	\N	\N
 2267	Grupo Haburas Lis Marobo ( HALIMAR)	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7784 1808	\N	\N	\N	\N	\N
-2268	Grupo Rewa	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7728 6717	\N	\N	\N	\N	\N
 2273	Grupo Kun Hun Ba Futuru	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	\N	\N	\N	\N	\N	\N
-2275	Youth Development Program	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7772 8147	\N	ydpcentre@yahoo.com	\N	\N	\N
 2276	Grupo Cloi Aut	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	\N	\N	\N	\N	\N	\N
 2278	Foin Saé Kadalak buka ba Nati	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7725 6924	(+670) 7711 7022	\N	\N	\N	\N
 2295	Klibur Feto Maluk	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7774 0137	\N	\N	\N	\N	\N
@@ -1069,7 +1066,6 @@
 2301	Centro Comunidade Buka Hatene (CCBH)	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7772 3907	\N	\N	\N	\N	\N
 2303	Radio Comunidade Ermera	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7730 8631	\N	joaninhomaia@yahoo.com	\N	\N	\N
 2304	Fundasaun Familia Hope	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2016-03-23	(+670)  75631002	\N	\N	\N	\N	\N
-2328	Grupo Inur Sacato	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7823 3171	\N	\N	\N	\N	\N
 2341	Grupo Fatu Bosa (FATBO)	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7758 3761	\N	\N	\N	\N	\N
 2345	Grupo Komunidade Hadomi Ambiente	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7792 6081	\N	\N	\N	\N	\N
 2351	Grupo Harii Komunidade (GHK)	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2016-03-23	(+670)  7542 8796	\N	\N	\N	\N	\N
@@ -1096,6 +1092,10 @@
 2300	Grupo Rai Didi'ak  ba Futuru (GRDF)	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-08-15	(+670)  7734 5171					
 2277	Coperasaun Sircula Ambiente ( COSIA)	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-08-15	(+670)  7562 0176					
 2305	Radio Comunidade 1912 Same	\N	\N	\N	\N	\N	CBO	t	\N	\N	\N	\N	2017-08-15	(+670)  7798 7850		vasco.dacosta@yahoo.co.id			
+2275	Youth Development Program	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-09-20	(+670)  7772 8147		ydpcentre@yahoo.com			
+2268	Grupo Rewa	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-09-20	(+670)  7728 6717					
+2266	Grupo Haburas Natureza	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-09-20	(+670)  7852 8379					
+2328	Grupo Inur Sacato	\N	\N	\N	\N	\N	CBO	f	\N	\N	\N	\N	2017-09-25	(+670)  7823 3171					
 298	Forum ONG Timor Leste (FONGTIL)	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2016-03-30	(+670)  7725 3144	(+670)  7725 2780	forumngo.tls@gmail.com, arsen_ctl@yahoo.com.au	\N	\N	\N
 2495	Technical Trainees Alumi Association Timor Leste (TTAA-TL))	\N	\N	\N	\N	\N	LNGO	t	\N	\N	\N	\N	2016-05-18	(+670)  7765 1386	(+670)  7567 7481	ttaa.timorleste@yahoo.com	\N	\N	Ttaa Timor Leste
 1208	Centro Direitu Ekonomiku Sosial Kultural (F-DESK)	\N	\N	\N	\N	\N	LNGO	f	\N	\N	\N	\N	2016-04-21	(+670)  7788 9723					
