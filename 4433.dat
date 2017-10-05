@@ -11652,6 +11652,9 @@
 12189	donormapping_fundingoffer	6563	61	t
 12190	donormapping_fundingoffer	6564	62	t
 12191	donormapping_fundingoffer	6565	\N	t
+12192	nhdb_organization	6566	2190	t
+12193	nhdb_project	6567	23613	t
+12194	nhdb_projecttype	6567	1	f
 \.
 
 
