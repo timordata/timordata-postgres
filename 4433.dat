@@ -11716,6 +11716,15 @@
 12253	nhdb_organization	6584	89	f
 12254	library_version	6586	1456	t
 12255	library_publication	6587	462	t
+12256	library_publication	6588	462	t
+12257	nhdb_organizationplace	6589	372	t
+12258	nhdb_organizationplace	6590	776	t
+12259	nhdb_organization	6590	882	f
+12260	nhdb_organization	6589	843	f
+12261	nhdb_organizationplace	6591	500	t
+12262	nhdb_organizationplace	6592	304	t
+12263	nhdb_organization	6592	631	f
+12264	nhdb_organization	6591	1115	f
 \.
 
 
