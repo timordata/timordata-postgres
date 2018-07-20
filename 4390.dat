@@ -1115,13 +1115,13 @@
 1507	library	version	upload_en	1385	150	/var/www/html/media/publications/PP_-_Marcel_reporting_20160510-1_2Z8dXYX.pdf	0	/var/www/html/media/thumbnails/150/library_version_1385_150_upload_en.jpg
 1508	library	version	cover_en	1386	150	/var/www/html/media/publication_covers/USAID_Timor-Leste_-_3_VC_Assessment_9.2.15_1_3.jpg	0	/var/www/html/media/thumbnails/150/library_version_1386_150_cover_en.jpg
 1511	library	version	upload_en	1387	150	/var/www/html/media/publications/Timor_Tourism_-_Donor_Activities_and__Resources-1.docx	0	404
-1510	library	version	cover_en	1387	150	/var/www/html/media/publication_covers/Timor_Tourism_-_Donor_Activities_and__Resources-1.docx	0	404
 1513	library	version	upload_en	1389	150	/var/www/html/media/publications/Timor_Tourism_USAID-Timor_RFI-472-16-000001_Final_Released-1.pdf	0	/var/www/html/media/thumbnails/150/library_version_1389_150_upload_en.jpg
 1514	library	version	cover_en	462	150	/var/www/html/media/publication_covers/UNICEF_2013_UNICEF_Timor-Leste_flood_emergency_-_situation_report_y0Ls1Tz.jpg	0	/var/www/html/media/thumbnails/150/library_version_462_150_cover_en.jpg
 1515	library	version	upload_en	462	150	/var/www/html/media/publications/UNICEF_2013_UNICEF_Timor-Leste_flood_emergency_-_situation_report.pdf	0	/var/www/html/media/thumbnails/150/library_version_462_150_upload_en.jpg
 1516	library	version	cover_en	374	150	/var/www/html/media/publication_covers/ILO_2008_Timor-Leste_key_labour_market_indicators_December_2008_ZBkNnYS.jpg	0	/var/www/html/media/thumbnails/150/library_version_374_150_cover_en.jpg
 1517	library	version	upload_en	374	150	/var/www/html/media/publications/ILO_2008_Timor-Leste_key_labour_market_indicators_December_2008.pdf	0	/var/www/html/media/thumbnails/150/library_version_374_150_upload_en.jpg
 1501	library	version	cover_en	1379	150	/var/www/html/media/publication_covers/Untitled_AsegMbZ.png	0	/var/www/html/media/thumbnails/150/library_version_1379_150_cover_en.jpg
+1510	library	version	cover_en	1387	150	/var/www/html/media/publication_covers/Timor_Tourism_-_Donor_Activities_and__Resources-1.docx	0	404
 1518	library	version	cover_en	424	150	/var/www/html/media/publication_covers/UNESCO_2011_Promoting_sub-regional_education_for_sustainable_development_in_South-East_Asia_yemj9LA.jpg	0	/var/www/html/media/thumbnails/150/library_version_424_150_cover_en.jpg
 1519	library	version	upload_en	424	150	/var/www/html/media/publications/UNESCO_2011_Promoting_sub-regional_education_for_sustainable_development_in_South-East_Asia.pdf	0	/var/www/html/media/thumbnails/150/library_version_424_150_upload_en.jpg
 1520	library	version	cover_tet	264	150	/var/www/html/media/publication_covers/TAF_2007_Books_for_Asia_-_East_Timor_-_Tetun_oqFoB30.jpg	0	/var/www/html/media/thumbnails/150/library_version_264_150_cover_tet.jpg
@@ -1388,6 +1388,17 @@
 1826	library	version	cover_tet	1454	150	/var/www/html/media/publication_covers/Belun_ALTSS_Tetun_low-compressed-for-web.pdf	0	/var/www/html/media/thumbnails/150/library_version_1454_150_cover_tet.jpg
 1832	library	version	cover_en	378	150	/var/www/html/media/publication_covers/ILO_2009_Fact_sheet_on_labour_market_information_LMI_project_in_Timor-Leste_ZGveECi.jpg	0	/var/www/html/media/thumbnails/150/library_version_378_150_cover_en.jpg
 1833	library	version	cover_en	379	150	/var/www/html/media/publication_covers/ILO_2009_Self_employment_promotion_and_enterprise_development_in_Timor-Leste_WZelG3s.jpg	0	/var/www/html/media/thumbnails/150/library_version_379_150_cover_en.jpg
+1834	library	version	cover_tet	1457	150	/var/www/html/media/publication_covers/12.jpg	0	/var/www/html/media/thumbnails/150/library_version_1457_150_cover_tet.jpg
+1840	library	version	upload_en	1458	150	/var/www/html/media/publications/Terteary_Education_Skills_Demand_in_Timor-Leste.pdf	0	/var/www/html/media/thumbnails/150/library_version_1458_150_upload_en.jpg
+1836	library	version	upload_en	1457	150	/var/www/html/media/publications/Enterprise_and_Skills_Survey_Report_of_2017.pdf	0	/var/www/html/media/thumbnails/150/library_version_1457_150_upload_en.jpg
+1837	library	version	cover_en	1457	150	/var/www/html/media/publication_covers/13.jpg	0	/var/www/html/media/thumbnails/150/library_version_1457_150_cover_en.jpg
+1838	library	version	cover_tet	1458	150	/var/www/html/media/publication_covers/demanda.JPG	0	/var/www/html/media/thumbnails/150/library_version_1458_150_cover_tet.jpg
+1841	library	version	cover_en	1458	150	/var/www/html/media/publication_covers/15.JPG	0	/var/www/html/media/thumbnails/150/library_version_1458_150_cover_en.jpg
+1850	library	version	cover_tet	1461	150	/var/www/html/media/publication_covers/cover_tetun.jpg	0	/var/www/html/media/thumbnails/150/library_version_1461_150_cover_tet.jpg
+1854	library	version	cover_tet	1129	150	/var/www/html/media/publication_covers/Vitima_Operasaun_Hatoo_Keixa_PR_TMR_Husu_Prosesa_Tuir_Lei_xwzo9V4.jpg	0	/var/www/html/media/thumbnails/150/library_version_1129_150_cover_tet.jpg
+1855	library	version	upload_tet	1129	150	/var/www/html/media/publications/Vitima_Operasaun_Hatoo_Keixa_PR_TMR_Husu_Prosesa_Tuir_Lei.pdf	0	/var/www/html/media/thumbnails/150/library_version_1129_150_upload_tet.jpg
+1852	library	version	upload_en	1461	150	/var/www/html/media/publications/LMO_Bulletin_No_7_2018_-_English_UUb1J5H.pdf	0	/var/www/html/media/thumbnails/150/library_version_1461_150_upload_en.jpg
+1853	library	version	cover_en	1461	150	/var/www/html/media/publication_covers/cover_english.JPG	0	/var/www/html/media/thumbnails/150/library_version_1461_150_cover_en.jpg
 \.
 
 
