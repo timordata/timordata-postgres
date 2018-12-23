@@ -3096,6 +3096,157 @@
 3137	2018-07-12 05:50:18.008067+00	5358	Umbelino Destero Cruz da Costa	2	Changed name, title and email.	21	5
 3138	2018-07-12 05:52:25.428692+00	2286	East Timor Blind Union (ETBU)	2	Changed phoneprimary, phonesecondary and email.	19	5
 3139	2018-09-05 01:34:10.952712+00	90	USAID’s Avansa Agrikultura Project   Request for Application (RFA)	2	Changed application_end_date.	7	5
+3140	2018-11-29 02:07:41.938106+00	7	Alldo	2	Changed password.	4	1
+3141	2018-12-12 00:21:37.017975+00	9	untl	2	Changed is_active.	4	7
+3142	2018-12-12 00:22:38.89885+00	9	untl	2	Changed is_staff.	4	7
+3143	2018-12-12 00:23:56.251009+00	8	Agapito	2	Changed is_active, is_staff and is_superuser.	4	7
+3144	2018-12-12 00:38:54.885867+00	7	Alldo	2	Changed password.	4	7
+3145	2018-12-12 00:47:56.242397+00	5282	Ex. Antoninho de Deus	2	Changed name and phone.	21	5
+3146	2018-12-12 00:50:12.899857+00	5467	Ex. Brigina Francisco M. Almeida	2	Changed name and phone.	21	5
+3147	2018-12-12 00:51:50.159103+00	2288	Ex. Constantino da C. C. C. X. E. Brandao	2	Changed name.	21	5
+3148	2018-12-12 00:53:16.75386+00	5933	Ex. Domingos da Costa Lopes	2	Changed name.	21	5
+3149	2018-12-12 00:54:49.461098+00	2307	Ex. Dominika H. Bupu	2	Changed name.	21	5
+3150	2018-12-12 00:55:55.026276+00	5935	Ex. Egildo dos Reis	2	Changed name.	21	5
+3151	2018-12-12 01:02:51.704143+00	2284	Eugenia Alves de Jesus	2	Changed title.	21	5
+3152	2018-12-12 01:03:45.891369+00	2284	Eugenia Alves de Jesus	2	Changed title.	21	5
+3153	2018-12-12 01:07:13.861828+00	5931	Ex. Fernando Carmo de Araujo	2	Changed name.	21	5
+3154	2018-12-12 01:10:00.294134+00	3757	Ex. Fernando da Costa	2	Changed name.	21	5
+3155	2018-12-12 01:16:53.534287+00	6203	Francisco J. da Costa	2	Changed title and phone.	21	5
+3156	2018-12-12 01:18:37.054116+00	6204	Ex. Gradiana M do Carmo	2	Changed name.	21	5
+3157	2018-12-12 01:19:49.477667+00	6201	Hipolito Moniz	2	Changed title.	21	5
+3158	2018-12-12 01:21:39.261626+00	6249	Ex. Joao Nogueria Ximenes	2	Changed name.	21	5
+3159	2018-12-12 01:22:46.513815+00	5156	Ex. Laurensius A. Lein	2	Changed name.	21	5
+3160	2018-12-12 01:24:14.009974+00	5932	Ex. Leonito do Nascimento	2	Changed name.	21	5
+3161	2018-12-12 01:37:12.882386+00	5151	Ex. Marcus da Dores Piedade	2	Changed name.	21	5
+3162	2018-12-12 01:41:55.46518+00	6234	Ex. Maria Gorety Elu	2	Changed name.	21	5
+3163	2018-12-12 01:43:28.053487+00	2320	Maria Marilia Ximenes Castro de Oliveira da Costa	2	Changed title.	21	5
+3164	2018-12-12 01:45:03.382174+00	2320	Maria Marilia Ximenes Castro de Oliveira da Costa	2	Changed title and phone.	21	5
+3165	2018-12-12 01:54:11.890717+00	5538	Miguel Nunes	3		21	5
+3166	2018-12-12 01:55:12.550626+00	6252	Ex. Miguel Nunes	2	Changed name and phone.	21	5
+3167	2018-12-12 01:57:15.919659+00	2326	Romana Guterres	2	Changed title and phone.	21	5
+3168	2018-12-12 02:00:33.803177+00	1234	Tito de Aquino	3		21	5
+3169	2018-12-12 02:01:45.339515+00	2600	Tereza Maria da Costa Santos	3		21	5
+3170	2018-12-12 02:18:40.86164+00	5152	Ex. Tonilia de Fatima dos Santos	2	Changed name.	21	5
+3171	2018-12-12 02:20:28.426149+00	6250	Ex. Victor Vidigal	2	Changed name.	21	5
+3172	2018-12-12 02:26:59.277384+00	6032	Ex. Zaimit de Carvalho	2	Changed name.	21	5
+3173	2018-12-14 00:59:17.249162+00	5720	Ex. Torry Peace	2	Changed name.	21	5
+3174	2018-12-14 01:00:51.633905+00	6310	David Palasits	1	Added.	21	5
+3175	2018-12-14 01:04:39.481075+00	117	Catholic Relief Services (CRS)	2	Changed email.	19	5
+3176	2018-12-14 01:15:30.889703+00	906	The Asia Foundation (TAF)	2	Changed phonesecondary.	19	5
+3177	2018-12-14 01:15:40.19996+00	3183	Todd Wassel	2	Changed phone.	21	5
+3178	2018-12-14 01:25:13.988032+00	3877	Fabiano Valente Franz	2	Changed name and phone.	21	5
+3179	2018-12-14 01:26:07.482841+00	989	World Vision East Timor	2	Changed phonesecondary.	19	5
+3180	2018-12-14 01:35:16.571373+00	6311	Angelo Pereira	1	Added.	21	5
+3181	2018-12-14 01:36:37.660645+00	3877	Fabiano Valente Franz	2	Changed title.	21	5
+3182	2018-12-14 01:47:14.86702+00	5864	Ex. Paul Terry	2	Changed name.	21	5
+3183	2018-12-14 01:48:48.249917+00	6312	Grishma Bista	1	Added.	21	5
+3184	2018-12-14 01:55:56.892321+00	719	Marie Stopes International Timor  Leste	2	Changed phoneprimary and email.	19	5
+3185	2018-12-14 05:00:41.19235+00	6313	Ambrosio Dias Fernandesm	1	Added.	21	5
+3186	2018-12-14 05:26:33.561432+00	6314	Dr. Karl-Heinz Frank	1	Added.	21	5
+3187	2018-12-14 05:33:34.427928+00	538	Gesellschaft fuer Internationale Zusammenarbeit (GIZ)	2	Changed phonesecondary.	19	5
+3188	2018-12-14 05:37:35.627242+00	1121	Embassy of the Republic of Philippines	2	Changed email.	19	5
+3189	2018-12-14 05:39:41.794268+00	6315	Mr. Abdulmaid Kiram Muin	1	Added.	21	5
+3190	2018-12-17 00:50:24.666826+00	2770	Ex. Jose Monteiro	2	Changed name and phone.	21	5
+3191	2018-12-17 01:07:05.899521+00	2770	Ex. Jose Monteiro	2	Changed phone.	21	5
+3192	2018-12-17 01:09:18.106304+00	6316	Abrao Monteiro	1	Added.	21	5
+3193	2018-12-17 01:13:01.657471+00	1228	Hadomi Timor (HT)	2	Changed phoneprimary, phonesecondary and email.	19	5
+3194	2018-12-17 01:47:08.684731+00	843	Rede Feto Timor Leste	2	Changed phonesecondary.	19	5
+3195	2018-12-17 01:48:19.368966+00	1828	Ex. Sabina Fernandes Seac	2	Changed name.	21	5
+3196	2018-12-17 01:50:59.734401+00	6317	Pascoela Aida Exposto	1	Added.	21	5
+3197	2018-12-17 02:02:29.520697+00	1828	Sabina Fernandes Seac	2	Changed name, title, primary_contact_of, phone and email.	21	5
+3198	2018-12-17 02:05:58.244186+00	1828	Sabina Fernandes Seac	2	Changed organization.	21	5
+3199	2018-12-17 02:12:13.908061+00	1160	Search For Common Ground (SFCG)	2	Changed active.	19	5
+3200	2018-12-17 02:37:58.533384+00	6318	Lee Chin-Bum	1	Added.	21	5
+3201	2018-12-17 02:39:29.208601+00	6319	Shin Joong-il	1	Added.	21	5
+3202	2018-12-17 02:40:44.556269+00	5459	Ex. H. E. Mr. Kim K i- Nam	2	Changed name.	21	5
+3203	2018-12-17 02:42:28.384825+00	6320	Lee Chul-hee	1	Added.	21	5
+3204	2018-12-17 02:44:32.367732+00	4473	Ex. H. E. Mrs. Chitra Devi V. Ramiah	2	Changed name.	21	5
+3205	2018-12-17 02:45:48.133345+00	6321	Sarimah	1	Added.	21	5
+3206	2018-12-17 02:47:08.405804+00	6321	Sarimah Akbar	2	Changed name and title.	21	5
+3207	2018-12-17 02:53:07.166954+00	6321	H. E. Ms. Sarimah Akbar	2	Changed name.	21	5
+3208	2018-12-17 02:55:02.694884+00	6318	H. E. Mr. Lee Chin-Bum	2	Changed name.	21	5
+3209	2018-12-17 03:04:49.462159+00	6322	Mr Jonathan Schwass	1	Added.	21	5
+3210	2018-12-17 03:05:45.780089+00	6151	Ex. H. E. Mrs. Vicky Barbara Poole	2	Changed name.	21	5
+3211	2018-12-17 03:11:04.031009+00	6323	H. E. Mr Mr Jonathan Schwass	1	Added.	21	5
+3212	2018-12-17 05:34:27.939835+00	6324	H. E. Mr. Aldemo Garcia Junior	1	Added.	21	5
+3213	2018-12-17 05:35:39.24809+00	4580	Ex. H. E. Mr. José Amir da Costa Dornellis	2	Changed name.	21	5
+3214	2018-12-17 05:36:46.095873+00	6324	H. E. Mr. Aldemo Garcia Junior	2	Changed organization.	21	5
+3215	2018-12-17 06:48:01.815841+00	6312	Grishma Bista	2	Changed phone.	21	5
+3216	2018-12-17 06:48:32.206203+00	6052	Grishma Bista	3		21	5
+3217	2018-12-17 07:11:42.024203+00	1167	Elisabeth Lino de Araujo	2	Changed title.	21	5
+3218	2018-12-18 00:45:47.292421+00	6325	Imelda Liliana Tarung	1	Added.	21	5
+3219	2018-12-18 02:46:41.176788+00	4508	Ex. Maria do Rosario Fatima Correia	2	Changed name.	21	5
+3220	2018-12-18 02:49:29.430891+00	4762	Laura Afonso de Jesus	2	Changed phone.	21	5
+3221	2018-12-18 02:52:40.739844+00	6326	Antoninho Marques	1	Added.	21	5
+3222	2018-12-18 06:30:40.980098+00	1106	Action For Change Foundation (ACF)	2	Changed phoneprimary.	19	5
+3223	2018-12-18 06:31:31.372032+00	5021	Veronica de Sousa	2	Changed title.	21	5
+3224	2018-12-18 06:32:21.915454+00	5021	Veronica de Sousa	2	Changed title.	21	5
+3225	2018-12-18 06:34:21.807972+00	2495	Jose de Jesus	2	Changed title.	21	5
+3226	2018-12-18 06:39:14.093537+00	6327	Pedro da Silva	1	Added.	21	5
+3227	2018-12-18 07:28:10.275801+00	2127	Asistensia Legal ba Feto no Labarik (ALFELA)	2	Changed phonesecondary and email.	19	5
+3228	2018-12-19 00:21:15.773555+00	6151	H. E. Mrs. Vicky Barbara Poole	2	Changed name.	21	5
+3229	2018-12-19 00:54:47.805983+00	5458	H. E. Mr.  Danai Karnpoj	2	Changed name.	21	5
+3230	2018-12-19 01:36:31.825108+00	6255	Ex. Sonja Lizts	2	Changed name.	21	5
+3231	2018-12-19 01:40:42.913116+00	6328	Cath Barker	1	Added.	21	5
+3232	2018-12-19 01:43:21.595664+00	2663	Partnership for Human Development	2	Changed phoneprimary and email.	19	5
+3233	2018-12-19 02:28:29.572287+00	20	Alliance of Friend for Medical Care in East Timor (AFMET)	2	Changed phonesecondary.	19	5
+3234	2018-12-19 02:44:56.650868+00	20	Alliance of Friend for Medical Care in East Timor (AFMET)	2	Changed active.	19	5
+3235	2018-12-19 05:07:21.639448+00	39	Associasaun Batista Vida Mais Timor Leste (ABVMTL)	2	Changed phoneprimary and phonesecondary.	19	5
+3236	2018-12-19 05:15:44.313133+00	2029	Silvania Maria da Costa	2	Changed phone.	21	5
+3237	2018-12-19 05:21:29.620245+00	39	Associasaun Batista Vida Mais Timor Leste (ABVMTL)	2	Changed active.	19	5
+3238	2018-12-19 05:24:53.077253+00	79	Australia Relief and Mercy Services (ARMS)	2	Changed phoneprimary and phonesecondary.	19	5
+3239	2018-12-19 05:36:13.32289+00	1525	Domingos Jose	3		21	5
+3240	2018-12-19 05:44:24.577813+00	6329	Helder Terseira	1	Added.	21	5
+3241	2018-12-19 05:44:56.341317+00	6329	Helder Terseira	2	Changed title.	21	5
+3242	2018-12-19 07:32:53.850505+00	6329	Helder Teixeira	2	Changed name and email.	21	5
+3243	2018-12-19 08:09:02.159557+00	9	Adventist Development and Relief Agency - Timor Leste  (ADRA)	2	Changed phonesecondary.	19	5
+3244	2018-12-19 08:11:19.929213+00	6330	Moises Henriques Pinto	1	Added.	21	5
+3245	2018-12-19 08:12:32.228534+00	6331	Manuel Ximenes	1	Added.	21	5
+3246	2018-12-19 08:23:53.486651+00	6332	Filomena Tilman	1	Added.	21	5
+3247	2018-12-19 23:49:12.698218+00	6301	Eusebio dos Santos	2	Changed phone.	21	5
+3248	2018-12-19 23:57:48.627719+00	6333	Ermenegildo da Silva	1	Added.	21	5
+3249	2018-12-20 00:33:55.438628+00	112	Caritas Australia (CA)	2	Changed phoneprimary.	19	5
+3250	2018-12-20 02:01:14.616123+00	2048	Handicap International	2	Changed phonesecondary and email.	19	5
+3251	2018-12-20 02:03:09.120304+00	4173	Ex. Jose Pires	2	Changed name and email.	21	5
+3252	2018-12-20 02:05:38.208502+00	2048	Handicap International	2	No fields changed.	19	5
+3253	2018-12-20 02:09:25.03891+00	4173	Lourenco Gusmao	2	Changed name, title, phone and email.	21	5
+3254	2018-12-20 02:10:52.598932+00	4852	Amanda Crookes	3		21	5
+3255	2018-12-20 02:13:26.770693+00	4505	Fernando de Araujo	3		21	5
+3256	2018-12-20 02:23:51.535741+00	4160	Ex. Terence McCaughan	2	Changed name.	21	5
+3257	2018-12-20 02:32:00.928845+00	879	Services for the Health in Asia and Africa Regions - Timor Leste  (SHARE)	2	Changed phonesecondary.	19	5
+3258	2018-12-20 02:45:10.201487+00	5248	Ex. Laurentina Ximenes	2	Changed name.	21	5
+3259	2018-12-20 02:48:56.06393+00	4297	Tome Guterres	2	Changed organization, phone and email.	21	5
+3260	2018-12-20 05:07:43.987517+00	182	Comunidade Edmund Rice (CER)	2	Changed phoneprimary and phonesecondary.	19	5
+3261	2018-12-20 05:18:34.348407+00	4108	Br. Frank Henessy	2	Changed phone.	21	5
+3262	2018-12-20 05:20:34.981787+00	1978	BR. Wiliam Francis Tynan	2	Changed phone.	21	5
+3263	2018-12-20 05:29:42.604652+00	1988	Unidade Feto Ba Dezenvolvimento (UFD)	2	Changed phoneprimary and email.	19	5
+3264	2018-12-20 05:38:10.691052+00	879	Services for the Health in Asia and Africa Regions - Timor Leste  (SHARE)	2	Changed email.	19	5
+3265	2018-12-20 05:45:44.367173+00	5615	Bendita de Jesus Amaral	2	Changed name, title, phone and email.	21	5
+3266	2018-12-20 05:51:36.287288+00	6182	Bendita de Jesus Amaral	3		21	5
+3267	2018-12-20 05:51:56.509178+00	5615	Bendita de Jesus Amaral	2	Changed title.	21	5
+3268	2018-12-20 06:02:06.821215+00	6334	Diana Putman	1	Added.	21	5
+3269	2018-12-20 06:05:11.693279+00	14	Ahisaun Foundation (AF)	2	Changed phoneprimary and phonesecondary.	19	5
+3270	2018-12-20 06:48:07.56825+00	2617	Alfa Star (AS)	2	Changed phoneprimary and phonesecondary.	19	5
+3271	2018-12-20 06:51:38.544644+00	6096	Albertino Emilio Franca	2	Changed phone.	21	5
+3272	2018-12-20 07:00:36.592402+00	2146	Amakai Foundation Timor Leste (AMF-TL)	2	Changed phoneprimary and phonesecondary.	19	5
+3273	2018-12-20 07:02:33.948168+00	4561	Herminia Fatima  Nheu Pereira	2	Changed phone.	21	5
+3274	2018-12-20 07:50:37.756275+00	2146	Amakai Foundation Timor Leste (AMF-TL)	2	Changed phoneprimary.	19	5
+3275	2018-12-20 07:51:55.944715+00	4561	Herminia Fatima  Nheu Pereira	2	Changed phone.	21	5
+3276	2018-12-20 08:00:32.240835+00	4403	Mr. Ronny Lindstrom.	2	Changed phone.	21	5
+3277	2018-12-20 08:03:07.891291+00	1025	United Nations Fund Population (UNFPA)	2	Changed phoneprimary.	19	5
+3278	2018-12-21 01:36:37.198591+00	3909	Ex. Aida Oliveira	3		21	5
+3279	2018-12-21 01:37:40.226681+00	6333	Ermenegildo da Silva	2	No fields changed.	21	5
+3280	2018-12-21 01:38:17.941494+00	1560	Ex. Joanita Madeira de Fatima	3		21	5
+3281	2018-12-21 02:19:22.523146+00	286	Ex. Fernando da Costa C. V. Pires	3		21	5
+3282	2018-12-21 02:39:23.761309+00	6335	Fabiola de Jesus dos Santos	1	Added.	21	5
+3283	2018-12-21 05:13:48.008106+00	2624	Hadia Moris Comunidade ba Futuru (HMCF)	2	Changed active.	19	5
+3284	2018-12-21 05:15:43.355481+00	6109	Moises Clara	3		21	5
+3285	2018-12-21 05:19:31.093088+00	902	Juventude Rai Bina (JRB)	2	Changed active.	19	5
+3286	2018-12-21 05:20:39.030006+00	2606	Quintino Amaral Barros	3		21	5
+3287	2018-12-21 05:25:40.599457+00	556	Fundasaun Hadomi Malu	2	Changed active and phoneprimary.	19	5
+3288	2018-12-21 05:27:15.876537+00	4574	Joaninho Amaral	2	Changed phone.	21	5
+3289	2018-12-21 06:02:08.072275+00	2670	Associacao Rede Covalima (ARC)	1	Added.	19	5
+3290	2018-12-21 06:09:37.989116+00	6336	Quintino Amaral Barros	1	Added.	21	5
 \.
 
 
