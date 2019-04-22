@@ -2,7 +2,6 @@
 2	657	Rua de Avenida Cidade de Beja Vila Verde - Dili- Timor Leste	0101000020E6100000C12A1ADD66645F40E1A4AF78432521C0	(+670)  331 2207	sally.bannah@grm.tl
 3	150	Rua de Suco Manutasi  Ainaro Vila -  Timor- Leste	0101000020E610000084C62D6D85605F408DE273E586EB21C0	(+670)  7732 7672	\N
 4	360	Rua de Suai Loro Covalima Ex. Bia hula Office Suai,Timor-Leste	0101000020E6100000FBCADD4A3B505F40ACB432A765B222C0	(+670)  7727 5654	\N
-119	80	Rua Avenida Presidente Nicolau Lobato - Bairo Formosa - Dili, Timor Leste (Apartment 204 Plaza Hotel)	0101000020E6100000DB832273AB615F40F53DC272102321C0	(+670)   7724 5209	Jdesousa@australianvolunteers.com
 6	422	Rua de Sabuli - Metinaro - Dili, Timor Leste	0101000020E6100000D57F1BE2936D5F400AD8B2E4AF1821C0	(+670)  7744 1213	\N
 7	687	Rua de Lahomea - Maliana - Bobonaro	0101000020E61000006042250D7F4F5F409484BAD2560322C0	(+670)  7728 2660	\N
 18	986	Rua de UN House Caicoli Street. Dili, Timor-Leste	0101000020E6100000864500C80D655F40CD838620932021C0	(+670)  7723 1310	dageng.liu@wfp.org
@@ -14,6 +13,7 @@
 15	939	Rua de Praia dos Coqueiros- Comoro-Dom Aleixo, (Besik Timor Plaza nia Sorin dalan ba IOB), Dili- Timor- Leste	0101000020E610000047EF2273AB615F401534C272102321C0	(+670)  7727 4163	timorleste@trianglegh.org
 16	940	Rua Dom Alexio Corte Real - Fomento,  Mandarin - Bebora- Dili, Timor Leste (Joint with CRS)	0101000020E61000002C5EDD3E9F645F401698E6A56E1C21C0	(+670)  332 2375	krobertson@trocairetl.org
 17	949	Rua de Caicoli - Dili Timor- Leste (UN House)	0101000020E6100000CF4E7A5FE3645F40F571CA67D71E21C0	(+670)  7731 1685	marcella.willis@uncdf.org
+119	80	Apartment 204, The Plaza Hotel, Rua 30 de Agosto, Bairo dos Grilhos, Dili, Timor - Leste, (PO Box 295 Dili,Timor-Leste	0101000020E6100000DB832273AB615F40F53DC272102321C0	(+670)   7724 5209	Jdesousa@australianvolunteers.com
 19	965	Rua de Caicoli - Dili, Timor Leste (UN House)	0101000020E6100000CF4E7A5FE3645F40F571CA67D71E21C0	(+670)  331 2481	carlos.martins@undss.org
 20	1015	Rua de Suco Costa Oe-Cusse Pante Macassar A, Timor- Leste	0101000020E61000003305B51B81195F4083AD97FE857A22C0	(+670)  7727 4762	joseeta@yahoo.com.au
 21	1082	Rua de Rio de Janeiro Ailoklaran - Bairo Pite - Dili ,Timor- Leste	0101000020E610000060315E328E635F408CD6554DB22321C0	(+670)7333 4800	\N
@@ -276,6 +276,7 @@
 284	583	Rua de Aituri Laran Taibesse - Dili - Timor Leste	0101000020E610000098028BC897655F4084AE9411781F21C0	(+670)  7726 2331	\N
 285	585	Rua de - Centro Laruara - Fuiloro, Lospalos Timor-Leste	0101000020E6100000F80C1F19A1C05F40747FC6E0160521C0	(+670)  7737 7897	\N
 286	586	Rua de Santo  Antonio de Motael, Farol Dili, Timor- Leste	0101000020E61000008CB3245069645F40D10C15DD721A21C0	(+670)  331  0389	railulik@yahoo.com
+287	589	Rua de Avenida Audian Dili- Timor Leste (Ex IRI Office)	0101000020E61000005546009063655F40C716D8A7931C21C0	(+670)  7712 2612	xylia.ingham@healthallianceinternational.org
 298	614	Rua de Adminstrasaun Policia Gleno Ermera, Timor- Leste	0101000020E6100000E15F6C70AE5A5F40B888D4523B7B21C0	(+670) 7748 8813	etica_gleno@yahoo.com
 289	2159	Rua de Baricafa - Luro - Lautem- Lospalos - Timor- Leste	0101000020E6100000CD642B8D89B45F40730603C0CC2B21C0	(+670)  7562 0176	tlmdf@yahoo.co.id
 290	594	Rua de 12 October, Quintal Kiik, Dili Timor Leste	0101000020E6100000D3EACD5F47655F40A972CECC8F1F21C0	(+670)  7723 6446	\N
@@ -313,7 +314,6 @@
 310	653	Rua de Setubal, Colmera Dili-Po Box 275- Timor- Leste	0101000020E61000000569DD3E9F645F4030A0E6A56E1C21C0	(+670)  332 3883	luis@jsmp.tl
 308	648	Rua Praia dos Coqueiros, No 3 Comoro Dili Timor-Leste (front Dili International School)	0101000020E6100000609F245069645F40060C15DD721A21C0	(+670)  331 2420	tm_oso_ret@jica.go.jp
 318	675	Rua de Liquica Road Tibar, Po Box 453, Dili, Timor- Leste	0101000020E610000058B39B077A5F5F40860243944A3621C0	(+670)  7723 2016	Joaquim_srs@yahoo.com
-287	589	Rua de Avenida Nu'u Laran, Bairo dos Grilos (near Ex TAF Office)- Dili, Timor- Leste	0101000020E61000005546009063655F40C716D8A7931C21C0	(+670)  7712 2612	xylia.ingham@healthallianceinternational.org
 330	1954	Rua de Seical - Baucau, Dili Timor Leste	0101000020E6100000BC4DE7EC5FA15F4087DC97A7E80121C0	(+670)  7775 4609	\N
 331	707	Rua de Triloca - Baucau Vila	0101000020E6100000A973205747975F40F08DB35732FC20C0	(+670)  7725 0049	fredygeronimo@yahoo.com
 332	712	Rua de Lospalos Central, Suco Fuiluru- Lautem- Timor-Leste	0101000020E6100000F80C1F19A1C05F40747FC6E0160521C0	(+670)  7736 7159	luzeiro2002@yahoo.com
@@ -933,6 +933,7 @@
 1002	2180	Rua de Suco Seloi Malere- Aileu Vila- Timor- Leste	0101000020E6100000583A4A1E62635F4029B25EA8696E21C0	(+670) 7750 1345, 7658 2111	abysymesakmesak@yahoo.com
 985	2157	Rua de Fohorem - Covalima, Timor Leste	0101000020E6100000A2B203CFE3475F409D21C5FA059422C0	(+670)  7730 2616	\N
 986	2158	Rua de Culuhun Kraik - Bemori (St Paulo House Compund)- Dili TL	0101000020E6100000E0C8696EE2655F40E3F68B82401E21C0	(+670)  332 3623	\N
+984	906	Avenida Luro Mata, Bairro Metin II, Dili, Timor-Leste	0101000020E6100000DB832273AB615F40F53DC272102321C0	(+670)  331 3457	pauline.tweedie@asiafoundation.org.
 988	2161	Rua de  Delta  01 Comoro Dili - Timor Leste	0101000020E610000047EF2273AB615F401534C272102321C0	(+670)  7724 7808	\N
 990	2165	Rua de Nurtutu- Maumeta- Bazartete- Liquisa Timor Leste	0101000020E61000002E51E3A398545F40D98B11DF883A21C0	(+670)  7564 8700	fmankledu@gmail.com
 993	2169	Rua de Ailok-laran-Babulu-Same, Manufahi-Timor- Leste	0101000020E6100000C8C6FA58376B5F40DB09D264961422C0	(+670)  7742 9923	tarak.ngo_13@gmail.com
@@ -973,7 +974,6 @@
 1019	2216	Rua de Balibo-  Batugade-  Timor- Leste	0101000020E610000097AF059C293F5F40F512D31916ED21C0	(+670)  7746 3277	fina.baliboclc@gmail.com
 987	2160	Rua de Praia da Memoria - Ulmera - Bazartete, Liquica- Timor-Leste	0101000020E6100000830409ADAE5C5F4084295850C93621C0	(+670) 7724 7274	cooperativamsbudahanra@gmail.com
 1006	2183	Rua de Comoro River Road- Dili,Timor- Leste	0101000020E6100000DB832273AB615F40F53DC272102321C0	(+670)  7706 1535	paula.xavier@isat.tl
-984	906	Avenida Luro Mata, Bairro Metin II, Dili, Timor-Leste	0101000020E6100000DB832273AB615F40F53DC272102321C0	(+670)  331 3457	Todd.wassel@asiafoundation.org
 1009	2186	Rua de Caicoli Street - Dili Timor- Leste (Kampaun FONGTIL)	0101000020E6100000D3277A5FE3645F40726FCA67D71E21C0	(+670)  7739 4839	\N
 1035	2239	Rua de Kampung Baru,  Suai Vila - Suco Debos- Timor- Leste	0101000020E610000002293A5D394D5F400C6D9DDFCAA322C0	(+670)  7726 5767	\N
 1036	2253	Rua de Bairo Rembormo Ailili - Manatuto- Timor- Leste	0101000020E61000008C559FB90E7F5F40DE855862FF2321C0	(+670)  7590 7621	\N
@@ -1031,7 +1031,7 @@
 1062	2285	Rua de Pojada Posto Antigo  Daisua- Same Vila -Timor- Leste	0101000020E61000003D5CC6DB77695F406537D203541A22C0	(+670) 7733 9323 / 7751 8236	\N
 1072	2305	Rua de Postu Antigu Same Vila- Timor- Leste	0101000020E610000085B7A9AFBE685F40AB9A452D90FC21C0	(+670)  7798 7850	vasco.dacosta@yahoo.co.id
 1092	2348	Rua de Manatuto Vila (Besik Monomentu Manatuto Vila),Timor-Leste	0101000020E6100000DA4971ABD5815F402B32F100822F21C0	(+670)  7808 9136	\N
-769	1384	Rua de  Governador Laserda de Maia, Vila Verde, Dili- Timor- Leste	0101000020E61000000B5E1ADD66645F4003A5AF78432521C0	(+670)  332 3828	broldan@childfund.org.au
+301	620	Rua Jacinto de Candido No 36, Bairo Formosa Former Portuguese Red Cross Building/ ex-Panti Asuhan, Dili, Timor-Leste	0101000020E610000006D1FF1754655F40B58045882F1C21C0	(+670)  331 0452	\N
 1094	2350	Rua de Baucau, Suco Bahu - Timor-Leste	0101000020E61000000C88A332B59B5F4041A7F4F1B9EF20C0	(+670)  7731 3924	\N
 1095	2351	Rua de Ililai - Lautem, Timor-Leste	0101000020E6100000F07E88DEB0AE5F40303F4CFA4BE620C0	(+670)  7542 8796	\N
 1096	2352	Rua de suco Daisua, Manufahi Timor-Leste	0101000020E6100000D8E0C6DB77695F408539D203541A22C0	(+670)  7804 3482	\N
@@ -1045,14 +1045,14 @@
 220	353	Rua de Bispo de Madeiros Mascarenhas Dili, Timor- Leste	0101000020E6100000000000F41D655F407906D6ECCF1F21C0	(+670)  332 3855	info@alolafoundation.org / hr@alolafoundation.org
 94	16	Rua de Aileu - Suco Malere - Aileu Vila, Timor- Leste (besik edifisiu PNTL)	0101000020E610000058A6FFAF71645F404748826D407421C0	(+670)  7753 7830	nataliaximenesctra@ymail.com
 897	2048	Rua de Praia dos Coqueiros - Dili, Timor- Leste (front Dili International School)	0101000020E61000002B5600989A625F409D2E53C9E11A21C0	(+670)  331 1174, (+670) 7734 5520	lo.gusmao@hi.org
+769	1384	Rua do Loriku No. 3 Suco Colmera, Aldeia Rai Nain Dili, Timor Leste	0101000020E61000000B5E1ADD66645F4003A5AF78432521C0	(+670)  332 3828	broldan@childfund.org.au
+430	764	#C, Metro Apartments, Rua 30 de Agosto, Bidau Lecidere, Dili Timor Leste	0101000020E6100000A62F006453655F40B69E30A6CC1A21C0	(+670)  7738 2594	timorleste@vsa.org.nz
 733	1938	Rua de suco Saboria, Aileu-Vila - Timor- Leste	0101000020E610000000000020B5655F404BCFAD28417121C0	(+670)  7605 4707	sentru.stica@gmail.com
 1118	2569	Rua de Aileu Vila, Timor- Leste	0101000020E6100000FFFFFF7FA1645F4063E0E1EDFA7E21C0	(+670)  7729 9149	\N
 1119	2570	Rua de Batamac Buras, Laclubar Manatuto Timor-Leste	0101000020E61000000000000049795F404B997C605A9021C0	(+670)  7779 4678 /  7739 8881	\N
 446	254	Avenida de Becora Dili, Timor-Leste	0101000020E6100000FFFFFF772F665F406E7DDCDFD52021C0	(+670)  7725 7371	salvator52@hotmail.com
 384	871	Rua de Colmera Dili - Timor- Leste	0101000020E61000000569DD3E9F645F4030A0E6A56E1C21C0	(+670)  7724  0199	santalumlum@yahoo.com
 994	2170	Rua de Bebonuk (near School Salom), Dili Timor-Leste	0101000020E610000001000050B5625F40ED1E86C9C01721C0	(+670)  7798 3900	benditosoares1@gmail.com
-430	764	Rua 30 de Agosto  Bidau Licedere- Dili, Timor- Leste (behind Hotel Katuas)	0101000020E61000000000006453655F40819D30A6CC1A21C0	(+670)  7738 2594	timorleste@vsa.org.nz
-301	620	Rua Jacinto de Candido No 36, Bairo Formosa Former Portuguese Red Cross Building/ ex-Panti Asuhan, Dili, Timor-Leste	0101000020E61000000000001854655F406B8445882F1C21C0	(+670)  331 0452	cdacostabobo@icrc.org
 579	1356	Rua de Bairo-Pite , Aldeia Rio de Janeiro Dili Timor-Leste	0101000020E6100000000000D0D9635F409B31DBE3181F21C0	(+670)  7732 7914	\N
 509	1140	Rua de Perumahan Liquica Block C, Timor- Leste	0101000020E610000001000080FC545F40B74EBC36B13621C0	(+670)  7725 8241	marcosilvaramos@yahoo.com
 1113	2504	Rua de Lahane Oriental (Joint with Ministery Health Office) Dili, Timor-Leste)	0101000020E6100000FFFFFF3FD1655F4003A1BC56CA2321C0	(+670)   7717 9263 / (+670)  7737 7807	orlanda_75@yahoo.com
