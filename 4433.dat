@@ -12856,6 +12856,30 @@
 13420	nhdb_organizationplace	7031	430	t
 13421	nhdb_organization	7031	764	f
 13422	donormapping_fundingofferdocument	7032	192	t
+13423	library_publication	7033	283	t
+13424	library_publication	7034	283	t
+13425	nhdb_organizationplace	7035	430	t
+13426	nhdb_organization	7035	764	f
+13427	nhdb_organizationplace	7036	401	t
+13428	nhdb_organization	7036	912	f
+13429	nhdb_project	7037	24635	t
+13430	nhdb_organizationplace	7038	365	t
+13431	nhdb_project	7039	24178	t
+13432	nhdb_organization	7038	821	f
+13433	nhdb_organization	7040	330	t
+13434	nhdb_organization	7041	330	t
+13435	nhdb_organization	7042	330	t
+13436	nhdb_organization	7043	330	t
+13437	nhdb_organizationplace	7044	451	t
+13438	nhdb_organization	7044	330	f
+13439	nhdb_organization	7045	119	t
+13440	nhdb_organizationplace	7046	673	t
+13441	nhdb_organization	7046	119	f
+13442	nhdb_organization	7047	119	t
+13443	nhdb_organization	7048	119	t
+13444	nhdb_organization	7049	2675	t
+13445	nhdb_organization	7050	2675	t
+13446	nhdb_organization	7051	2675	t
 \.
 
 
